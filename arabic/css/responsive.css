@@ -49,7 +49,8 @@
     width: 600px;
   }
   .page_chairman .cont_right .cont_right_inner {
-    bottom: 150px;
+    /*bottom: 150px;*/
+    bottom: 0;
   }
   .charimans_numbers {
     top: 100px;
@@ -67,9 +68,9 @@
     position: absolute;
     top: 120px;
     left: 50px;
-    font-size: 15px;
-    line-height: 30px;
-    text-align: left;
+    font-size: 13px;
+    line-height: 25px;
+    text-align: right;
     font-weight: bold;
     width: 70%;
     margin: 0;

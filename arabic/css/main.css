@@ -1290,8 +1290,10 @@ span.h1 {
 
 .page_chairman .cont_left .screentop_para {
   margin: 50px 50px 50px 0;
+  overflow: hidden;
+  display: inline-block;
+  position: relative;
 }
-
 .monstr_hd_wrapper {
   position: relative;
   margin: 50px 0;
@@ -1421,6 +1423,7 @@ span.h1 {
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
+  overflow: hidden;
 }
 
 .charimans_numbers .ch_num_left table tr td:first-child {
@@ -2115,19 +2118,22 @@ span.h1 {
 /*menu screen*/
 
 .short_menu.topView {
-  top: 0;
+  top: 0 !important;
 }
 .short_menu.topView ul li {
-  background-color: #4F0F8C;
+  background-color: #4F0F8C !important;
 }
 .short_menu.topView ul li.sm_menu {
   background-color: #ff375e !important;
 }
 .short_menu.topView ul li.sm_menu a {
-  background-image: url('../img/icon_menu_box.png');
+  background-image: url('../img/icon_menu_box.png') !important;
 }
 .short_menu.topView ul li {
-  background-color: #4F0F8C;
+  background-color: #4F0F8C !important;
+}
+.short_menu.topView p{
+  color: #4f0f8c !important;
 }
 
 /*landing slider*/
@@ -2217,6 +2223,14 @@ span.h1 {
     background-size: 30px auto;
   }
 
+  .short_menu p {
+    text-align: center;
+    font-size: 18px;
+    margin: 5px 0;
+    font-weight: bold;
+    color: #fff;
+  }
+
   .cursor {
     position: fixed;
     top: 0;
@@ -2293,3 +2307,10 @@ span.h1 {
     opacity: 1;
   }
 /*landing wipes*/
+
+.page_chairman .mask_a,
+.page_financials .mask_a,
+.page_chairman .mask_a_vertical,
+.page_financials .mask_a_vertical{
+  display: none;
+}

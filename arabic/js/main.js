@@ -18,7 +18,7 @@ jQuery('document').ready(function(){
     return `<span>${i}</span>`;
   })
 
-  jQuery('.page_financials .cont_right > p').html(text);
+  // jQuery('.page_financials .cont_right > p').html(text);
 
 
   /*var financials_p2 = jQuery('.page_financials p.footer').html().split(' ');
@@ -357,10 +357,17 @@ jQuery(window).on('load', function(){
       }, 1000)
 
       if(jQuery('.menu_screen_wrapper').hasClass('reveal_mmenu')){
+        TweenMax.to('.short_menu', 1, {left: 0, top: '30px', ease: Power4.easeInOut})
+        TweenMax.to('.short_menu ul li', 1, {background: '#FF375E', ease: Power4.easeInOut})
+
         jQuery('.menu_screen_wrapper').toggleClass('reveal_mmenu');
       }
       else{
         menuSwiper.slideTo(0, 100);
+
+        TweenMax.to('.short_menu', 1, {left: '-120px', top: 0, ease: Power4.easeInOut})
+        TweenMax.to('.short_menu ul li', 1, {background: '#4F0F8C', ease: Power4.easeInOut})
+
         TweenMax.set(`.menu_screen_wrapper .swiper-slide .mask_layer`, {x: 0});
         TweenMax.set(`.menu_screen_wrapper .menu_items > div, .menu_screen_wrapper .menu_items > span`, {opacity: 0, y: 100});
 
@@ -377,20 +384,21 @@ jQuery(window).on('load', function(){
   }
 // menu slider
 
-/*document.addEventListener('wheel', function(e) {
+document.addEventListener('wheel', function(e) {
     
-    console.log(e.deltaY);
     var delta = e.deltaY;
 
-    if (delta > 0){
-      console.log('down')
+    if (delta > 0 && transition_complete){
+      jQuery('.nav_left').trigger('click')
+      // console.log('down')
     }
-    else{
-      console.log('up')
+    else if(transition_complete){
+      jQuery('.nav_right').trigger('click')
+      // console.log('up')
     }
 
     // e.preventDefault();
-}, { passive: false })*/
+}, { passive: false })
 
 
 //
@@ -510,7 +518,7 @@ jQuery(window).on('load', function(){
       else{
         var tlx = new TimelineMax()
         tlx.staggerFromTo('.landing_wipes1, .landing_wipes2, .landing_wipes3, .landing_wipes4, .landing_wipes5', 1, {left: '-100%'}, {left: 0, ease: Power4.easeInOut}, .1)
-        .to('.landing_wipes1, .landing_wipes2, .landing_wipes3, .landing_wipes4, .landing_wipes5', .5, {left: '100%', ease: Power4.easeInOut})
+        .to('.landing_wipes1, .landing_wipes2, .landing_wipes3, .landing_wipes4, .landing_wipes5', .8, {left: '100%', ease: Power4.easeInOut})
         
         current_slide--;
         
@@ -531,7 +539,7 @@ jQuery(window).on('load', function(){
     }
     setTimeout(function(){
       transition_complete = true;
-    }, 3500)
+    }, 3800)
   })
 
   // note, since direction is rtl in arabic, arrow left means next slide 
@@ -545,7 +553,7 @@ jQuery(window).on('load', function(){
       else{
         var tlx = new TimelineMax()
         tlx.staggerFromTo('.landing_wipes1, .landing_wipes2, .landing_wipes3, .landing_wipes4, .landing_wipes5', 1, {left: '100%'}, {left: 0, ease: Power4.easeInOut}, .1)
-        .to('.landing_wipes1, .landing_wipes2, .landing_wipes3, .landing_wipes4, .landing_wipes5', .5, {left: '-100%', ease: Power4.easeInOut})
+        .to('.landing_wipes1, .landing_wipes2, .landing_wipes3, .landing_wipes4, .landing_wipes5', .8, {left: '-100%', ease: Power4.easeInOut})
         
         current_slide++;
         
@@ -569,7 +577,7 @@ jQuery(window).on('load', function(){
     }
     setTimeout(function(){
       transition_complete = true;
-    }, 3500)
+    }, 3800)
   })
 // custom landing slider
 

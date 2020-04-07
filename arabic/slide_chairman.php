@@ -1,6 +1,13 @@
   <div class="page_chairman outer_wrapper">
   	<div class="cont_left">
   		<div class="screentop_para">
+
+        <div class="mask_a" style="width: 200%; height: 100%;">
+          <div class="maskl bk_pink col2"></div>
+          <div class="maskl bk_purple col3"></div>
+          <div class="maskr bk_purple col5"></div>
+        </div>
+
 	  		<h1>
 	  			<span class="h1 colr_white bk_pink" style="padding: 5px 15px 5px 15px;"> كلمة رئيس   </span> </h1>
 	  		<h1>
@@ -8,13 +15,18 @@
 	  		</h1>
   		</div>
 
-	  	<p class="colr_white">
-	  		حققت شركة الاتصالات السعودية (stc) خلال العام إنجازات مميزة، مكنتها من المضي قدماً إلى بُعد جديد في الخدمات الرقمية التي تثري حياة عملائنا وموظفينا، حيث تؤدي المجموعة دوراً محورياً في تمكين التحول الرقمي في المملكة العربية السعودية وفق رؤية المملكة العربية السعودية 2030 بالانسجام مع أهداف استراتيجية “تجرأ” للنمو في مسارات جديدة 
-	  	</p>
+	  	<p class="colr_white should_split">حققت شركة الاتصالات السعودية (stc) خلال العام إنجازات مميزة، مكنتها من المضي قدماً إلى بُعد جديد في الخدمات الرقمية التي تثري حياة عملائنا وموظفينا، حيث تؤدي المجموعة دوراً محورياً في تمكين التحول الرقمي في المملكة العربية السعودية وفق رؤية المملكة العربية السعودية 2030 بالانسجام مع أهداف استراتيجية “تجرأ” للنمو في مسارات جديدة</p>
 
 	  	<img src="img/img_chairman.png" class="art1" />
   	</div>
   	<div class="cont_right">
+
+      <div class="mask_a_vertical" style="width: calc( 100% + 200px ); height: 200%; right: -200px;">
+        <div class="maskl bk_purple col10" style="height: 50%;"></div>
+        <div class="maskl bk_white col10" style="height: 30%;"></div>
+        <div class="maskr bk_pink col10" style="height: 20%;"></div>
+      </div>
+      
       <div class="element_bars_hr" style="width: 300px;">
         <div class="leftbar bk_purple" style="width: 50%"></div>
         <div class="rightbar bk_pink" style="width: 50%"></div>
@@ -63,6 +75,11 @@
     </div>
 
     <div class="charimans_numbers">
+      <div class="mask_a" style="width: 200%; height: 100%;">
+        <div class="maskl bk_pink col2"></div>
+        <div class="maskl bk_purple col3"></div>
+        <div class="maskr bk_purple col5"></div>
+      </div>
       <div class="ch_num_left">
         <table>
           <tr>
