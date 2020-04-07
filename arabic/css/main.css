@@ -2117,7 +2117,15 @@ span.h1 {
 .short_menu.topView {
   top: 0;
 }
-
+.short_menu.topView ul li {
+  background-color: #4F0F8C;
+}
+.short_menu.topView ul li.sm_menu {
+  background-color: #ff375e !important;
+}
+.short_menu.topView ul li.sm_menu a {
+  background-image: url('../img/icon_menu_box.png');
+}
 .short_menu.topView ul li {
   background-color: #4F0F8C;
 }
@@ -2195,7 +2203,7 @@ span.h1 {
   }
 
   .sm_lang a {
-    background-image: url('../img/icon_menu_ar.png');
+    background-image: url('../img/icon_menu_en.png');
     background-size: 30px auto;
   }
 

@@ -138,8 +138,8 @@ jQuery(window).on('load', function(){
     // playVid();
   }, 5000)
 
-  TweenMax.set('.short_menu', {right: '-360'})
-  TweenMax.fromTo('.short_menu', 1, {right: '-360'}, {right: 0, ease: Power4.easeInOut, delay: .5})
+  anim_landing();
+  anim_shortmenu();
 });
 // window load event
 
@@ -512,11 +512,19 @@ jQuery(window).on('load', function(){
         current_slide--;
         
         setTimeout(function(){
+
+          if(current_slide<=1)
+            jQuery('.short_menu').removeClass('topView')
+          else
+            jQuery('.short_menu').addClass('topView')
+
           jQuery('.landing_slider_wrapper .swiper-slide').css({'display': 'none'})      
           jQuery(`.landing_slider_wrapper .swiper-slide[landing-data-slide=${current_slide}]`).css({'display': 'block'})
 
           anim_landing();
           anim_financial_main();
+          anim_shortmenu();
+
         }, 1200)
       }
     }
@@ -540,11 +548,19 @@ jQuery(window).on('load', function(){
         current_slide++;
         
         setTimeout(function(){
+
+          if(current_slide>=1)
+            jQuery('.short_menu').addClass('topView')
+          else
+            jQuery('.short_menu').removeClass('topView')
+
           jQuery('.landing_slider_wrapper .swiper-slide').css({'display': 'none'})      
           jQuery(`.landing_slider_wrapper .swiper-slide[landing-data-slide=${current_slide}]`).css({'display': 'block'})
 
           anim_landing();
           anim_financial_main();
+          anim_shortmenu();
+
         }, 1200)
 
       }
@@ -584,4 +600,11 @@ jQuery(window).on('load', function(){
       TweenMax.staggerFromTo('.page_financials .cont_right > p span', 1.5, {opacity: 0, y: 100}, {opacity: 1, y: 0, ease: Power3.easeInOut, delay: 1.5}, .01);
     }
   // financials | main
+
+  // short_menu
+    function anim_shortmenu(){
+      TweenMax.set('.short_menu', {right: '-360'})
+      TweenMax.fromTo('.short_menu', 1, {right: '-360'}, {right: 0, ease: Power4.easeOut, delay: 2})
+    }
+  // short_menu
 // page wise animation

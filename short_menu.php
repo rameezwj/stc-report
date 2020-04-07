@@ -1,4 +1,4 @@
-<div class="short_menu xtopView">
+<div class="short_menu">
 	<ul>
 		<li class="xmasking sm_menu bk_white" id="btn_reveal_mmenu"> <a class="hover-this" href="javascript: void(0)"> &nbsp; </a> </li>
 		<li class="xmasking sm_home"> <a class="hover-this" href="javascript: void(0)"> &nbsp; </a> </li>

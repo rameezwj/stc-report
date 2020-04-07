@@ -2090,6 +2090,13 @@ span.h1 {
   background-color: #4F0F8C;
 }
 
+.short_menu.topView ul li.sm_menu {
+  background-color: #ff375e !important;
+}
+.short_menu.topView ul li.sm_menu a {
+  background-image: url('../img/icon_menu_box.png');
+}
+
 /*landing slider*/
   .landing_slider_wrapper{
     position: relative;
