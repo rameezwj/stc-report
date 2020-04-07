@@ -1201,12 +1201,35 @@ span.h1 {
 }
 
 .page_activities .cont_right .cont_right_inner {
-  padding: 100px 50px 0 50px;
+  padding: 0 50px 0 50px;
+  position: absolute;
+  bottom: 50px;
+  height: calc( 100% - 270px );
+  overflow: hidden;
 }
 
-.page_activities .cont_right .cont_right_inner .element_bars_hr {
+.text_high_content{
+  height: 90%;
+}
+.text_high_content p{
+  padding-left: 50px;
+}
+.text_high_content h5 {
+  margin-top: 0;
+}
+.mCSB_scrollTools .mCSB_draggerRail {
+  width: 5px;
+  background: #EAEAEA;
+}
+
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+  background: #4f0f8c !important;
+  width: 5px;
+}
+
+.page_activities .cont_right .element_bars_hr {
   left: 0;
-  top: 100px;
+  top: 150px;
 }
 
 .page_activities .cont_right .cont_right_inner ul {
@@ -1278,7 +1301,9 @@ span.h1 {
 
 .monstr_hd_wrapper h1 {
   position: absolute;
-  font-size: 130px;
+  font-size: 120px;
+  line-height: 120px;
+  padding-bottom: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

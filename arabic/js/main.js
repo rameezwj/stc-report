@@ -108,6 +108,7 @@ jQuery('document').ready(function(){
   
   // manos custom scroll
      $(".page_chairman .cont_right .cont_right_inner .c_scrollbar").mCustomScrollbar();
+     $(".page_activities .cont_right .cont_right_inner .c_scrollbar").mCustomScrollbar();
   // manos custom scroll
 });
 // dom ready event
