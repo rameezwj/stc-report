@@ -12,11 +12,11 @@
 var navigate = '';
 jQuery('document').ready(function(){
 
-  var financials_p1 = jQuery('.page_financials .cont_right > p').html().split(' ');
+  /*var financials_p1 = jQuery('.page_financials .cont_right > p').html().split(' ');
   var text = '';
   text = financials_p1.map((i, v)=>{
     return `<span>${i}</span>`;
-  })
+  })*/
 
   // jQuery('.page_financials .cont_right > p').html(text);
 
@@ -107,7 +107,7 @@ jQuery('document').ready(function(){
   // for parallax images
   
   // manos custom scroll
-     $(".page_chairman .cont_right .cont_right_inner .c_scrollbar").mCustomScrollbar();
+     // $(".page_chairman .cont_right .cont_right_inner .c_scrollbar").mCustomScrollbar();
      $(".page_activities .cont_right .cont_right_inner .c_scrollbar").mCustomScrollbar();
   // manos custom scroll
 });
@@ -350,6 +350,8 @@ jQuery(window).on('load', function(){
       jQuery(`.menu_items > div.mm${activeSlide} a`).css({'color': '#fff', 'opacity': 1})
     })
 
+    var menu_open = false;
+
     jQuery('#btn_reveal_mmenu').click(function(){
 
       setTimeout(function(){
@@ -361,8 +363,11 @@ jQuery(window).on('load', function(){
         TweenMax.to('.short_menu ul li', 1, {background: '#FF375E', ease: Power4.easeInOut})
 
         jQuery('.menu_screen_wrapper').toggleClass('reveal_mmenu');
+
+        menu_open = false;
       }
       else{
+        menu_open = true;
         menuSwiper.slideTo(0, 100);
 
         TweenMax.to('.short_menu', 1, {left: '-120px', top: 0, ease: Power4.easeInOut})
@@ -386,17 +391,19 @@ jQuery(window).on('load', function(){
 
 document.addEventListener('wheel', function(e) {
     
-    var delta = e.deltaY;
+    if(false){
+    // if(!(menu_open)){
+      var delta = e.deltaY;
 
-    if (delta > 0 && transition_complete){
-      jQuery('.nav_left').trigger('click')
-      // console.log('down')
+      if (delta > 0 && transition_complete){
+        jQuery('.nav_left').trigger('click')
+        // console.log('down')
+      }
+      else if(transition_complete){
+        jQuery('.nav_right').trigger('click')
+        // console.log('up')
+      }
     }
-    else if(transition_complete){
-      jQuery('.nav_right').trigger('click')
-      // console.log('up')
-    }
-
     // e.preventDefault();
 }, { passive: false })
 
@@ -615,7 +622,7 @@ document.addEventListener('wheel', function(e) {
   // short_menu
     function anim_shortmenu(){
       TweenMax.set('.short_menu', {left: '-360'})
-      TweenMax.fromTo('.short_menu', 1, {left: '-360'}, {left: 0, ease: Power4.easeOut, delay: 2})
+      TweenMax.fromTo('.short_menu', 1, {left: '-360'}, {left: 0, ease: Power4.easeOut, delay: .2})
     }
   // short_menu
 // page wise animation
