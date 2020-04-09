@@ -120,6 +120,19 @@ jQuery(window).resize(function(){
 // window resize event
 
 
+// window scroll event
+  jQuery(window).scroll(function(){
+    if(jQuery(this).scrollTop()>50){
+      TweenMax.to('.short_menu', .2, {x: -50, opacity: 0, ease: Linear.easeNone})
+      TweenMax.to('.charimans_numbers', .2, {x: 50, opacity: 0, ease: Linear.easeNone})
+
+    }else{
+      TweenMax.to('.short_menu', .2, {x: 0, opacity: 1, ease: Linear.easeNone})
+      TweenMax.to('.charimans_numbers', .2, {x: 0, opacity: 1, ease: Linear.easeNone})
+    }
+  });
+// window scroll event
+
 // window load event
 jQuery(window).on('load', function(){
   jQuery('body').css({'overflow': 'auto'});
@@ -512,7 +525,7 @@ document.addEventListener('wheel', function(e) {
 // custom landing slider
   var current_slide = 1;
   var transition_complete = true;
-  var total_landing_slide = jQuery('.landing_slider_wrapper .swiper-slide').length;
+  var total_landing_slide = jQuery('.landing_slider_wrapper .lslides').length;
 
   // note, since direction is rtl in arabic, arrow right means previous slide
   jQuery('.nav_right').click(function(){
@@ -535,8 +548,8 @@ document.addEventListener('wheel', function(e) {
           else
             jQuery('.short_menu').addClass('topView')
 
-          jQuery('.landing_slider_wrapper .swiper-slide').css({'display': 'none'})      
-          jQuery(`.landing_slider_wrapper .swiper-slide[landing-data-slide=${current_slide}]`).css({'display': 'block'})
+          jQuery('.landing_slider_wrapper .lslides').css({'display': 'none'})      
+          jQuery(`.landing_slider_wrapper .lslides[landing-data-slide=${current_slide}]`).css({'display': 'block'})
 
           anim_landing();
           anim_financial_main();
@@ -551,6 +564,7 @@ document.addEventListener('wheel', function(e) {
 
   // note, since direction is rtl in arabic, arrow left means next slide 
   jQuery('.nav_left').click(function(){
+    // alert(current_slide)
     if(transition_complete){
       transition_complete = false;
       if(current_slide>=total_landing_slide){
@@ -571,8 +585,8 @@ document.addEventListener('wheel', function(e) {
           else
             jQuery('.short_menu').addClass('topView')
 
-          jQuery('.landing_slider_wrapper .swiper-slide').css({'display': 'none'})      
-          jQuery(`.landing_slider_wrapper .swiper-slide[landing-data-slide=${current_slide}]`).css({'display': 'block'})
+          jQuery('.landing_slider_wrapper .lslides').css({'display': 'none'})      
+          jQuery(`.landing_slider_wrapper .lslides[landing-data-slide=${current_slide}]`).css({'display': 'block'})
 
           anim_landing();
           anim_financial_main();

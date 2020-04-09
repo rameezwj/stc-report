@@ -9,41 +9,39 @@
     require_once 'short_menu.php';
   ?>
 
-  <div class="page_chairman outer_wrapper">
-  	<div class="cont_left">
-  		<div class="screentop_para">
+    <div class="page_chairman outer_wrapper">
+      <div class="cont_left">
+        <div class="screentop_para">
 
-        <div class="mask_a" style="width: 200%; height: 100%;">
-          <div class="maskl bk_pink col2"></div>
-          <div class="maskl bk_purple col3"></div>
-          <div class="maskr bk_purple col5"></div>
+          <div class="mask_a" style="width: 200%; height: 100%;">
+            <div class="maskl bk_pink col2"></div>
+            <div class="maskl bk_purple col3"></div>
+            <div class="maskr bk_purple col5"></div>
+          </div>
+
+          <h1>
+            <span class="h1 colr_white bk_pink" style="padding: 5px 15px 5px 15px;"> كلمة رئيس   </span> </h1>
+          <h1>
+            <span class="h1 colr_white"> مجلس إدارة  </span>
+          </h1>
         </div>
 
-	  		<h1>
-	  			<span class="h1 colr_white bk_pink" style="padding: 5px 15px 5px 15px;"> كلمة رئيس   </span> </h1>
-	  		<h1>
-	  			<span class="h1 colr_white"> مجلس إدارة  </span>
-	  		</h1>
-  		</div>
+        <p class="colr_white should_split">حققت شركة الاتصالات السعودية (stc) خلال العام إنجازات مميزة، مكنتها من المضي قدماً إلى بُعد جديد في الخدمات الرقمية التي تثري حياة عملائنا وموظفينا، حيث تؤدي المجموعة دوراً محورياً في تمكين التحول الرقمي في المملكة العربية السعودية وفق رؤية المملكة العربية السعودية 2030 بالانسجام مع أهداف استراتيجية “تجرأ” للنمو في مسارات جديدة</p>
 
-	  	<p class="colr_white should_split">حققت شركة الاتصالات السعودية (stc) خلال العام إنجازات مميزة، مكنتها من المضي قدماً إلى بُعد جديد في الخدمات الرقمية التي تثري حياة عملائنا وموظفينا، حيث تؤدي المجموعة دوراً محورياً في تمكين التحول الرقمي في المملكة العربية السعودية وفق رؤية المملكة العربية السعودية 2030 بالانسجام مع أهداف استراتيجية “تجرأ” للنمو في مسارات جديدة</p>
-
-	  	<img src="img/img_chairman.png" class="art1" />
-  	</div>
-  	<div class="cont_right">
-
-      <div class="mask_a_vertical" style="width: calc( 100% + 200px ); height: 200%; right: -200px;">
-        <div class="maskl bk_purple col10" style="height: 50%;"></div>
-        <div class="maskl bk_white col10" style="height: 30%;"></div>
-        <div class="maskr bk_pink col10" style="height: 20%;"></div>
+        <img src="img/img_chairman.png" class="art1" />
       </div>
-      
-      <div class="element_bars_hr" style="width: 300px;">
-        <div class="leftbar bk_purple" style="width: 50%"></div>
-        <div class="rightbar bk_pink" style="width: 50%"></div>
-      </div>
-      <div class="cont_right_inner">
+      <div class="cont_right">
 
+        <div class="mask_a_vertical" style="width: calc( 100% + 200px ); height: 200%; right: -200px;">
+          <div class="maskl bk_purple col10" style="height: 50%;"></div>
+          <div class="maskl bk_white col10" style="height: 30%;"></div>
+          <div class="maskr bk_pink col10" style="height: 20%;"></div>
+        </div>
+        
+        <div class="element_bars_hr" style="width: 300px;">
+          <div class="leftbar bk_purple" style="width: 50%"></div>
+          <div class="rightbar bk_pink" style="width: 50%"></div>
+        </div>
         <div class="text_high_content c_scrollbar">
           <!-- <img src="img/icon1.jpg" /> <br /> -->
           <h5 class="h5 colr_purple">بسم الله الرحمن الرحيم  </h5>
@@ -83,36 +81,35 @@
           </p>
         </div>
       </div>
-    </div>
 
-    <div class="charimans_numbers">
-      <div class="mask_a" style="width: 200%; height: 100%;">
-        <div class="maskl bk_pink col2"></div>
-        <div class="maskl bk_purple col3"></div>
-        <div class="maskr bk_purple col5"></div>
-      </div>
-      <div class="ch_num_left">
-        <table>
-          <tr>
-            <td> إجمالي   <br /> الربح  </td>
-            <td> <span> 32,391 </span> <b> مليون ريال سعودي   </b> </td>
-          </tr>
-          <tr>
-            <td> بإرتفاع  <br /> قدره  </td>
-            <td> <span> 6.29% </span> </td>
-          </tr>
-        </table>
-      </div>
-      <div class="ch_num_right">
-        <div>
-          <p>
-            مجموع ايرادات  
-          </p>  
-          <span> 40,259,106 </span> <b> مليون ريال سعودي  </b>
+      <div class="charimans_numbers">
+        <div class="mask_a" style="width: 200%; height: 100%;">
+          <div class="maskl bk_pink col2"></div>
+          <div class="maskl bk_purple col3"></div>
+          <div class="maskr bk_purple col5"></div>
+        </div>
+        <div class="ch_num_left">
+          <table>
+            <tr>
+              <td> إجمالي   <br /> الربح  </td>
+              <td> <span> 32,391 </span> <b> مليون ريال سعودي   </b> </td>
+            </tr>
+            <tr>
+              <td> بإرتفاع  <br /> قدره  </td>
+              <td> <span> 6.29% </span> </td>
+            </tr>
+          </table>
+        </div>
+        <div class="ch_num_right">
+          <div>
+            <p>
+              مجموع ايرادات  
+            </p>  
+            <span> 40,259,106 </span> <b> مليون ريال سعودي  </b>
+          </div>
         </div>
       </div>
     </div>
-  </div>
 
   <?php require_once 'scripts.php'; ?>
   <script type="text/javascript">

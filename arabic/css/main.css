@@ -10,6 +10,18 @@
   text-shadow: none;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
+::-moz-scrollbar {
+  display: none;
+}
+
+::-ms-scrollbar {
+  display: none;
+}
+
 .browserupgrade {
   margin: 0.2em 0;
   background: #ccc;
@@ -82,7 +94,7 @@ body {
   position: relative;
   width: 100%;
   min-height: 100%;
-  height: auto;
+  /*height: auto;*/
   overflow-x: hidden !important;
   /*cursor: url('../img/cursor.png'), auto;*/
 }
@@ -1117,8 +1129,10 @@ span.h1 {
 
 .page_activities {
   position: relative;
-  overflow: hidden;
-  height: 100vh;
+  overflow: auto;
+  height: 100%;
+  /*overflow: hidden;*/
+  /*height: 100vh;*/
 }
 
 .page_activities .cont_left {
@@ -1126,14 +1140,16 @@ span.h1 {
   float: right;
   height: 100%;
   overflow: hidden;
-  position: relative;
+  position: fixed;
+  top: 0;
+  right: 0;
 }
 
 .page_activities .cont_right {
   width: 55%;
-  float: right;
+  float: left;
   height: 100%;
-  overflow: hidden;
+  overflow: auto;
   background-color: #fff;
   position: relative;
 }
@@ -1142,6 +1158,9 @@ span.h1 {
   margin: 50px 50px 0 0;
 }
 
+.page_activities .text_high_content{
+  padding-top: 200px;
+}
 .monstr_hd_wrapper {
   position: relative;
   margin: 50px 0;
@@ -1183,7 +1202,7 @@ span.h1 {
 }
 
 .page_activities .cont_left p {
-  width: 30%;
+  width: 70%;
   margin: 0;
   font-size: 15px;
   line-height: 20px;
@@ -1193,11 +1212,11 @@ span.h1 {
 }
 
 .page_activities .cont_left img {
-  width: 40%;
-  height: auto;
+  width: auto;
+  height: 35%;
   position: absolute;
   bottom: 0;
-  right: calc( 30% + 70px);
+  left: 100px;
 }
 
 .page_activities .cont_right .cont_right_inner {
@@ -1209,7 +1228,8 @@ span.h1 {
 }
 
 .text_high_content{
-  height: 90%;
+  height: 100%;
+  padding: 250px 50px 50px 50px;
 }
 .text_high_content p{
   padding-left: 50px;
@@ -1267,23 +1287,27 @@ span.h1 {
 
 .page_chairman {
   position: relative;
-  overflow: hidden;
-  height: 100vh;
+  overflow: auto;
+  height: 100%;
+  /*overflow: hidden;
+  height: 100vh;*/
 }
 
 .page_chairman .cont_left {
   width: 50%;
   float: right;
   height: 100%;
-  overflow: hidden;
-  position: relative;
+  /* overflow: hidden; */
+  position: fixed;
+  z-index: 1;
+  background: #4f0f8c;
 }
 
 .page_chairman .cont_right {
   width: 50%;
-  float: right;
+  float: left;
   height: 100%;
-  overflow: hidden;
+  /* overflow: auto; */
   background-color: #fff;
   position: relative;
 }
@@ -1412,7 +1436,7 @@ span.h1 {
 }
 
 .charimans_numbers {
-  position: absolute;
+  position: fixed;
   top: 50px;
   width: 600px;
   height: 135px;
@@ -1424,6 +1448,7 @@ span.h1 {
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
   overflow: hidden;
+  z-index: 1;
 }
 
 .charimans_numbers .ch_num_left table tr td:first-child {
@@ -1553,12 +1578,14 @@ span.h1 {
   float: right;
   height: 100%;
   overflow: hidden;
-  position: relative;
+  position: fixed;
+  top: 0;
+  right: 0;
 }
 
 .page_financials .cont_right {
   width: 40%;
-  float: right;
+  float: left;
   height: 100%;
   overflow: hidden;
   background-color: #fff;
@@ -2136,9 +2163,10 @@ span.h1 {
     position: relative;
     width: 100%;
     height: 100%;
-    clip-path: inset(0);
-    transform: scale(1);
-    filter: grayscale(0);
+    z-index: 1;
+    /*clip-path: inset(0);*/
+    /*transform: scale(1);*/
+    /*filter: grayscale(0);*/
     transform-origin: center;
     transition: all .5s cubic-bezier(0.9, 0.01, 0, 1);
   }
@@ -2146,6 +2174,18 @@ span.h1 {
     /*filter: grayscale(1);*/
     /*transform: scale(.9);*/
     /*clip-path: inset(50px);*/
+  }
+
+  .landing_slider_wrapper .lslides{
+    position: relative;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: none;
+  }
+  .landing_slider_wrapper .lslides.landing_active_slide{
+    display: block;
+    z-index: 99;
   }
 /*landing slider*/
 
@@ -2240,20 +2280,6 @@ span.h1 {
     z-index: 11;
   }
 /*short menu*/
-
-/*landing slider*/
-  .landing_slider_wrapper{
-    position: relative;
-    width: 100%;
-    height: 100%;
-  }
-  .landing_slider_wrapper .swiper-slide{
-    display: none;
-  }
-  .landing_slider_wrapper .swiper-slide.landing_active_slide{
-    display: block;
-  }
-/*landing slider*/
 
 /*landing wipes*/
   .landing_wipes1{

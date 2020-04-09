@@ -38,7 +38,7 @@
   .page_chairman .cont_left .screentop_para,
   .page_financials .cont_left .screentop_para,
   .page_activities .cont_left .screentop_para {
-    margin: 100px 0 50px 50px;
+    margin: 100px 50px 50px 0;
   }
   .page_chairman .cont_left p{
     top: 25px;
@@ -88,6 +88,18 @@
     z-index: -1;
   }
 
+  .page_whoweare .cont_left .content_para{
+    font-size: 35px; line-height: 45px;
+  }
+  .page_mission .cont_right .mv_content_wrap p{ font-size: 35px; line-height: 45px;
+  }
+  .page_mission .cont_left .content_para{
+    font-size: 50px; line-height: 60px;
+  }
+  .page_mission .cont_left .media_content{
+    width: 500px; height: 400px;
+  }
+  
   .menu_screen_wrapper .menu_items {
     left: calc( 17% - 125px);
   }
