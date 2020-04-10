@@ -140,23 +140,9 @@ jQuery(window).on('load', function(){
   jQuery('body').css({'overflow': 'auto'});
   jQuery('.loader-wrapper').addClass('loaded');
 
-  var vid = document.getElementById("b-viddy"); 
-
-  function playVid() { 
-    vid.play(); 
-  } 
-
-
-  setTimeout(()=>{
-    // alert('sd')
-    var vid = jQuery('#b-viddy');
-    console.log(vid);
-    // playVid();
-  }, 5000);
-
   anim_landing();
   anim_shortmenu();
-
+  
 });
 // window load event
 
@@ -332,7 +318,7 @@ jQuery(window).on('load', function(){
       // set local storage
         if(jQuery('body').hasClass('landing_screen')){
           localStorage.setItem("stc_last_played_video", "0");
-          localStorage.setItem("stc_selected_category", "");
+          localStorage.setItem("stc_selected_category", "0");
         }
       // set local storage
 
@@ -347,12 +333,12 @@ jQuery(window).on('load', function(){
         var goto_url = window.location.origin+'/stc-report/arabic/'+page_link+".php";
         
         TweenMax.to('.vertical_wipes_wrapper', 0, {display: 'block'})
-        TweenMax.staggerFromTo('.vertical_wipes_wrapper > div', .2, {scaleY: 0}, {scaleY: 1, ease: Power4.easeInOut}, .1)
+        TweenMax.staggerFromTo('.vertical_wipes_wrapper > div', .7, {scaleY: 0, transformOrigin: 'center bottom'}, {scaleY: 1, transformOrigin: 'center bottom', ease: Power4.easeInOut}, .1)
 
 
         setTimeout(function(){
           window.location.href = goto_url;
-        }, 2000)
+        }, 1000)
       })
     // what to do when user clicks on the submenu items
 
@@ -408,7 +394,7 @@ jQuery(window).on('load', function(){
         menu_open = true;
         menuSwiper.slideTo(0, 100);
 
-        TweenMax.to('.short_menu', 1, {left: '-120px', top: 0, ease: Power4.easeInOut})
+        TweenMax.to('.short_menu', 1, {left: '-300px', top: 0, ease: Power4.easeInOut})
         TweenMax.to('.short_menu ul li', 1, {background: '#4F0F8C', ease: Power4.easeInOut})
 
         TweenMax.set(`.menu_screen_wrapper .swiper-slide .mask_layer`, {x: 0});

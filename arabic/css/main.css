@@ -2488,12 +2488,20 @@ span.h1 {
     height: 100vh;
     display: none;
   }
-  .vertical_wipes_wrapper > div{
+  .vertical_wipes_wrapper > div.vwipes{
     position: relative;
     width: 100%;
     height: calc( 100% / 5 );
     transform-origin: center bottom;
     transform: scaleY(0);
+  }
+  .page_inner .vertical_wipes_wrapper{
+    display: block;
+  }
+  .page_inner .vertical_wipes_wrapper > div.vwipes{
+    /*transform-origin: center top;*/
+    transform: scale(1);
+    /*background: red !important;*/
   }
 /*vertical wipes*/
 
