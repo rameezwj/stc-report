@@ -125,10 +125,12 @@ jQuery(window).resize(function(){
     if(jQuery(this).scrollTop()>50){
       TweenMax.to('.short_menu', .2, {x: -50, opacity: 0, ease: Linear.easeNone})
       TweenMax.to('.charimans_numbers', .2, {x: 50, opacity: 0, ease: Linear.easeNone})
+      TweenMax.to('.ceo_numbers', .2, {x: 50, opacity: 0, ease: Linear.easeNone})
 
     }else{
       TweenMax.to('.short_menu', .2, {x: 0, opacity: 1, ease: Linear.easeNone})
       TweenMax.to('.charimans_numbers', .2, {x: 0, opacity: 1, ease: Linear.easeNone})
+      TweenMax.to('.ceo_numbers', .2, {x: 0, opacity: 1, ease: Linear.easeNone})
     }
   });
 // window scroll event
@@ -254,14 +256,9 @@ jQuery(window).on('load', function(){
     })();
 // body custom cussor
 
-// TweenMax.to('.logo_stc', 4, {z: 30, ease: Power4.easeInOut});
-
 // menu slider
   if(true){
-    /*var menu_array = [
-    {'1'}
-    ];*/
-
+    
     var menuSwiper = new Swiper('.menu_screen_wrapper .swiper-container', {
       // loop: true,
       updateOnWindowResize: false,
@@ -305,9 +302,9 @@ jQuery(window).on('load', function(){
       }
     });
     
-    // menu to submenu timeline
     var menuActiveSlideGlobal = 0;
 
+    // go to sub menu when click on its main
     jQuery('.menu_items > div').click(function(){
 
       jQuery('.mmenu_back b').html(jQuery(this).find('a').html());
@@ -323,8 +320,7 @@ jQuery(window).on('load', function(){
 
       jQuery('.menu_items').addClass('menu_item_reveal');
       jQuery('.sub_menu_wrapper').addClass('submenu_reveal');
-      // TweenMax.fromTo(`.menu_items`, 2, {opacity: 1, x: 0, 'clip-path': 'inset(0)'}, {opacity: 0, x: 50, 'clip-path': 'inset(0px 0 0 100%)', ease: Power4.easeOut});
-      // TweenMax.staggerFromTo(`.submenu_${gotoSlide} a`, 1, {opacity: 0, y: 150}, {opacity: 1, y: 0, ease: Power4.easeOut}, .1)
+
       TweenMax.fromTo(`.mmenu_back`, .3, {opacity: 0, x: -150, display: 'none'}, {opacity: 1, x: 0, display: 'block', ease: Power4.easeOut}, '-=1');
 
       jQuery('.menu_screen_wrapper').toggleClass('submenu_active');
@@ -332,14 +328,40 @@ jQuery(window).on('load', function(){
 
     });
 
-    jQuery('.mmenu_back').click(function(){
+    // what to do when user clicks on the submenu items
+      // set local storage
+        if(jQuery('body').hasClass('landing_screen')){
+          localStorage.setItem("stc_last_played_video", "0");
+          localStorage.setItem("stc_selected_category", "");
+        }
+      // set local storage
+
+      jQuery('.sub_menu_wrapper .submenu_content a').click(function(){
+        var category_no = jQuery(this).parent().attr('data-parent-category');
+        var category_title = jQuery(`.mm${category_no}`).attr('data-category-title');
+        var page_link = jQuery(this).attr('data-page-link');
+
+        localStorage.setItem("stc_selected_category", category_title);
+        console.log(localStorage.getItem("stc_selected_category"), '---', page_link);
+        
+        var goto_url = window.location.origin+'/stc-report/arabic/'+page_link+".php";
+        
+        TweenMax.to('.vertical_wipes_wrapper', 0, {display: 'block'})
+        TweenMax.staggerFromTo('.vertical_wipes_wrapper > div', .2, {scaleY: 0}, {scaleY: 1, ease: Power4.easeInOut}, .1)
+
+
+        setTimeout(function(){
+          window.location.href = goto_url;
+        }, 2000)
+      })
+    // what to do when user clicks on the submenu items
+
+    // go back to main menu if user clicks outside submenus
+    jQuery('.mmenu_back, .sub_menu_wrapper:not(.sub_menu_wrapper .submenu_content a)').click(function(){
       
       jQuery('.menu_items').removeClass('menu_item_reveal');
       jQuery('.sub_menu_wrapper').removeClass('submenu_reveal');
-      // TweenMax.set(`.submenu_${menuActiveSlideGlobal}`,{display: 'none'});
-      // TweenMax.fromTo(`.menu_items`, 2, {opacity: 1, x: 50, 'clip-path': 'inset(0px 0 0 100%)'}, {opacity: 1, x: 0, 'clip-path': 'inset(0)', ease: Power4.easeOut});
-      /*TweenMax.fromTo(`.menu_items`, .5, {opacity: 0, x: 100, display: 'none'}, {opacity: 1, x: 0, display: 'block', ease: Power4.easeOut}, 2);
-      TweenMax.staggerFromTo(`.submenu_${menuActiveSlideGlobal} a`, .4, {opacity: 1, y: 0}, {opacity: 0, y: 150, ease: Power4.easeOut}, .1)*/
+
       TweenMax.fromTo(`.mmenu_back`, .2, {opacity: 1, x: 0, display: 'block'}, {opacity: 0, x: -150, display: 'none', ease: Power4.easeOut}, '-=1');
 
       jQuery(`.swiper-slide`).removeClass('scaledDown scaledUp');
@@ -349,12 +371,13 @@ jQuery(window).on('load', function(){
 
     });
     
-
+    // move small vertical bar (next to menu title) along with menu hover
     jQuery('.menu_items > div').mouseenter(function(){
       jQuery('.menu_screen_wrapper span').css('top', jQuery(this).position().top+11+'px');
 
-    })
+    });
 
+    // reset small vertical bar (next to menu title) when mouse is out
     jQuery('.menu_items > div').mouseleave(function(){
       var activeSlide = jQuery('.swiper-slide.swiper-slide-active').attr('data-slide');
       jQuery('.menu_screen_wrapper span').css('top', jQuery(`.menu_items > div.mm${activeSlide}`).position().top+11+'px');
@@ -363,6 +386,8 @@ jQuery(window).on('load', function(){
       jQuery(`.menu_items > div.mm${activeSlide} a`).css({'color': '#fff', 'opacity': 1})
     })
 
+
+    // enter/exit main menu
     var menu_open = false;
 
     jQuery('#btn_reveal_mmenu').click(function(){

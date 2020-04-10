@@ -3,7 +3,7 @@
 
 <?php require_once 'head.php'; ?>
 
-<body>
+<body class="landing_screen">
   <?php
     require_once 'menu_screen.php';
     require_once 'short_menu.php';
