@@ -7,6 +7,7 @@
   <?php
     require_once 'menu_screen.php';
     require_once 'short_menu.php';
+    require_once 'vwipes_loader.php';
   ?>
 <div class="page_whoweare">
   <div class="cont_left bk_white">
