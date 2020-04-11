@@ -9,8 +9,8 @@
   		</div>
 
   		<div class="monstr_hd_wrapper">
-  			<h1 class="bk_white colr_pink"> مجموعة  </h1>
-  			<h1 class="bk_pink colr_white"> مجموعة  </h1>
+  			<h1 class="bk_white colr_pink"> المجموعة  </h1>
+  			<h1 class="bk_pink colr_white"> المجموعة  </h1>
   		</div>
 
 	  	<p class="colr_white">

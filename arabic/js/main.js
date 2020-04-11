@@ -12,37 +12,6 @@
 var navigate = '';
 jQuery('document').ready(function(){
 
-  /*var financials_p1 = jQuery('.page_financials .cont_right > p').html().split(' ');
-  var text = '';
-  text = financials_p1.map((i, v)=>{
-    return `<span>${i}</span>`;
-  })*/
-
-  // jQuery('.page_financials .cont_right > p').html(text);
-
-
-  /*var financials_p2 = jQuery('.page_financials p.footer').html().split(' ');
-  var text = '';
-  text = financials_p2.map((i, v)=>{
-    return `<span>${i}</span>`;
-  })
-
-  jQuery('.page_financials p.footer').html(text);*/
-
-  /*var text_split_array = jQuery('.should_split');
-
-  text_split_array.each(function(i, v){
-    var text_array = jQuery(this).html().split(' ');
-    var text = '';
-    // console.log(text_array.split(' '))
-    text = jQuery(text_array).each(function(i2, v2){
-      text+='<span>'+v2+'</span>';
-      // text+= `<span>${v2}</span>`
-    });
-    console.log(text.toString())
-    // jQuery(this).html(text)    
-  })*/
-
   if(jQuery(window).width() >= 767){
     jQuery('').hover(function(){
       
@@ -108,96 +77,48 @@ jQuery('document').ready(function(){
   
   // manos custom scroll
      // $(".page_chairman .cont_right .cont_right_inner .c_scrollbar").mCustomScrollbar();
-     $(".page_activities .cont_right .cont_right_inner .c_scrollbar").mCustomScrollbar();
+     // $(".page_activities .cont_right .cont_right_inner .c_scrollbar").mCustomScrollbar();
   // manos custom scroll
 });
 // dom ready event
 
 
 // window resize event
-jQuery(window).resize(function(){
-});
+  jQuery(window).resize(function(){
+  });
 // window resize event
-
 
 // window scroll event
   jQuery(window).scroll(function(){
+
     if(jQuery(this).scrollTop()>50){
       TweenMax.to('.short_menu', .2, {x: -50, opacity: 0, ease: Linear.easeNone})
-      TweenMax.to('.charimans_numbers', .2, {x: 50, opacity: 0, ease: Linear.easeNone})
-      TweenMax.to('.ceo_numbers', .2, {x: 50, opacity: 0, ease: Linear.easeNone})
 
-    }else{
+      if(current_slide==3 || jQuery('body').hasClass('page_inner')){
+        TweenMax.to('.charimans_numbers', .2, {x: 50, opacity: 0, ease: Linear.easeNone})
+        TweenMax.to('.ceo_numbers', .2, {x: 50, opacity: 0, ease: Linear.easeNone})
+      }
+    }
+    else{
       TweenMax.to('.short_menu', .2, {x: 0, opacity: 1, ease: Linear.easeNone})
-      TweenMax.to('.charimans_numbers', .2, {x: 0, opacity: 1, ease: Linear.easeNone})
-      TweenMax.to('.ceo_numbers', .2, {x: 0, opacity: 1, ease: Linear.easeNone})
+      if(current_slide==3 || jQuery('body').hasClass('page_inner')){
+        TweenMax.to('.charimans_numbers', .2, {x: 0, opacity: 1, ease: Linear.easeNone})
+        TweenMax.to('.ceo_numbers', .2, {x: 0, opacity: 1, ease: Linear.easeNone})
+      }
     }
   });
 // window scroll event
 
 // window load event
-jQuery(window).on('load', function(){
-  jQuery('body').css({'overflow': 'auto'});
-  jQuery('.loader-wrapper').addClass('loaded');
+  jQuery(window).on('load', function(){
+    jQuery('body').css({'overflow': 'auto'});
+    jQuery('.loader-wrapper').addClass('loaded');
 
-  anim_landing();
-  anim_shortmenu();
-  
-});
+    anim_landing();
+    anim_shortmenu();
+    
+  });
 // window load event
-
-// click and hold event listener
-  /*var timeout_id = 0,
-      hold_time = 1000,
-      hold_menu = $('.hold_menu'),
-      hold_trigger = $('.hold_trigger');
-
-  hold_menu.hide();
-
-  hold_trigger.mousedown(function() {
-      timeout_id = setTimeout(menu_toggle, hold_time);
-  }).bind('mouseup mouseleave', function() {
-      clearTimeout(timeout_id);
-  });
-
-  function menu_toggle() {
-    hold_menu.slideToggle();
-  }*/
-
-  // mouse cordinates
-  var mousePosition = 0;
-  var timeout_id = 0,
-      hold_time = 1000,
-      hold_trigger = $('.xscreenLanding');
-      hole_time_achieved = false;
-
-  hold_trigger.mousedown(function() {
-      // console.log(mouseX);
-      // jQuery('.m').addClass('reveal');
-      // jQuery('.m').css('clip-path', `circle(100% at ${mousePosition.clientX}px ${mousePosition.clientY}px)`);
-      jQuery('.m').css('clip-path', `circle(150% at 100vw 100vh)`)
-      timeout_id = setTimeout(menu_toggle, hold_time);
-  }).bind('mouseup', function() {
-      resetTime(timeout_id)
-  });
-
-  function menu_toggle() {
-    hole_time_achieved = true;
-      jQuery('.m').css('clip-path', `circle(150% at 100vw 100vh)`);
-  }
-
-  function resetTime(timeout){
-      if(hole_time_achieved){
-        clearTimeout(timeout);
-
-      }
-      else{
-        jQuery('.m').css('clip-path', `circle(0 at bottom right)`)
-        clearTimeout(timeout);
-
-      }
-  }
-//
 
 // body custom cursor
     (function(){
@@ -383,7 +304,7 @@ jQuery(window).on('load', function(){
       }, 1000)
 
       if(jQuery('.menu_screen_wrapper').hasClass('reveal_mmenu')){
-        TweenMax.to('.short_menu', 1, {left: 0, top: '30px', ease: Power4.easeInOut})
+        TweenMax.to('.short_menu', 1, {left: 0, ease: Power4.easeInOut})
         TweenMax.to('.short_menu ul li', 1, {background: '#FF375E', ease: Power4.easeInOut})
 
         jQuery('.menu_screen_wrapper').toggleClass('reveal_mmenu');
@@ -394,7 +315,7 @@ jQuery(window).on('load', function(){
         menu_open = true;
         menuSwiper.slideTo(0, 100);
 
-        TweenMax.to('.short_menu', 1, {left: '-300px', top: 0, ease: Power4.easeInOut})
+        TweenMax.to('.short_menu', 1, {left: -(jQuery('.short_menu ul li a').width()*2)+'px', top: 0, ease: Power4.easeInOut})
         TweenMax.to('.short_menu ul li', 1, {background: '#4F0F8C', ease: Power4.easeInOut})
 
         TweenMax.set(`.menu_screen_wrapper .swiper-slide .mask_layer`, {x: 0});
@@ -413,76 +334,25 @@ jQuery(window).on('load', function(){
   }
 // menu slider
 
-document.addEventListener('wheel', function(e) {
-    
-    if(false){
-    // if(!(menu_open)){
-      var delta = e.deltaY;
+// mousewheel
+  document.addEventListener('wheel', function(e) {
+      
+      if(false){
+      // if(!(menu_open)){
+        var delta = e.deltaY;
 
-      if (delta > 0 && transition_complete){
-        jQuery('.nav_left').trigger('click')
-        // console.log('down')
+        if (delta > 0 && transition_complete){
+          jQuery('.nav_left').trigger('click')
+          // console.log('down')
+        }
+        else if(transition_complete){
+          jQuery('.nav_right').trigger('click')
+          // console.log('up')
+        }
       }
-      else if(transition_complete){
-        jQuery('.nav_right').trigger('click')
-        // console.log('up')
-      }
-    }
-    // e.preventDefault();
-}, { passive: false })
-
-
-//
-
-  /*let elem = document,
-    // info = document.getElementById('info'),
-    marker = true,
-    delta,
-    direction,
-    interval = 50,
-    counter1 = 0,
-    counter2,
-    counter3,
-    counter4;
-
-  elem.addEventListener('wheel',wheel);
-
-  function wheel(e){
-    counter1 += 1;
-    delta = e.deltaY;
-    if (delta > 0) {direction = 'up'} else {direction = 'down'}
-    if (marker) {wheelStart()}
-    return false;
-  }
-  function wheelStart(){
-    marker = false;
-    wheelAct();
-    counter3 = new Date();
-    // info.innerHTML = 'Start event. Direction: ' + direction;
-  }
-  function wheelAct(){
-    counter2 = counter1;
-    setTimeout(function(){
-      if (counter2 == counter1) {
-        wheelEnd();
-      } else {
-        // info.innerHTML = info.innerHTML + '<br>...';
-        wheelAct();
-      }
-    },interval);
-  }
-  function wheelEnd(){
-    // alert('sdsd')
-    console.log(jQuery(window).scrollTop()+jQuery(window).height());
-    counter4 = new Date();
-    // info.innerHTML = info.innerHTML + '<br>End event. Duration: ' + (counter4-counter3) + ' ms';
-    marker = true;
-    counter1 = 0;
-    counter2 = false;
-    counter3 = false;
-    counter4 = false;
-  }*/
-//
+      // e.preventDefault();
+  }, { passive: false })
+// mousewheel
 
 // landing slider
   if(false){
@@ -612,7 +482,6 @@ document.addEventListener('wheel', function(e) {
     }, 3800)
   })
 // custom landing slider
-
 
 // page wise animation
   // landing screen

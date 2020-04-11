@@ -30,6 +30,9 @@
       <p class="colr_white should_split">
         يُعد عام 2019 عاماً فارقاً في تاريخ المجموعة، إذ حققت شركة الاتصالات السعودية (stc) قفزات تنموية، حتى أضحت الممكّن الرقمي الرائد للقطاعين العام والخاص محلياً وإقليمياً 
       </p>
+
+      <div class="ceo_bx1"></div>
+      <div class="ceo_bx2"></div>
       <img src="img/img_ceo.png" class="art1" />
     </div>
     <div class="cont_right">

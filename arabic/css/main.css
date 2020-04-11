@@ -1202,10 +1202,10 @@ span.h1 {
 }
 
 .page_activities .cont_left p {
-  width: 70%;
+  width: 36%;
   margin: 0;
-  font-size: 15px;
-  line-height: 20px;
+  font-size: 12px;
+  line-height: 25px;
   position: relative;
   right: 50px;
   font-family: "stc_light";
@@ -1216,7 +1216,7 @@ span.h1 {
   height: 35%;
   position: absolute;
   bottom: 0;
-  left: 100px;
+  left: 50px;
 }
 
 .page_activities .cont_right .cont_right_inner {
@@ -1358,7 +1358,7 @@ span.h1 {
 }
 
 .page_chairman .cont_left p {
-  width: 80%;
+  width: 75%;
   margin: 0;
   font-size: 13px;
   line-height: 17px;
@@ -1368,7 +1368,7 @@ span.h1 {
 }
 
 .page_chairman .cont_left img {
-  width: 500px;
+  width: 475px;
   height: auto;
   position: absolute;
   bottom: 0;
@@ -1438,7 +1438,8 @@ span.h1 {
   position: fixed;
   top: 50px;
   width: 600px;
-  height: 135px;
+  display: flex;
+  /*height: 135px;*/
   left: 50%;
   -webkit-box-align: stretch;
   -ms-flex-align: stretch;
@@ -1484,6 +1485,8 @@ span.h1 {
   border: 1px solid #ff375e;
   width: 340px;
   float: right;
+  display: flex;
+  align-items: center;
 }
 
 .charimans_numbers .ch_num_left table {
@@ -1495,12 +1498,15 @@ span.h1 {
 }
 
 .charimans_numbers .ch_num_right {
-  height: 100%;
   background: #ff375e;
   padding: 10px 20px;
   text-align: left;
   width: calc( 100% - 350px);
   float: left;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
 }
 
 .charimans_numbers .ch_num_right p {
@@ -1515,6 +1521,7 @@ span.h1 {
   color: #fff;
   display: block;
   font-family: "stc_bolder";
+  margin: 10px 0;
 }
 
 .charimans_numbers .ch_num_right b {
@@ -1572,13 +1579,28 @@ span.h1 {
 }
 
 .page_ceo .cont_left img {
-  width: 50%;
+  width: 40%;
   height: auto;
   position: absolute;
   bottom: 0;
   right: 0;
 }
-
+.page_ceo .cont_left .ceo_bx1{
+  width: 200px;
+  height: 150px;
+  position: absolute;
+  top: 200px;
+  left: 0;
+  border: 1px solid #ff375e;
+}
+.page_ceo .cont_left .ceo_bx2{
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  top: 349px;
+  left: 199px;
+  background-color: #ff375e;
+}
 .page_ceo .cont_right .cont_right_inner {
   padding: 0 50px 0 50px;
   position: absolute;
@@ -2109,7 +2131,7 @@ span.h1 {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  right: calc( 20% - 125px);
+  right: calc( 27% - 125px);
   /*left: 10%;*/
   margin-left: 0;
   -webkit-clip-path: inset(0);
@@ -2355,7 +2377,8 @@ span.h1 {
 /*short menu*/
   .short_menu {
     position: fixed;
-    top: 30px;
+    /*top: 30px;*/
+    top: 0;
     left: 0;
     width: calc( 60px * 6);
     height: 55px;
@@ -2417,8 +2440,9 @@ span.h1 {
     text-align: center;
     font-size: 18px;
     margin: 5px 0;
-    font-weight: bold;
+    /*font-weight: bold;*/
     color: #fff;
+    cursor: pointer;
   }
 
   .cursor {
@@ -2778,6 +2802,7 @@ span.h1 {
     display: flex;
     align-items: center;
   }
+
   .pink_border{
     border: 1px solid #ff375e;
   }
