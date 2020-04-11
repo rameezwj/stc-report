@@ -18,7 +18,7 @@
   }
 /*for mobile screens*/
 
-@media screen and (min-height: 777px) and (max-height: 1000px) {
+@media screen and (min-height: 777px) and (max-height: 1200px) {
 
   /*short menu*/
     .short_menu {
@@ -209,4 +209,51 @@
       padding: 40px 40px;
     }
   /*values*/
+}
+
+@media screen and (max-width: 1500px) and (min-height: 777px){
+  /*activities*/
+    .page_activities .monstr_hd_wrapper {
+        margin-top: 50px;
+        height: 175px;
+    }
+
+    .monstr_hd_wrapper h1 {
+        font-size: 115px;
+        line-height: 135px;
+    }
+    .page_activities .cont_left p {
+      width: 35%;
+      font-size: 15px;
+      line-height: 25px;
+    }
+    .page_activities .cont_left img {
+        height: 35%;
+    }
+  /*activities*/
+
+  /*chairman*/
+  .page_chairman .cont_left p {
+      top: 25px;
+      font-size: 14px;
+      line-height: 25px;
+  }
+  /*chairman*/
+
+  /*ceo*/
+    .page_ceo .cont_left p {
+        font-size: 14px;
+        line-height: 25px;
+        width: 40%;
+    }
+  /*ceo*/
+
+  /*menu screen*/
+    .menu_screen_wrapper .swiper-container {
+        height: 400px;
+    }
+    .menu_screen_wrapper .menu_items div a{
+      font-size: 40px;
+    }
+  /*menu screen*/
 }
