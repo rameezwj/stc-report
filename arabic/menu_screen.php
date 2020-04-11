@@ -23,29 +23,29 @@
 
     <div class="sub_menu_wrapper">
       <div class="submenu_content submenu_1" data-parent-category="1" >
-        <a href="javascript: void(0)" data-page-link="who-we-are" class="hover-this">
+        <a href="javascript: void(0)" data-page-link="who_we_are_inner" class="hover-this">
           من نحن 
         </a>
-        <a href="javascript: void(0)" data-page-link="vision" class="hover-this">
+        <a href="javascript: void(0)" data-page-link="vision_inner" class="hover-this">
           رؤية الشركة 
         </a>
-        <a href="javascript: void(0)" data-page-link="our-mission" class="hover-this">
+        <a href="javascript: void(0)" data-page-link="our_mission_inner" class="hover-this">
           غايتنا 
         </a>
-        <a href="javascript: void(0)" data-page-link="our-value" class="hover-this">
+        <a href="javascript: void(0)" data-page-link="our_values_inner" class="hover-this">
           قيمنا 
         </a>
-        <a href="javascript: void(0)" data-page-link="chairman_message" class="hover-this">
+        <a href="javascript: void(0)" data-page-link="chairman_inner" class="hover-this">
           كلمة الرئيس مجلس الادارة شركة اتصالات السعودية 
         </a>
-        <a href="javascript: void(0)" data-page-link="ceo_message" class="hover-this">
+        <a href="javascript: void(0)" data-page-link="ceo_inner" class="hover-this">
           كلمة رئيس التنفيذي لمجموعة الاتصالات السعودية 
         </a>
       </div>
 
       <div class="submenu_content submenu_2" data-parent-category="2" >
         <!-- <a href="javascript: void(0)" data-page-link="bod" class="hover-this"> -->
-        <a href="javascript: void(0)" data-page-link="values" class="hover-this">
+        <a href="javascript: void(0)" data-page-link="our_values_inner" class="hover-this">
           مجلس الادارة الشركة الاتصالات السعودية 
         </a>
         <a href="javascript: void(0)" data-page-link="creation_of_board" class="hover-this">
@@ -87,7 +87,7 @@
       </div>
       
       <div class="submenu_content submenu_4" data-parent-category="4" >
-        <a href="javascript: void(0)" data-page-link="financial_statements" class="hover-this">
+        <a href="javascript: void(0)" data-page-link="financials_inner" class="hover-this">
          لقوائم المالية الموحدة 
         </a>
       </div>

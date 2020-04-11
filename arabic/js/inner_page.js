@@ -14,7 +14,8 @@ jQuery(window).on('load', function(){
 	  var last_played_video = localStorage.getItem("stc_last_played_video");
 
   	// console.log(last_played_video+'---'+selected_cat)
-	  if((last_played_video!=selected_cat) || (last_played_video==null && selected_cat==null)){
+	  if(false){
+	  // if((last_played_video!=selected_cat) || (last_played_video==null && selected_cat==null)){
 	    localStorage.setItem("stc_last_played_video", selected_cat);
 			
 	    var video = document.getElementById('category_video');
