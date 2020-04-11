@@ -646,8 +646,14 @@ document.addEventListener('wheel', function(e) {
 
   // short_menu
     function anim_shortmenu(){
-      TweenMax.set('.short_menu', {left: '-360'})
-      TweenMax.fromTo('.short_menu', 1, {left: '-360'}, {left: 0, ease: Power4.easeOut, delay: .2})
+      if(jQuery('body').hasClass('page_inner')){
+        TweenMax.set('.short_menu', {left: '-360'})
+        TweenMax.fromTo('.short_menu', 1, {left: '-360'}, {left: '-120px', ease: Power4.easeOut, delay: .2})
+      }
+      else{
+        TweenMax.set('.short_menu', {left: '-360'})
+        TweenMax.fromTo('.short_menu', 1, {left: '-360'}, {left: 0, ease: Power4.easeOut, delay: .2})
+      }
     }
   // short_menu
 // page wise animation

@@ -55,6 +55,40 @@
   .charimans_numbers {
     top: 100px;
   }
+
+  /*ceo*/
+    .page_ceo .cont_left p{
+      font-size: 20px;
+      line-height: 30px;
+    }
+    .page_ceo .ceo_numbers {
+      top: 100px;
+      width: 550px;
+    }
+    .page_ceo .ceo_numbers .ch_num_right span {
+      font-size: 70px;
+    }
+    .page_ceo .ceo_numbers .ch_num_right p {
+      color: #fff;
+      font-size: 23px;
+      line-height: 30px;
+    }
+    .page_ceo .ceo_numbers .ch_num_left {
+      padding: 75px 20px;
+    }
+    .ceo_numbers .ch_num_left p {
+      font-size: 15px;
+      line-height: 25px;
+    }
+    .page_ceo .cont_left p {
+      font-size: 20px;
+      line-height: 30px;
+    }
+    .page_ceo .text_high_content{
+      padding-top: 400px;
+    }
+  /*ceo*/
+
   .page_financials .cont_left p.footer {
     bottom: 50px;
     font-size: 15px;

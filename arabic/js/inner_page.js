@@ -13,15 +13,16 @@ jQuery(window).on('load', function(){
 	  var selected_cat = localStorage.getItem("stc_selected_category");
 	  var last_played_video = localStorage.getItem("stc_last_played_video");
 
-  	console.log(last_played_video+'---'+selected_cat)
+  	// console.log(last_played_video+'---'+selected_cat)
 	  if((last_played_video!=selected_cat) || (last_played_video==null && selected_cat==null)){
 	    localStorage.setItem("stc_last_played_video", selected_cat);
 			
 	    var video = document.getElementById('category_video');
+	    
 	    video.play();
+	    
 	    video.onended = function() {
-	    	jQuery('.video_wrapper').fadeOut(500);
-	      // alert("The video has ended");
+	    	TweenMax.to('.video_wrapper', 1.5, {left: '100%', transformOrigin: 'left center', scale: 1.3, ease: Power4.easeInOut});
 	    };
 	  }
 	  else{
