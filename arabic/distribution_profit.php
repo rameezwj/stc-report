@@ -13,11 +13,14 @@
   <div class="page_board outer_wrapper">
     <div class="screentop_para">
       <h1>
-        <span class="h1 colr_white bk_purple" style="padding: 5px 15px 5px 150px;"> هم
-أعضاء مجلس ادارة   </span> </h1>
+        <span class="h1 colr_white bk_purple" style="padding: 5px 15px 5px 150px;">
+         أعضاء مجلس الإدارة ولجانه
+        </span>
+      </h1>
       <h1>
-        <span class="h1 colr_purple"> sa
-وتصنيف عضو  </span>
+        <span class="h1 colr_purple">
+         وتصنيف عضويتهم  
+        </span>
       </h1>
     </div>
     

@@ -15,7 +15,7 @@
   <div class="cont_right bk_purple">
     <div class="screentop_para">
       <h1>
-        <span class="h1 colr_white bk_pink"> مقيمنا  </span>
+        <span class="h1 colr_white bk_pink">قیمنا  </span>
       </h1>
     </div>
   </div>
@@ -54,7 +54,7 @@
         <div>
           <img src="img/icon_v2.png" />
           <p>
-            نملتزمون بتقديم “المستقبل” بأكثر الطرق مكافأة لعملائنا وموظفينا.
+            ملتزمون بتقديم "المستقبل" بأكثر الطرق مكافأة لعملائنا وموظفينا. 
           </p>
         </div>
       </div>

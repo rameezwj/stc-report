@@ -20,9 +20,7 @@
               <img src="../img/icons/icon_a.png" alt="">
           </div>
           <p class="content_para">
-              نحن نبتكر ونقدم أبعاد أكبر
-              وأكثر إثراءً لحياة الناس
-              .الشخصية والمهن
+            نحن نبتكر ونقدم أبعاد أكبر وأكثر إثراءً لحياة الناس الشخصية والمهنية.
           </p>
       </div>
     </div>
@@ -30,19 +28,16 @@
     <div class="cont_right bk_purple">
       <div class="screentop_para">
         <h1>
-            <span class="h1 colr_white bk_pink"> ؤية الكة  </span> </h1>
+            <span class="h1 colr_white bk_pink"> رؤيتنا  </span> </h1>
         <h1>
-            <span class="h1 colr_white">وغايت  </span>
+            <span class="h1 colr_white"> و غايتنا  </span>
         </h1>
       </div>
 
       <div class="mv_content_wrap">
         <img src="../img/icons/icon_a.png" alt="">
         <p>
-        نحن رواد عالميين نقدم
-        خدمات رقمية ومنصات
-        مبتكرة لعمئنا في دول
-        الق اوسط وشمال
+          نحن رواد عالميين نقدم خدمات رقمية ومنصات مبتكرة لعملائنا في دول الشرق الأوسط وشمال أفريقيا.
         </p>
       </div>
     </div>

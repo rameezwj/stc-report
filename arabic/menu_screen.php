@@ -52,7 +52,7 @@
           تكوين مجلس الادارة 
         </a>
         <a href="javascript: void(0)" data-page-link="distribution_profit" class="hover-this">
-          توزيع الارباحو المكافآت و توصيات مجلس الادارة 
+          أعضاء مجلس الإدارة ولجانه وتصنيف عضويتهم 
         </a>
       </div>
 

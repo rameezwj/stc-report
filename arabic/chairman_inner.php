@@ -21,9 +21,9 @@
         </div>
 
         <h1>
-          <span class="h1 colr_white bk_pink" style="padding: 5px 15px 5px 15px;"> كلمة رئيس   </span> </h1>
+          <span class="h1 colr_white bk_pink" style="padding: 5px 15px 5px 15px;"> مجلس   </span> </h1>
         <h1>
-          <span class="h1 colr_white"> مجلس إدارة  </span>
+          <span class="h1 colr_white">  الإدارة  </span>
         </h1>
       </div>
 
@@ -96,7 +96,7 @@
             <td> <span> 32,391 </span> <b> مليون ريال سعودي   </b> </td>
           </tr>
           <tr>
-            <td> بإرتفاع  <br /> قدره  </td>
+            <td> بإرتفاع   <br />  و قدره  </td>
             <td> <span> 6.29% </span> </td>
           </tr>
         </table>
