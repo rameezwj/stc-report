@@ -33,11 +33,11 @@
   <div class="landing_wipes4 bk_white"></div>
   <div class="landing_wipes5 bk_white"></div> -->
 
-  <div class="landing_wipes1 bk_pink"></div>
-  <div class="landing_wipes2 bk_pink"></div>
-  <div class="landing_wipes3 bk_pink"></div>
-  <div class="landing_wipes4 bk_pink"></div>
-  <div class="landing_wipes5 bk_pink"></div>
+  <div class="landing_wipes1 bk_white"></div>
+  <div class="landing_wipes2 bk_white"></div>
+  <div class="landing_wipes3 bk_purple"></div>
+  <div class="landing_wipes4 bk_purple"></div>
+  <div class="landing_wipes5 bk_white"></div>
 
   <?php require_once 'scripts.php'; ?>
 </body>

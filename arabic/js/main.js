@@ -418,8 +418,8 @@ jQuery('document').ready(function(){
       }
       else{
         var tlx = new TimelineMax()
-        tlx.staggerFromTo('.landing_wipes1, .landing_wipes2, .landing_wipes3, .landing_wipes4, .landing_wipes5', 1, {left: '-100%'}, {left: 0, ease: Power4.easeInOut}, .1)
-        .to('.landing_wipes1, .landing_wipes2, .landing_wipes3, .landing_wipes4, .landing_wipes5', .8, {left: '100%', ease: Power4.easeInOut})
+        tlx.staggerFromTo('.landing_wipes1, .landing_wipes2, .landing_wipes3, .landing_wipes4, .landing_wipes5', .8, {left: '-100%'}, {left: 0, ease: Power4.easeInOut}, .1)
+        .to('.landing_wipes1, .landing_wipes2, .landing_wipes3, .landing_wipes4, .landing_wipes5', .5, {left: '100%', ease: Power4.easeInOut})
         
         current_slide--;
         
@@ -454,8 +454,8 @@ jQuery('document').ready(function(){
       }
       else{
         var tlx = new TimelineMax()
-        tlx.staggerFromTo('.landing_wipes1, .landing_wipes2, .landing_wipes3, .landing_wipes4, .landing_wipes5', 1, {left: '100%'}, {left: 0, ease: Power4.easeInOut}, .1)
-        .to('.landing_wipes1, .landing_wipes2, .landing_wipes3, .landing_wipes4, .landing_wipes5', .8, {left: '-100%', ease: Power4.easeInOut})
+        tlx.staggerFromTo('.landing_wipes1, .landing_wipes2, .landing_wipes3, .landing_wipes4, .landing_wipes5', .8, {left: '100%'}, {left: 0, ease: Power4.easeInOut}, .1)
+        .to('.landing_wipes1, .landing_wipes2, .landing_wipes3, .landing_wipes4, .landing_wipes5', .5, {left: '-100%', ease: Power4.easeInOut})
         
         current_slide++;
         
