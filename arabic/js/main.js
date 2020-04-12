@@ -440,7 +440,7 @@ jQuery('document').ready(function(){
     }
     setTimeout(function(){
       transition_complete = true;
-    }, 3800)
+    }, 3000)
   })
 
   // note, since direction is rtl in arabic, arrow left means next slide 
@@ -479,7 +479,7 @@ jQuery('document').ready(function(){
     }
     setTimeout(function(){
       transition_complete = true;
-    }, 3800)
+    }, 3000)
   })
 // custom landing slider
 

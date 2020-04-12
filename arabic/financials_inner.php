@@ -257,7 +257,7 @@
   <div class="glb-sec-2">
     <div class="glb-sec-2-left">
       <div class="glb-sec-2-left-inr">
-        <img src="img/mmg1.jpg" alt="mmg1.jpg">
+        <img src="img/b1.png" alt="mmg1.jpg">
       </div>
       <div class="glb-strip"></div>
     </div>
@@ -501,7 +501,7 @@
 
     <div class="glb-sec-2-left">
       <div class="glb-sec-2-left-inr">
-        <img src="img/mmg1.jpg" alt="mmg1.jpg">
+        <img src="img/b1.png" alt="mmg1.jpg">
       </div>
       <div class="glb-strip glb-strip-1"></div>
     </div>
@@ -513,7 +513,7 @@
 
     <div class="glb-sec-2-left">
       <div class="glb-sec-2-left-inr">
-        <img src="img/mmg1.jpg" alt="mmg1.jpg">
+        <img src="img/b1.png" alt="mmg1.jpg">
       </div>
       <div class="glb-strip"></div>
     </div>
@@ -747,7 +747,7 @@
 
     <div class="glb-sec-2-left">
       <div class="glb-sec-2-left-inr">
-        <img src="img/mmg1.jpg" alt="mmg1.jpg">
+        <img src="img/b1.png" alt="mmg1.jpg">
       </div>
       <div class="glb-strip glb-strip-1"></div>
     </div>

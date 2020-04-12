@@ -32,6 +32,39 @@ jQuery(window).on('load', function(){
 	  }
 	}
 
+
+	// highlight current pages submenu + goto next page functionality
+		// get curent page url
+		var page_url = window.location.href.split('.php');
+		page_url = page_url[0].split('/');
+
+		// highlight current page menu item
+		jQuery('.sub_menu_wrapper .submenu_content a').removeClass('active');
+		jQuery(`a[data-page-link=${page_url[page_url.length-1]}]`).addClass('active');
+
+		// get next page url if it exists
+		var next_page = jQuery(`a[data-page-link=${page_url[page_url.length-1]}]`).next().attr('data-page-link');
+
+		// get previous page url if it exists
+		var previous_page = jQuery(`a[data-page-link=${page_url[page_url.length-1]}]`).prev().attr('data-page-link');
+
+		setTimeout(function(){
+		// mousewheel
+			var page_switching_triggered = false;
+
+		  document.addEventListener('wheel', function(e) {
+				if($(window).scrollTop() + $(window).height() == $(document).height()) {
+
+					if(next_page!='' && next_page!=undefined && !(page_switching_triggered)){
+						page_switching_triggered = true;
+						jQuery(`a[data-page-link=${next_page}]`).trigger('click');
+					}
+				}
+				// e.preventDefault();
+		  }, { passive: false })
+		// mousewheel
+	}, 3000)
+
 });
 
 if(jQuery('body').hasClass('landing_screen')){
