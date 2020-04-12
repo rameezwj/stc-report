@@ -2559,14 +2559,18 @@ span.h1 {
 
 .vertical_wipes_wrapper>div.vwipes {
   position: relative;
+  position: absolute;
+  top: 0;
+  /*left: -100%;*/
   width: 100%;
-  height: calc( 100% / 5);
+  /*height: calc( 100% / 5);*/
+  height: 100%;
   -webkit-transform-origin: center bottom;
       -ms-transform-origin: center bottom;
           transform-origin: center bottom;
-  -webkit-transform: scaleY(0);
+  /*-webkit-transform: scaleY(0);
       -ms-transform: scaleY(0);
-          transform: scaleY(0);
+          transform: scaleY(0);*/
 }
 
 .page_inner .vertical_wipes_wrapper {

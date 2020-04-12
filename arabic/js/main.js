@@ -249,12 +249,12 @@ jQuery('document').ready(function(){
         var page_link = jQuery(this).attr('data-page-link');
 
         localStorage.setItem("stc_selected_category", category_title);
-        console.log(localStorage.getItem("stc_selected_category"), '---', page_link);
+        // console.log(localStorage.getItem("stc_selected_category"), '---', page_link);
         
         var goto_url = window.location.origin+'/stc-report/arabic/'+page_link+".php";
-        
+        TweenMax.to('.lds-ring', .3, {scale: 1, opacity: 1, delay: .5});
         TweenMax.to('.vertical_wipes_wrapper', 0, {display: 'block'})
-        TweenMax.staggerFromTo('.vertical_wipes_wrapper > div', .7, {scaleY: 0, transformOrigin: 'center bottom'}, {scaleY: 1, transformOrigin: 'center bottom', ease: Power4.easeInOut}, .1)
+        TweenMax.staggerFromTo('.vertical_wipes_wrapper > div.vwipes', .7, {left: '-100%', transformOrigin: 'center bottom'}, {left: 0, transformOrigin: 'center bottom', ease: Power4.easeInOut}, .1)
 
 
         setTimeout(function(){

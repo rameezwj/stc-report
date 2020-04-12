@@ -1,8 +1,8 @@
 <!-- vertical wipes -->
   <div class="vertical_wipes_wrapper">
-    <div class="vwipe1 vwipes bk_pink"></div>
-    <div class="vwipe2 vwipes bk_pink"></div>
-    <div class="vwipe3 vwipes bk_pink"></div>
+    <div class="vwipe1 vwipes bk_white"></div>
+    <div class="vwipe2 vwipes bk_purple"></div>
+    <div class="vwipe3 vwipes bk_pureple"></div>
     <div class="vwipe5 vwipes bk_pink"></div>
     <div class="vwipe5 vwipes bk_pink"></div>
 
