@@ -3489,3 +3489,72 @@ span.h1 {
 .video_wrapper{
   display: none !important;
 }
+
+/*inner page navigation*/
+  .inner_page_navigation {
+    position: relative;
+    width: 100%;
+    background: #ff375e;
+    z-index: 99;
+    bottom: 0;
+    display: flex;
+  }
+  .inner_page_navigation > div {
+    width: 50%;
+    /*padding: 20px 0;*/
+    text-align: center;
+  }
+  .inner_page_navigation > div a{
+    color: #fff;
+    font-size: 17px;
+    line-height: 20px;
+    display: block;
+    padding: 20px;
+    position: relative;
+  }
+  .inner_page_navigation > div a::before{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #a54ee1;
+    transition: all .6s cubic-bezier(0.9, 0.01, 0, 1);
+    transform: scaleX(0);
+    z-index: -1;
+  }
+
+  .inner_page_navigation > div a:hover::before{
+    transform: scale(1);
+  }
+
+  a#btn_gotoPrev_page {
+    background-image: url('../img/left-chevron.png');
+    background-position: left 20px center;
+    background-size: 30px auto;
+    background-repeat: no-repeat;
+  }
+  a#btn_gotoPrev_page::before{
+    transform-origin: right center;
+  }
+
+  a#btn_gotoNext_page {
+    background-image: url('../img/right-chevron.png');
+    background-position: right 20px center;
+    background-size: 30px auto;
+    background-repeat: no-repeat;
+    transform-origin: right center;
+  }
+  a#btn_gotoNext_page::before{
+    transform-origin: left center;
+  }
+  .inner_page_navigation > div:nth-child(1) {
+    order: 2;
+  }
+
+  .inner_page_navigation > div:nth-child(2) {
+    order: 1;
+  }
+/*inner page navigation*/

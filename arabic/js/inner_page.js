@@ -44,25 +44,62 @@ jQuery(window).on('load', function(){
 
 		// get next page url if it exists
 		var next_page = jQuery(`a[data-page-link=${page_url[page_url.length-1]}]`).next().attr('data-page-link');
+		var next_page_text = jQuery(`a[data-page-link=${next_page}]`).html();
 
 		// get previous page url if it exists
 		var previous_page = jQuery(`a[data-page-link=${page_url[page_url.length-1]}]`).prev().attr('data-page-link');
+		var previous_page_text = jQuery(`a[data-page-link=${previous_page}]`).html();
+
+		jQuery('body').append(`
+			<div class='inner_page_navigation'>
+				<div>
+					${
+						previous_page_text!=undefined
+						?
+							`<a href='javasvript: void(0)' id='btn_gotoPrev_page'>${(previous_page_text)!=undefined?previous_page_text:''}</a>`
+						:
+						''
+					}
+				</div>
+				<div>
+					${
+						next_page_text!=undefined
+						?
+							`<a href='javasvript: void(0)' id='btn_gotoNext_page'>${(next_page_text)!=undefined?next_page_text:''}</a>`
+						:
+						''
+					}
+				</div>
+			</div>
+		`)
+
+		var page_switching_triggered = true;
+
+		jQuery('.inner_page_navigation > div a#btn_gotoNext_page').on('click', function(){
+			if(next_page!=undefined && !(page_switching_triggered)){
+				page_switching_triggered = true;
+				jQuery(`a[data-page-link=${next_page}]`).trigger('click');
+			}			
+		});
+
+		jQuery('.inner_page_navigation > div a#btn_gotoPrev_page').on('click', function(){
+			if(previous_page!=undefined && !(page_switching_triggered)){
+				page_switching_triggered = true;
+				jQuery(`a[data-page-link=${previous_page}]`).trigger('click');
+			}			
+		});
 
 		setTimeout(function(){
-		// mousewheel
-			var page_switching_triggered = false;
+			page_switching_triggered = false;
 
-		  document.addEventListener('wheel', function(e) {
-				if($(window).scrollTop() + $(window).height() == $(document).height()) {
-
-					if(next_page!='' && next_page!=undefined && !(page_switching_triggered)){
-						page_switching_triggered = true;
-						jQuery(`a[data-page-link=${next_page}]`).trigger('click');
+			// mousewheel
+			  document.addEventListener('wheel', function(e) {
+					if($(window).scrollTop() + $(window).height() == $(document).height()) {
+						// jQuery(`#btn_gotoNext_page`).trigger('click');
 					}
-				}
-				// e.preventDefault();
-		  }, { passive: false })
-		// mousewheel
+					// e.preventDefault();
+			  }, { passive: false })
+			// mousewheel
 	}, 3000)
 
 });
