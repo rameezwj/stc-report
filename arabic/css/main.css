@@ -1754,9 +1754,9 @@ span.h1 {
   float: right;
   height: 100%;
   overflow: hidden;
-  position: fixed;
-  top: 0;
-  right: 0;
+  /*position: fixed;*/
+  /*top: 0;*/
+  /*right: 0;*/
 }
 
 .page_financials .cont_right {
