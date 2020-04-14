@@ -531,15 +531,22 @@ jQuery('document').ready(function(){
 // scrollmagic
   
     var controller = new ScrollMagic.Controller();
-    var tl_stay_connect_wrapper = new TimelineMax(); 
+    
+    jQuery('.bod_items').each(function(){
+      var tl_bod = new TimelineMax(); // what happening timeline
 
-    tl_stay_connect_wrapper.staggerFromTo('.page_chairman h1', .7, { opacity: 0, x: 100 }, { opacity: 1, x: 0, ease: Power1.easeOut, delay: 10 }, .1)
+      tl_bod.staggerFromTo(jQuery(this).find(`img`), 1.5, {y: 0, opacity: 0, ease: Power3.easeInOut }, { opacity: 1, y: 0, ease: Linear.easeInOut })
+      .staggerFromTo(jQuery(this).find(`p, span`), 2, {y: 200, opacity: 0}, { opacity: 1, y: 0, ease: Power4.easeInOut }, .1, '-=1.5')
 
-    var scene_stay_connect_wrapper = new ScrollMagic.Scene({
-      offset: 0,
-      reverse: false,
-      triggerElement: '.page_chairman',
+      /*tl_bod.fromTo(jQuery(this).find('.mask_a'), 1.5, {left: 0}, { left: '-200%', ease: Power4.easeInOut })
+      .staggerFromTo(jQuery(this).find(`p, span`), 2, {y: 200, opacity: 0}, { opacity: 1, y: 0, ease: Power4.easeInOut }, .1, '-=1.5')*/
+
+      var scene_about = new ScrollMagic.Scene({
+        offset: -100,
+        reverse: false,
+        triggerElement: this,
+      })
+      .setTween(tl_bod).addTo(controller);
     })
-    .setTween(tl_stay_connect_wrapper).addTo(controller);
   
 // scrollmagic
