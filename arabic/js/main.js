@@ -526,3 +526,20 @@ jQuery('document').ready(function(){
     }
   // short_menu
 // page wise animation
+
+
+// scrollmagic
+  
+    var controller = new ScrollMagic.Controller();
+    var tl_stay_connect_wrapper = new TimelineMax(); 
+
+    tl_stay_connect_wrapper.staggerFromTo('.page_chairman h1', .7, { opacity: 0, x: 100 }, { opacity: 1, x: 0, ease: Power1.easeOut, delay: 10 }, .1)
+
+    var scene_stay_connect_wrapper = new ScrollMagic.Scene({
+      offset: 0,
+      reverse: false,
+      triggerElement: '.page_chairman',
+    })
+    .setTween(tl_stay_connect_wrapper).addTo(controller);
+  
+// scrollmagic
