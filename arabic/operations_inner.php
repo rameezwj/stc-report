@@ -2,117 +2,34 @@
 <html class="no-js" lang="">
 
 <?php require_once 'head.php'; ?>
-<style type="text/css">
-  .page_operations .cwrapper{
-    overflow: hidden;
-    margin: 100px 0 0 0;
-  }
-  .page_operations .right{ float: right; margin-right: 50px; }
-  .page_operations .left{ float: left; margin-top: 100px; }
-  .operation_faqs {
-    overflow: hidden;
-    position: relative;
-    width: calc( 100% - 100px );
-    margin: 0 auto;
-    display: flex;
-    flex-wrap: wrap;
-  }
-  .operation_faqs .faq_listing{
-    float: right;
-    width: 40%;
-    margin-left: 10%;
-  }
-
-  .operations_table{
-    width: calc( 100% - 100px );
-    overflow: hidden;
-    margin: 100px 50px;
-  }
-
-  .page_operations .tabular_data{
-  /*width:calc( 100% - 100px );*/
-    width: 100%;
-    margin: 0 auto;
-    margin-bottom: 100px;
-  }
-  .page_operations .tabular_data .c_row{
-    display: flex;
-  }
-  .page_operations .tabular_data .c_row div{
-    flex: 1;
-    padding: 40px;
-    width: calc( 100% / 4 );
-    text-align: center;
-    color: #4f0f8c;
-    border: 1px solid #4f0f8c;
-    border-left: none;
-    display: inline-flex; 
-    word-break: break-word;
-    align-items: center;
-    border-bottom: none;
-    transition: all 0.2s ease-in;
-  }
-  .page_operations .tabular_data .c_row div:last-child{
-    border-left: 1px solid #4f0f8c;
-  }
-  .page_operations .tabular_data .c_row:last-child div{
-    border-bottom: 1px solid #4f0f8c; 
-  }
-  .page_operations .tabular_data .tabular_data_inner .c_row:hover div:first-child{
-    background: #FF375E;
-  }
-  .page_operations .tabular_data .tabular_data_inner .c_row div:first-child{
-    text-align: center;
-    justify-content: center;
-  }
-  .page_operations .tabular_data .tabular_data_inner .c_row:hover div{
-    background: #4f0f8c;
-    color: #fff;
-  }
-  .page_operations .tabular_data .c_row.second div  {
-      padding: 10px;
-    }
-    .page_operations .tabular_data .c_row.first {
-      margin-bottom: 20px;
-    }
-    .page_operations .tabular_data .c_row.first div{
-      border:none;
-      border-left: 1px solid #fff;
-      color: #fff;
-      padding: 20px;
-      text-align: center;
-      justify-content: center;
-      flex:20% 0 0;
-    }
-    .page_operations .tabular_data .c_row.first div.last{
-      padding: 0;
-      flex-wrap: wrap;
-      border-left: 0;
-      flex: 1;
-      align-items: initial;
-    }
-</style>
 <body class="page_inner">
- 
+  <?php
+    require_once 'menu_screen.php';
+    require_once 'short_menu.php';
+    require_once 'vwipes_loader.php';
+  ?>
   
   <div class="page_operations">
     <div class="screentop_para">
       <h1>
-        <span class="h1 colr_purple">  الأداء   </span>
+        <span class="h1 colr_purple"> الأداء  </span>
       </h1>
       <h1>
-        <span class="h1 colr_white bk_purple" style="padding: 5px 15px 5px 150px;">  التشغيلي   </span>
+        <span class="h1 colr_white bk_purple" style="padding: 5px 250px 5px 50px;"> التشغيلي  </span>
       </h1>
     </div>
     
     <div class="cwrapper">
       <div class="img_wrap">
         <div class="left col5">
-           <img src="img/b1.png" style="width: 100%;" />
+           <img src="img/inner_img13.png" style="width: 100%;" />
+           <div class="bk_purple" style="text-align: center; padding: 50px; color: #fff; position: absolute; bottom: -50px; width: 50%; right: -50px;">
+            ارتفع عدد عملاء خدمة الألياف البصرية (FTTH) بنسبة 23% في عام 2019م
+           </div>
         </div>
         <div class="right col4">
           <h5 class="h5 colr_purple">
-           شركة الاتصالات السعودية (stc)- المملكة العربية السعودية
+            شركة الاتصالات السعودية (stc)- المملكة العربية السعودية
           </h5>
           <p class="content_para">
             واصلت stc نشر شبكة الألياف البصرية في المملكة وذلك التزاماً منها بتحقيق المبادرات الرقمية في رؤية المملكة 2030، والتي تأتي كجزء من المبادرة الوطنية لنشر شبكة النطاق العريض (NBB) حيث ارتفع عدد عملاء خدمة الألياف البصرية (FTTH) بنسبة 23% في عام 2019م مقارنة بالعام السابق، وبلغ طول كابلات خدمة الألياف البصرية حوالي 217 ألف كيلو متر كما في نهاية عام 2019م. وتأكيداً على التزام stc بمواصلة الريادة، كشف تقرير (مقياس) الحكومي الصادر من هيئة الاتصالات وتقنية المعلومات عن تحقيق الشركة لأعلى متوسط لسرعة تحميل الإنترنت المتنقل على مستوى المملكة، حيث بلغت 45.4 ميجابايت في الثانية، ذلك نتيجة للاستثمار المستمر في البنية التحتية لstc. وامتداداً لمشروع التكامل لتطوير البنية التحتية، فقد قامت stc بتدشين خدمة الجيل الخامس  5Gبالمملكة كأول مشغل يوفر الخدمة تجارياً ويتيحها للعملاء بعدد من المدن السعودية، حيث تم تركيب أكثر من 2,300 برج من أبراج الجيل الخامس خلال عام 2019م، ومن المتوقع أن تلعب تقنية الجيل الخامس دوراً كبيراً في التحول التقني كمنصة أساسية لتطبيقات المستقبل في قطاعي إنترنت الأشياء والذكاء الاصطناعي، مما سيعزز من ظهور المدن والمرافق الذكية، ويدعم البنية التحتية للأمن السيبراني ويوفر إنترنت متنقل بسرعة فائقة في جميع مناطق المملكة. وعلى صعيد آخر، قامت الشركة بإطلاق السمة التجارية الجديدة الموحدة (stc) للشركة والشركات التابعة في المملكة والكويت والبحرين بالمواكبة مع التطور الذي تشهده المجموعة في مجال التحول الرقمي المتمثل في مسارات المدفوعات الرقمية والإعلام والترفيه، وانسجاماً للمتغيرات المتسارعة في قطاع الاتصالات وتقنية المعلومات. كما أن السمة الجديدة تسهم في تعزيز قيمة العلامة التجارية كأحد أغلى العلامات التجارية في الشرق الأوسط عن العام 2019م وفق مؤشر براند فاينانس بقيمة 26.6 مليار ريال (7.1 مليار دولار)، إضافة إلى تصنيفها ضمن أفضل 50 شركة رقمية على مستوى العالم في العام 2019م والأولى في الشرق الأوسط وشمال افريقيا بحسب مجلة فوربس العالمية. 
@@ -146,7 +63,7 @@
           الشركة العربية لخدمات الإنترنت والاتصالات المحدودة (حلول س تي سي) -المملكة العربية السعودية
         </h5>
         <p class="content_para">
-          تأسست الشركة العربية لخدمات الإنترنت والاتصالات المحدودة (حلول اس تي سي (في المملكة في أبريل 2002م، و وتعمل الشركة في تقدم خدمات الإنترنت وتشغيل مشاريع الاتصالات ونقل ومعالجة المعلومات، ويقع مركزها الرئيس في المملكة وتمارس نشاطها التشغيلي في المملكة. استحوذت شركة الاتصالات السعودية في ديسمبر 2007م على كامل الحصص في رأس مال الشركة العربية لخدمات الإنترنت والاتصالات المحدودة والبالغ 100 مليون ريال سعودي.
+          تأسست الشركة العربية لخدمات الإنترنت والاتصالات المحدودة (حلول اس تي سي (في المملكة في أبريل 2002م، و وتعمل الشركة في تقدم خدمات الإنترنت وتشغيل مشاريع الاتصالات ونقل ومعالجة المعلومات، ويقع مركزها الرئيس في المملكة وتمارس نشاطها التشغيلي في المملكة. استحوذت شركة الاتصالات السعودية في ديسمبر 2007م على كامل الحصص في رأس مال الشركة العربية لخدمات الإنترنت والاتصالات المحدودة والبالغ 100 مليون ريال سعودي
         </p>
       </div>
       
@@ -327,12 +244,10 @@
         <div class="tabular_data_inner">
           <div class="c_row">
             <div>‫
-            ‫نترنت‬ ‫ا‬ ‫لخدمات‬ ‫العربية‬ ‫كة‬ ‫ال‬
-            ‫حلول‬ ‫)‬ ‫المحدودة‬ ‫ت‬ ‫تصا‬ ‫وا‬
+              الشركة العربية لخدمات الإنترنت والاتصالات المحدودة ( حلول اس تي سي
             </div>
             <div>
-                ‫السعودية‬ ‫العربية‬ ‫المملكة‬
-
+              المملكة العربية السعودية 
             </div>
             <div>
             100%
@@ -343,12 +258,10 @@
           </div>
           <div class="c_row">
             <div>‫
-            ‫نترنت‬ ‫ا‬ ‫لخدمات‬ ‫العربية‬ ‫كة‬ ‫ال‬
-            ‫حلول‬ ‫)‬ ‫المحدودة‬ ‫ت‬ ‫تصا‬ ‫وا‬
-            </div>
+              شركة الاتصالات للاستثمار التجاري المحدودة ( تي سي اي سي) 
+            ‫</div>
             <div>
-                ‫السعودية‬ ‫العربية‬ ‫المملكة‬
-
+              المملكة العربية السعودية 
             </div>
             <div>
             100%

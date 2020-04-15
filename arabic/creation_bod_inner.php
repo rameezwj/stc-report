@@ -48,76 +48,1684 @@
       <!-- creation bod1 -->
 
       <!-- creation bod2 -->
+        <div class="page_creation_bod2">
+          <div class="cwrapper ">
+            <div class="screentop_para">
+              <h1>
+                <span class="h1 colr_white bk_purple" style="padding: 5px 15px 5px 150px;"> ‫
+                مجلس‬ ‫لجان‬ ‫أعضاء‬  
+                </span> 
+              </h1>
+              <h1>
+                <span class="h1 colr_purple"> 
+                sa
+                وتصنيف عضو 
+                </span>
+              </h1>
+            </div>
+            <div class="img_wrap" >
+              <div class="left">
+                <img src="img/board_boxes.png">
+              </div>
+              <div class="right"  style="padding-top: 40px;">
+                <img src="img/board_boxes2.png">
+              </div>
+            </div>
+            <div class="tabular_data">
+              <div class="c_row first bk_purple">
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+              </div>
+              <div class="c_row bk_purple second">
+                <div class="bk_pink"></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+              </div>
+              <div class="tabular_data_inner">
+                <div class="c_row">
+                  <div>1</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>1</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>2</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>3</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>4</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>5</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>6</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>7</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>8</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>9</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       <!-- creation bod2 -->
 
       <!-- creation bod3 -->
+        <div class="page_creation_bod3">
+          <div class="cwrapper">
+            <div class="screentop_para">
+              <h1>
+                <span class="h1 colr_white bk_purple" style="padding: 5px 15px 5px 150px;"> &#8235;
+                ‫مجلس‬ ‫لجان‬ ‫أعضاء‬
+                </span> 
+              </h1>
+              <h1>
+                <span class="h1 colr_purple"> 
+                ‫الخارجيين‬ ‫دارة‬ ‫ا‬ 
+                </span>
+              </h1>
+            </div>
+            <div class="img_wrap">
+              <div class="left">
+                <img src="img/board_boxes.png">
+              </div>
+              <div class="right" style="padding-top: 40px;">
+                <img src="img/board_boxes2.png">
+              </div>
+            </div>
+            <div class="tabular_data">
+              <div class="c_row first bk_purple">
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+              </div>
+              <div class="c_row bk_purple second">
+                <div class="bk_pink"></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+              </div>
+              <div class="tabular_data_inner">
+                <div class="c_row">
+                  <div>1</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>1</div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>2</div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>3</div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>4</div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>5</div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>6</div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>7</div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>8</div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>9</div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       <!-- creation bod3 -->
 
       <!-- creation bod4 -->
+        <div class="page_creation_bod4">
+          <div class="cwrapper">
+            <div class="screentop_para">
+              <h1>
+                <span class="h1 colr_white bk_purple" style="padding: 5px 15px 5px 150px;"> ‫
+                ‫دارة‬ ‫ا‬ ‫أعضاء‬‬
+                </span> 
+              </h1>
+              <h1>
+                <span class="h1 colr_purple"> 
+                ‫التنفيذية‬
+                </span>
+              </h1>
+            </div>
+            <div class="img_wrap" style="overflow: initial;margin-top: -200px;">
+              <div class="right" style="width: 40%;padding: 0;margin: 0;">
+                <img src="img/board_boxes3.png">
+              </div>
+            </div>
+            <div class="tabular_data">
+              <div class="c_row first bk_purple">
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+                <div>الرئيس</div>
+              </div>
+              <div class="c_row bk_purple second">
+                <div class="bk_pink"></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+              </div>
+              <div class="tabular_data_inner">
+                <div class="c_row">
+                  <div>1</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>1</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>2</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>3</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>4</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>5</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>6</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>7</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>8</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+                <div class="c_row">
+                  <div>9</div>
+                  <div>
+                    جانه
+                    صاحب السمو الملكي
+                    امير/ محمد بن خالد
+                    العبدالل
+                  </div>
+                  <div>
+                    استاذ/ أحمد بن
+                    رئيس مجلس •
+                  </div>
+                  <div>
+                    عضو مجلس 
+                    ادا
+                  </div>
+                  <div>
+                    بائية
+                    بكالوريوس بحوث
+                    ماجستير عل
+                  </div>
+                  <div>
+                    ية
+                    للتقنية
+                    خبرة في
+                  </div>
+                  <div>
+                    ر
+                    مستشار
+                    مستشار
+                  </div>
+                  <div>
+                    حكومي
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       <!-- creation bod4 -->
 
       <!-- creation bod5 -->
+        <div class="page_creation_bod5"></div>
       <!-- creation bod5 -->
 
       <!-- creation bod6 -->
+        <div class="page_creation_bod6">
+          <div class="cwrapper">
+            <div class="screentop_para">
+              <h1>
+                <span class="h1 colr_white bk_purple" style="padding: 5px 15px 5px 150px;"> ‫
+                ‫في‬ ‫عضاء‬ ‫ا‬ ‫مشاركة‬
+                </span> 
+              </h1>
+              <h1>
+                <span class="h1 colr_purple"> 
+                ‫واللجان‬ ‫المجلس‬ ‫اجتماعات‬
+                </span>
+              </h1>
+            </div>
+            <div class="img_wrap">
+              <div class="right marginr50" style="width: 40%;">
+                <p class="content_para">
+                  ‫لتلك‬ ‫عضاء‬ ‫ا‬ ‫وحضور‬ ‫السابعة‪،‬‬ ‫للدورة‬ ‫واللجان‬ ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫اجتماعات‬ ‫عدد‬ ‫التالية‬ ‫الجداول‬ ‫تُبين‬ ‫ً‪:‬‬ ‫أو‬
+                  ‫التالي‬ ‫النحو‬ ‫على‬ ‫‪2019‬م‪،‬‬ ‫عام‬ ‫ل‬ ‫خ‬ ‫جتماعات‬ ‫ا‬ ‫‪:‬‬
+                </p>
+                <p class="content_para">
+                  ‫لتلك‬ ‫عضاء‬ ‫ا‬ ‫وحضور‬ ‫السابعة‪،‬‬ ‫للدورة‬ ‫واللجان‬ ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫اجتماعات‬ ‫عدد‬ ‫التالية‬ ‫الجداول‬ ‫تُبين‬ ‫ً‪:‬‬ ‫أو‬
+                  ‫التالي‬ ‫النحو‬ ‫على‬ ‫‪2019‬م‪،‬‬ ‫عام‬ ‫ل‬ ‫خ‬ ‫جتماعات‬ ‫ا‬ ‫‪:‬‬
+                </p>
+              </div>
+            </div>
+            <div class="tabular_data2">
+              <div class="c_row first bk_purple">
+                <div>‫
+                  ‫م‬
+                </div>
+                <div>‫‫سم‬ ‫ا‬</div>
+                <div>‫‫‫المنصب‬</div>
+                <div class="c_row last">
+                  <div class="c_row f-row" style="padding:10px 20px;">‫الفعلية‬ ‫الملكية‬ ‫نسبة‬</div>
+                  <div class="c_row f-row">
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                  </div>
+                </div>
+                <div>‫
+                  ال‬ ‫اسم‬
+                  ‫التابعة‬ ‫كة‬
+                </div>
+              </div>
+              <div class="c_row first table_white">
+                <div>‫
+                  1
+                </div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div class="c_row last">
+                  <div class="c_row f-row">
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                  </div>
+                </div>
+                <div>‫
+                  ال‬ ‫اسم‬
+                  ‫التابعة‬ ‫كة‬
+                </div>
+              </div>
+              <div class="c_row first table_white">
+                <div>‫
+                  2
+                </div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div class="c_row last">
+                  <div class="c_row f-row">
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                  </div>
+                </div>
+                <div>‫
+                  ال‬ ‫اسم‬
+                  ‫التابعة‬ ‫كة‬
+                </div>
+              </div>
+              <div class="c_row first table_white">
+                <div>‫
+                  3
+                </div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div class="c_row last">
+                  <div class="c_row f-row">
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                  </div>
+                </div>
+                <div>‫
+                  ال‬ ‫اسم‬
+                  ‫التابعة‬ ‫كة‬
+                </div>
+              </div>
+            </div>
+            <div class="sp_wrap margint50">
+              <div class="content-wrapper ">
+                <div class="left">
+                  <div class="img-wrap">
+                    <img src="img/guy_tab1.jpg">
+                  </div>
+                </div>
+                <div class="right marginr50">
+                  <h5 class="h5 colr_purple">
+                    ‫ا‬دارة‬ ‫ا‬ ‫مجلس‬ ‫لجان‬ ‫اجتماعات‬           
+                  </h5>
+                  <p class="content_para">
+                    ‫حوكمة‬ ‫ئحة‬ ‫ل‬ ‫وفقاً‬ ‫‪stc،‬‬ ‫لتأدية‬ ‫زمة‬ ‫ال‬ ‫اللجان‬ ‫المجلس‬ ‫يشكل‬ ‫قة‪،‬‬ ‫الع‬ ‫ذات‬ ‫الجهات‬ ‫من‬ ‫الصادرة‬ ‫واللوائح‬ ‫نظمة‬ ‫وا‬
+                    ‫قبل‬ ‫من‬ ‫عملها‪،‬‬ ‫وإجراءات‬ ‫مسؤولياتها‪،‬‬ ‫تحديد‬ ‫اللجان‬ ‫تشكيل‬ ‫عند‬ ‫ويراعى‬ ‫المجلس‪،‬‬ ‫وفاعلية‬ ‫كفاءة‬ ‫يحقق‬ ‫بما‬ ‫عمله‬
+                    ‫نحو‬ ‫على‬ ‫بها‬ ‫قة‬ ‫الع‬ ‫ذوي‬ ‫وتعريف‬ ‫لذلك‪،‬‬ ‫زمة‬ ‫ال‬ ‫القرارات‬ ‫وإصدار‬ ‫جراءات‪،‬‬ ‫وا‬ ‫المسؤوليات‬ ‫هذه‬ ‫وتوثيق‬ ‫المجلس‬
+                    ‫التالي‬ ‫النحو‬ ‫على‬ ‫)السابعة(‬ ‫الحالية‬ ‫للدورة‬ ‫المجلس‬ ‫لجان‬ ‫شُكلت‬ ‫وقد‬ ‫‪:‬مناسب‪.‬‬
+                  </p>
+                  <br><br>
+                  <h5 class="h5 colr_purple">
+                    ‫التنفيذية‬ ‫‪:‬اللجنة‬            
+                  </h5>
+                  <p class="content_para">
+                    ‫‫كة‪،‬‬ ‫لل‬ ‫التنفيذي‬ ‫الرئيس‬ ‫أحدهما‬ ‫خارجيين‬ ‫وعضوين‬ ‫دارة‪،‬‬ ‫ا‬ ‫مجلس‬ ‫أعضاء‬ ‫من‬ ‫أعضاء‬ ‫أربعة‬ ‫من‬ ‫اللجنة‬ ‫تتكون‬
+                    ‫في‬ ‫كة‬ ‫لل‬ ‫والدولية‬ ‫المحلية‬ ‫عمال‬ ‫وا‬ ‫التقديرية‬ ‫السنوية‬ ‫والموازنات‬ ‫ستراتيجيات‬ ‫ا‬ ‫بمراجعة‬ ‫اللجنة‬ ‫وتختص‬
+                    ‫قبل‬ ‫من‬ ‫والمحددة‬ ‫بها‬ ‫المنوطة‬ ‫حيات‬ ‫الص‬ ‫بحسب‬ ‫عليها‬ ‫والموافقة‬ ‫ساسية‪،‬‬ ‫ا‬ ‫وغير‬ ‫ساسية‬ ‫ا‬ ‫العمل‬ ‫ت‬ ‫مجا‬
+                    ‫التالي‬ ‫الجدول‬ ‫في‬ ‫موضح‬ ‫هو‬ ‫كما‬ ‫‪2019‬م‪،‬‬ ‫عام‬ ‫ل‬ ‫خ‬ ‫اجتماعات‬ ‫ستة‬ ‫اللجنة‬ ‫عقدت‬ ‫وقد‬ ‫دارة‪،‬‬ ‫ا‬ ‫‪:‬مجلس‬
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="tabular_data2 margint50">
+              <div class="c_row first bk_purple">
+                <div>‫
+                  ‫م‬
+                </div>
+                <div>‫‫سم‬ ‫ا‬</div>
+                <div>‫‫‫المنصب‬</div>
+                <div class="c_row last">
+                  <div class="c_row f-row" style="padding:10px 20px;">‫الفعلية‬ ‫الملكية‬ ‫نسبة‬</div>
+                  <div class="c_row f-row">
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                  </div>
+                </div>
+                <div>‫
+                  ال‬ ‫اسم‬
+                  ‫التابعة‬ ‫كة‬
+                </div>
+              </div>
+              <div class="c_row first table_white">
+                <div>‫
+                  1
+                </div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div class="c_row last">
+                  <div class="c_row f-row">
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                  </div>
+                </div>
+                <div>‫
+                  ال‬ ‫اسم‬
+                  ‫التابعة‬ ‫كة‬
+                </div>
+              </div>
+              <div class="c_row first table_white">
+                <div>‫
+                  2
+                </div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div class="c_row last">
+                  <div class="c_row f-row">
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                  </div>
+                </div>
+                <div>‫
+                  ال‬ ‫اسم‬
+                  ‫التابعة‬ ‫كة‬
+                </div>
+              </div>
+              <div class="c_row first table_white">
+                <div>‫
+                  3
+                </div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div class="c_row last">
+                  <div class="c_row f-row">
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                  </div>
+                </div>
+                <div>‫
+                  ال‬ ‫اسم‬
+                  ‫التابعة‬ ‫كة‬
+                </div>
+              </div>
+            </div>
+            <div class="sp_wrap">
+              <div class="content-wrapper inner-wrapper c-row-reverse sp_row">
+                <div class="right marginr50" style="position: relative; width: 50%;">
+                  <h5 class="h5 colr_purple">
+                    ‫والمكافآت‬ ‫الترشيحات‬ ‫‪:‬لجنة‬           
+                  </h5>
+                  <p class="content_para">
+                    ‫‫عليها‬ ‫والمصادقة‬ ‫ئمة‬ ‫الم‬ ‫التشغيل‬ ‫آلية‬ ‫تصميم‬ ‫عملية‬ ‫بمراجعة‬ ‫اللجنة‬ ‫وتختص‬ ‫خارجيين‬ ‫وعضوين‬ ‫دارة‪،‬‬ ‫ا‬ ‫مجلس‬ ‫أعضاء‬ ‫من‬ ‫عضوين‬ ‫من‬ ‫اللجنة‬ ‫تتكون‬
+                    ‫والموظفين‬ ‫دارة‬ ‫ل‬ ‫زمة‬ ‫ال‬ ‫الحوافز‬ ‫يؤمّن‬ ‫بما‬ ‫ً‬ ‫عاد‬ ‫تطبيقاً‬ ‫وتطبيقها‬ ‫السوق‪،‬‬ ‫وتطورات‬ ‫معايير‬ ‫مع‬ ‫يتناسب‬ ‫بما‬ ‫الرواتب‬ ‫هيكل‬ ‫ومراجعة‬ ‫ووضع‬ ‫وإقرارها‪،‬‬
+                    ‫من‬ ‫سنوي‬ ‫بشكل‬ ‫والتأكد‬ ‫إجراؤها‪،‬‬ ‫يمكن‬ ‫التي‬ ‫التغييرات‬ ‫بشأن‬ ‫دارة‬ ‫ا‬ ‫لمجلس‬ ‫التوصيات‬ ‫ورفع‬ ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫هيكل‬ ‫ومراجعة‬ ‫المطلوب‪،‬‬ ‫بالدور‬ ‫للقيام‬
+                    ‫سياسة‬ ‫مراجعة‬ ‫وكذلك‬ ‫أخرى‪،‬‬ ‫كة‬ ‫إدارة‬ ‫مجلس‬ ‫عضوية‬ ‫يشغل‬ ‫العضو‬ ‫كان‬ ‫إذا‬ ‫خصوصاً‬ ‫مصالح‬ ‫تعارض‬ ‫أي‬ ‫وجود‬ ‫وعدم‬ ‫المستقلين‬ ‫عضاء‬ ‫ا‬ ‫لية‬ ‫استق‬
+                    ‫أعمال‬ ‫أن‬ ‫من‬ ‫والتأكد‬ ‫دارة‪،‬‬ ‫ا‬ ‫مجلس‬ ‫إلى‬ ‫حالتها‬ ‫تمهيداً‬ ‫عليها‬ ‫والمصادقة‬ ‫دارة‬ ‫ا‬ ‫لمجلس‬ ‫والتعويضات‬ ‫المميزات‬ ‫‪stc‬‬ ‫الممارسات‬ ‫أفضل‬ ‫مع‬
+                    ‫تتما‬
+                    ‫التالي‬ ‫الجدول‬ ‫في‬ ‫موضح‬ ‫هو‬ ‫كما‬ ‫‪2019‬م‪،‬‬ ‫عام‬ ‫ل‬ ‫خ‬ ‫اجتماعات‬ ‫أربعة‬ ‫اللجنة‬ ‫عقدت‬ ‫وقد‬ ‫الحوكمة‪،‬‬ ‫مجال‬ ‫‪:‬في‬
+                  </p>
+                </div>
+                <div class="left">
+                  <div class="bar-wrap" style="left: 0;right: auto;height: 25px;">
+                    <div class="element_bars_hr" style="width: 80%;position: absolute;left: 0;height: 100%;">
+                      <div class="leftbar bk_pink" style="width: 5%"></div>
+                      <div class="rightbar  bk_purple" style="width: 95%"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tabular_data2 margint50">
+              <div class="c_row first bk_purple">
+                <div>‫
+                  ‫م‬
+                </div>
+                <div>‫‫سم‬ ‫ا‬</div>
+                <div>‫‫‫المنصب‬</div>
+                <div class="c_row last">
+                  <div class="c_row f-row" style="padding:10px 20px;">‫الفعلية‬ ‫الملكية‬ ‫نسبة‬</div>
+                  <div class="c_row f-row">
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                  </div>
+                </div>
+                <div>‫
+                  ال‬ ‫اسم‬
+                  ‫التابعة‬ ‫كة‬
+                </div>
+              </div>
+              <div class="c_row first table_white">
+                <div>‫
+                  1
+                </div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div class="c_row last">
+                  <div class="c_row f-row">
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                  </div>
+                </div>
+                <div>‫
+                  ال‬ ‫اسم‬
+                  ‫التابعة‬ ‫كة‬
+                </div>
+              </div>
+              <div class="c_row first table_white">
+                <div>‫
+                  2
+                </div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div class="c_row last">
+                  <div class="c_row f-row">
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                  </div>
+                </div>
+                <div>‫
+                  ال‬ ‫اسم‬
+                  ‫التابعة‬ ‫كة‬
+                </div>
+              </div>
+              <div class="c_row first table_white">
+                <div>‫
+                  3
+                </div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div class="c_row last">
+                  <div class="c_row f-row">
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                  </div>
+                </div>
+                <div>‫
+                  ال‬ ‫اسم‬
+                  ‫التابعة‬ ‫كة‬
+                </div>
+              </div>
+            </div>
+            <div class="sp_wrap">
+              <div class="content-wrapper inner-wrapper c-row-reverse sp_row">
+                <div class="right marginr50 noheight" style="position: relative; width: 50%;">
+                  <h5 class="h5 colr_purple">
+                    ‫والمكافآت‬ ‫الترشيحات‬ ‫‪:‬لجنة‬           
+                  </h5>
+                  <p class="content_para">
+                    ‫‫عليها‬ ‫والمصادقة‬ ‫ئمة‬ ‫الم‬ ‫التشغيل‬ ‫آلية‬ ‫تصميم‬ ‫عملية‬ ‫بمراجعة‬ ‫اللجنة‬ ‫وتختص‬ ‫خارجيين‬ ‫وعضوين‬ ‫دارة‪،‬‬ ‫ا‬ ‫مجلس‬ ‫أعضاء‬ ‫من‬ ‫عضوين‬ ‫من‬ ‫اللجنة‬ ‫تتكون‬
+                    ‫والموظفين‬ ‫دارة‬ ‫ل‬ ‫زمة‬ ‫ال‬ ‫الحوافز‬ ‫يؤمّن‬ ‫بما‬ ‫ً‬ ‫عاد‬ ‫تطبيقاً‬ ‫وتطبيقها‬ ‫السوق‪،‬‬ ‫وتطورات‬ ‫معايير‬ ‫مع‬ ‫يتناسب‬ ‫بما‬ ‫الرواتب‬ ‫هيكل‬ ‫
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="tabular_data2 margint50">
+              <div class="c_row first bk_purple">
+                <div>‫
+                  ‫م‬
+                </div>
+                <div>‫‫سم‬ ‫ا‬</div>
+                <div>‫‫‫المنصب‬</div>
+                <div class="c_row last">
+                  <div class="c_row f-row" style="padding:10px 20px;">‫الفعلية‬ ‫الملكية‬ ‫نسبة‬</div>
+                  <div class="c_row f-row">
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                  </div>
+                </div>
+                <div>‫
+                  ال‬ ‫اسم‬
+                  ‫التابعة‬ ‫كة‬
+                </div>
+              </div>
+              <div class="c_row first table_white">
+                <div>‫
+                  1
+                </div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div class="c_row last">
+                  <div class="c_row f-row">
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                  </div>
+                </div>
+                <div>‫
+                  ال‬ ‫اسم‬
+                  ‫التابعة‬ ‫كة‬
+                </div>
+              </div>
+              <div class="c_row first table_white">
+                <div>‫
+                  2
+                </div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div class="c_row last">
+                  <div class="c_row f-row">
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                  </div>
+                </div>
+                <div>‫
+                  ال‬ ‫اسم‬
+                  ‫التابعة‬ ‫كة‬
+                </div>
+              </div>
+              <div class="c_row first table_white">
+                <div>‫
+                  3
+                </div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div>‫التأسيس‬ ‫بلد‬</div>
+                <div class="c_row last">
+                  <div class="c_row f-row">
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                    <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                  </div>
+                </div>
+                <div>‫
+                  ال‬ ‫اسم‬
+                  ‫التابعة‬ ‫كة‬
+                </div>
+              </div>
+            </div>
+            <div class="sp_wrap">
+              <div class="content-wrapper inner-wrapper c-row-reverse sp_row">
+                <div class="left" style="position: relative;">
+                  <div class="bar-wrap" style="top: 0;transform: translate(0,0);">
+                    <div class="element_bars_hr" style="width: 100%;position: absolute;right: 0;height: 100%;">
+                      <div class="leftbar bk_purple" style="width: 90%"></div>
+                      <div class="rightbar bk_pink" style="width: 10%"></div>
+                    </div>
+                  </div>
+                  <div class="img-wrap margint100 marginr50">
+                    <img src="img/guy_tab1.jpg">
+                  </div>
+                  <div class="marginr50 margint100">
+                    <h5 class="h5 colr_purple">
+                      ‫الحا‬ ‫المجلس‬ ‫أعضاء‬ ‫وأسماء‬ ‫‪2019‬م‬ ‫المالية‬ ‫السنة‬ ‫ل‬ ‫خ‬ ‫المنعقدة‬ ‫للمساهمين‬ ‫العامة‬ ‫الجمعيات‬ ‫بتواريخ‬ ‫بيان‬
+                    </h5>
+                    <div class="tabular_data nomargin col10" style="width: 100%;">
+                      <div class="c_row first bk_purple nomargin">
+                        <div>الرئيس</div>
+                        <div>الرئيس</div>
+                        <div>الرئيس</div>
+                      </div>
+                      <div class="tabular_data_inner">
+                        <div class="c_row">
+                          <div>1</div>
+                          <div>
+                            جانه
+                            صاحب السمو الملكي
+                            امير/ محمد بن خالد
+                            العبدالل
+                          </div>
+                          <div>
+                            استاذ/ أحمد بن
+                            رئيس مجلس •
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <p class="content_para margint50">
+                      ‫‫مسبقاً‬ ‫رتباطهما‬ ‫تشـســنـــــــــــات‪،‬‬ ‫روي‬ ‫ستاذ‪/‬‬ ‫وا‬ ‫كابـور‪،‬‬ ‫سانجـــاي‬ ‫ستاذ‪/‬‬ ‫ا‬ ‫حضور‬ ‫عدم‬ ‫‪.‬يعزى‬
+                      <br>
+                      <br>
+                      ‫محا‬ ‫على‬ ‫ع‬ ‫ط‬ ‫ا‬ ‫يمكن‬ ‫‪stc‬‬ ‫لكتروني‬ ‫ا‬ ‫‪www.stc.com.sa‬‬
+                      ‫موقع‬ ‫في‬ ‫جتماعات‬ ‫ا‬
+                    </p>
+                  </div>
+                </div>
+                <div class="right marginr50">
+                  <h5 class="h5 colr_purple">
+                    ‫الحا‬ ‫المجلس‬ ‫أعضاء‬ ‫وأسماء‬ ‫‪2019‬م‬ ‫المالية‬ ‫السنة‬ ‫ل‬ ‫خ‬ ‫المنعقدة‬ ‫للمساهمين‬ ‫العامة‬ ‫الجمعيات‬ ‫بتواريخ‬ ‫بيان‬
+                  </h5>
+                  <p class="content_para">
+                    ‫استراتيجية‬ ‫مع‬ ‫واضح‬ ‫وبشكل‬ ‫مرتبطة‬ ‫بالحوكمة‬ ‫خاصة‬ ‫استراتيجية‬ ‫وجود‬ ‫همية‬ ‫و‬ ‫‪stc،‬‬ ‫دارة‬ ‫ا‬ ‫حرصت‬
+                    ‫استراتيجية‬ ‫واعتماد‬ ‫تطوير‬ ‫على‬ ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫في‬ ‫والمكافآت‬ ‫الترشيحات‬ ‫لجنة‬ ‫من‬ ‫وبدعم‬ ‫التنفيذية‬
+                    ‫هذا‬ ‫في‬ ‫كة‬ ‫لل‬ ‫ستراتيجي‬ ‫ا‬ ‫التوجه‬ ‫تشكل‬ ‫رئيسة‬ ‫محاور‬ ‫تضمنت‬ ‫والتي‬ ‫‪2019‬م‪،‬‬ ‫العام‬ ‫بداية‬ ‫في‬ ‫الحوكمة‬
+                    ‫بالتطوير‪،‬‬ ‫المستهدفة‬ ‫ستراتيجية‬ ‫ا‬ ‫المبادرات‬ ‫من‬ ‫مجموعة‬ ‫المعتمدة‬ ‫ستراتيجية‬ ‫ا‬ ‫تضمنت‬ ‫كما‬ ‫الشأن‪.‬‬
+                    ‫العامة‬ ‫الجمعية‬ ‫مستوى‬ ‫على‬ ‫منها‬ ‫بعضٍ‬ ‫إنجاز‬ ‫كة‬ ‫ال‬ ‫في‬ ‫الحوكمة‬ ‫بأعمال‬ ‫المختص‬ ‫الفريق‬ ‫أكمل‬ ‫حيث‬
+                    ‫السلوك‬ ‫وسياسة‬ ‫المصالح‬ ‫تعارض‬ ‫سياسة‬ ‫واعتماد‬ ‫العامة‪،‬‬ ‫الجمعية‬ ‫من‬ ‫رباح‬ ‫ا‬ ‫توزيع‬ ‫سياسة‬ ‫كاعتماد‬
+                    ‫مستوى‬ ‫على‬ ‫أعمال‬ ‫تطوير‬ ‫على‬ ‫الحوكمة‬ ‫بأعمال‬ ‫المختص‬ ‫الفريق‬ ‫عمل‬ ‫كما‬ ‫دارة‪.‬‬ ‫ا‬ ‫مجلس‬ ‫من‬ ‫المهني‬
+                    ‫في‬ ‫الحوكمة‬ ‫عمل‬ ‫إطار‬ ‫تطوير‬ ‫ومنها‬ ‫التنفيذية‬ ‫دارة‬ ‫ا‬ ‫‪stc،‬‬ ‫دارية‬ ‫ا‬ ‫اللجان‬ ‫عمل‬ ‫‪.‬وإطار‬
+                    <br><br>
+                    ‫قبل‬ ‫من‬ ‫الصادرة‬ ‫يعات‬ ‫والت‬ ‫نظمة‬ ‫ا‬ ‫صعيد‬ ‫على‬ ‫متغيرات‬ ‫من‬ ‫يستجد‬ ‫بما‬ ‫وطيدة‬ ‫قة‬ ‫ع‬ ‫وللحوكمة‬
+                    ‫في‬ ‫الحوكمة‬ ‫لوثائق‬ ‫مستمر‬ ‫تقييم‬ ‫عمل‬ ‫ورة‬
+                    ‫يعني‬ ‫مما‬ ‫الحكومية‪،‬‬ ‫وشبه‬ ‫الحكومية‬ ‫القطاعات‬ ‫‪stc‬‬
+                    ‫سنوية‬ ‫مبادرة‬ ‫ق‬ ‫إط‬ ‫التنفيذية‬ ‫دارة‬ ‫ا‬ ‫تبنت‬ ‫كما‬ ‫يعات‪.‬‬ ‫وت‬ ‫تنظيمات‬ ‫من‬ ‫يستجد‬ ‫لما‬ ‫وفقاً‬ ‫وتحديثها‬
+                    ‫فرص‬ ‫عن‬ ‫البحث‬ ‫بغرض‬ ‫بالحوكمة‬ ‫المعنية‬ ‫عمال‬ ‫وا‬ ‫الوثائق‬ ‫لجميع‬ ‫داخلي‬ ‫سنوي‬ ‫تقييم‬ ‫عمل‬ ‫إلى‬ ‫تهدف‬
+                    ‫من‬ ‫حققتها‬ ‫وما‬ ‫كة‬ ‫ال‬ ‫أعمال‬ ‫على‬ ‫يجابي‬ ‫ا‬ ‫ثر‬ ‫ا‬ ‫المبادرة‬ ‫لهذه‬ ‫كان‬ ‫لقد‬ ‫تطويرها‪.‬‬ ‫على‬ ‫والعمل‬ ‫التحسين‬
+                    ‫مركز‬ ‫من‬ ‫المقدمة‬ ‫الحوكمة‬ ‫في‬ ‫التميز‬ ‫جائزة‬ ‫تحقيق‬ ‫من‬ ‫سبحانه‬ ‫الله‬ ‫توفيق‬ ‫بعد‬ ‫استطاعت‬ ‫حيث‬ ‫إنجازات‪،‬‬
+                    ‫جامعة‬ ‫وبإدارة‬ ‫ستثمار‬ ‫ل‬ ‫العامة‬ ‫والهيئة‬ ‫المالية‬ ‫السوق‬ ‫هيئة‬ ‫عليه‬ ‫ف‬ ‫ت‬ ‫والذي‬ ‫كات‬ ‫ال‬ ‫حوكمة‬
+                    ‫تكريم‬ ‫وجاء‬ ‫الفيصل‪،‬‬ ‫‪stc‬‬ ‫ل‬ ‫خ‬ ‫الرياض‬ ‫مدينة‬ ‫في‬ ‫المنعقد‬ ‫كات‬ ‫ال‬ ‫لحوكمة‬ ‫ول‬ ‫ا‬ ‫العالمي‬ ‫المؤتمر‬ ‫ل‬ ‫خ‬
+                    ‫‪2019‬م‬ ‫‪.‬العام‬
+                    <br><br>
+                    ‫المادة‬ ‫باستثناء‬ ‫المالية‬ ‫السوق‬ ‫هيئة‬ ‫من‬ ‫الصادرة‬ ‫كات‬ ‫ال‬ ‫حوكمة‬ ‫ئحة‬ ‫أحكام‬ ‫جميع‬ ‫تطبيق‬ ‫تم‬ ‫وقد‬
+                    ‫حين‬ ‫في‬ ‫خمسة‪،‬‬ ‫عن‬ ‫يزيد‬ ‫و‬ ‫ثة‬ ‫ث‬ ‫عن‬ ‫اللجان‬ ‫أعضاء‬ ‫عدد‬ ‫يقل‬ ‫أ‬ ‫على‬ ‫تنص‬ ‫التي‬ ‫رابعاً(‪،‬‬ ‫)الفقرة‬ ‫الخمسون‬
+                    ‫الرئيس‬ ‫أحدهم‬ ‫خارجيين‪،‬‬ ‫وعضوين‬ ‫دارة‪،‬‬ ‫ا‬ ‫مجلس‬ ‫أعضاء‬ ‫من‬ ‫أعضاء‬ ‫أربعة‬ ‫من‬ ‫التنفيذية‬ ‫اللجنة‬ ‫تتكون‬
+                    <br><br>
+                    ‫المادة‬ ‫باستثناء‬ ‫المالية‬ ‫السوق‬ ‫هيئة‬ ‫من‬ ‫الصادرة‬ ‫كات‬ ‫ال‬ ‫حوكمة‬ ‫ئحة‬ ‫أحكام‬ ‫جميع‬ ‫تطبيق‬ ‫تم‬ ‫وقد‬
+                    ‫حين‬ ‫في‬ ‫خمسة‪،‬‬ ‫عن‬ ‫يزيد‬ ‫و‬ ‫ثة‬ ‫ث‬ ‫عن‬ ‫اللجان‬ ‫أعضاء‬ ‫عدد‬ ‫يقل‬ ‫أ‬ ‫على‬ ‫تنص‬ ‫التي‬ ‫رابعاً(‪،‬‬ ‫)الفقرة‬ ‫الخمسون‬
+                    ‫الرئيس‬ ‫أحدهم‬ ‫خارجيين‪،‬‬ ‫وعضوين‬ ‫دارة‪،‬‬ ‫ا‬ ‫مجلس‬ ‫أعضاء‬ ‫من‬ ‫أعضاء‬ ‫أربعة‬ ‫من‬ ‫التنفيذية‬ ‫اللجنة‬ ‫تتكون‬
+                    <br><br>
+                    ‫المادة‬ ‫باستثناء‬ ‫المالية‬ ‫السوق‬ ‫هيئة‬ ‫من‬ ‫الصادرة‬ ‫كات‬ ‫ال‬ ‫حوكمة‬ ‫ئحة‬ ‫أحكام‬ ‫جميع‬ ‫تطبيق‬ ‫تم‬ ‫وقد‬
+                    ‫حين‬ ‫في‬ ‫خمسة‪،‬‬ ‫عن‬ ‫يزيد‬ ‫و‬ ‫ثة‬ ‫ث‬ ‫عن‬ ‫اللجان‬ ‫أعضاء‬ ‫عدد‬ ‫يقل‬ ‫أ‬ ‫على‬ ‫تنص‬ ‫التي‬ ‫رابعاً(‪،‬‬ ‫)الفقرة‬ ‫الخمسون‬
+                    ‫الرئيس‬ ‫أحدهم‬ ‫خارجيين‪،‬‬ ‫وعضوين‬ ‫دارة‪،‬‬ ‫ا‬ ‫مجلس‬ ‫أعضاء‬ ‫من‬ ‫أعضاء‬ ‫أربعة‬ ‫من‬ ‫التنفيذية‬ ‫اللجنة‬ ‫تتكون‬
+                    <br><br>
+                    ‫المادة‬ ‫باستثناء‬ ‫المالية‬ ‫السوق‬ ‫هيئة‬ ‫من‬ ‫الصادرة‬ ‫كات‬ ‫ال‬ ‫حوكمة‬ ‫ئحة‬ ‫أحكام‬ ‫جميع‬ ‫تطبيق‬ ‫تم‬ ‫وقد‬
+                    ‫حين‬ ‫في‬ ‫خمسة‪،‬‬ ‫عن‬ ‫يزيد‬ ‫و‬ ‫ثة‬ ‫ث‬ ‫عن‬ ‫اللجان‬ ‫أعضاء‬ ‫عدد‬ ‫يقل‬ ‫أ‬ ‫على‬ ‫تنص‬ ‫التي‬ ‫رابعاً(‪،‬‬ ‫)الفقرة‬ ‫الخمسون‬
+                    ‫الرئيس‬ ‫أحدهم‬ ‫خارجيين‪،‬‬ ‫وعضوين‬ ‫دارة‪،‬‬ ‫ا‬ ‫مجلس‬ ‫أعضاء‬ ‫من‬ ‫أعضاء‬ ‫أربعة‬ ‫من‬ ‫التنفيذية‬ ‫اللجنة‬ ‫تتكون‬
+                    <br><br>
+                    ‫المادة‬ ‫باستثناء‬ ‫المالية‬ ‫السوق‬ ‫هيئة‬ ‫من‬ ‫الصادرة‬ ‫كات‬ ‫ال‬ ‫حوكمة‬ ‫ئحة‬ ‫أحكام‬ ‫جميع‬ ‫تطبيق‬ ‫تم‬ ‫وقد‬
+                    ‫حين‬ ‫في‬ ‫خمسة‪،‬‬ ‫عن‬ ‫يزيد‬ ‫و‬ ‫ثة‬ ‫ث‬ ‫عن‬ ‫اللجان‬ ‫أعضاء‬ ‫عدد‬ ‫يقل‬ ‫أ‬ ‫على‬ ‫تنص‬ ‫التي‬ ‫رابعاً(‪،‬‬ ‫)الفقرة‬ ‫الخمسون‬
+                    ‫الرئيس‬ ‫أحدهم‬ ‫خارجيين‪،‬‬ ‫وعضوين‬ ‫دارة‪،‬‬ ‫ا‬ ‫مجلس‬ ‫أعضاء‬ ‫من‬ ‫أعضاء‬ ‫أربعة‬ ‫من‬ ‫التنفيذية‬ ‫اللجنة‬ ‫تتكون‬
+                    <br><br>
+                    ‫المادة‬ ‫باستثناء‬ ‫المالية‬ ‫السوق‬ ‫هيئة‬ ‫من‬ ‫الصادرة‬ ‫كات‬ ‫ال‬ ‫حوكمة‬ ‫ئحة‬ ‫أحكام‬ ‫جميع‬ ‫تطبيق‬ ‫تم‬ ‫وقد‬
+                    ‫حين‬ ‫في‬ ‫خمسة‪،‬‬ ‫عن‬ ‫يزيد‬ ‫و‬ ‫ثة‬ ‫ث‬ ‫عن‬ ‫اللجان‬ ‫أعضاء‬ ‫عدد‬ ‫يقل‬ ‫أ‬ ‫على‬ ‫تنص‬ ‫التي‬ ‫رابعاً(‪،‬‬ ‫)الفقرة‬ ‫الخمسون‬
+                    ‫الرئيس‬ ‫أحدهم‬ ‫خارجيين‪،‬‬ ‫وعضوين‬ ‫دارة‪،‬‬ ‫ا‬ ‫مجلس‬ ‫أعضاء‬ ‫من‬ ‫أعضاء‬ ‫أربعة‬ ‫من‬ ‫التنفيذية‬ ‫اللجنة‬ ‫تتكون‬
+                    <br><br>
+                    ‫المادة‬ ‫باستثناء‬ ‫المالية‬ ‫السوق‬ ‫هيئة‬ ‫من‬ ‫الصادرة‬ ‫كات‬ ‫ال‬ ‫حوكمة‬ ‫ئحة‬ ‫أحكام‬ ‫جميع‬ ‫تطبيق‬ ‫تم‬ ‫وقد‬
+                    ‫حين‬ ‫في‬ ‫خمسة‪،‬‬ ‫عن‬ ‫يزيد‬ ‫و‬ ‫ثة‬ ‫ث‬ ‫عن‬ ‫اللجان‬ ‫أعضاء‬ ‫عدد‬ ‫يقل‬ ‫أ‬ ‫على‬ ‫تنص‬ ‫التي‬ ‫رابعاً(‪،‬‬ ‫)الفقرة‬ ‫الخمسون‬
+                    ‫الرئيس‬ ‫أحدهم‬ ‫خارجيين‪،‬‬ ‫وعضوين‬ ‫دارة‪،‬‬ ‫ا‬ ‫مجلس‬ ‫أعضاء‬ ‫من‬ ‫أعضاء‬ ‫أربعة‬ ‫من‬ ‫التنفيذية‬ ‫اللجنة‬ ‫تتكون‬
+                    <br><br>
+                    ‫قبل‬ ‫من‬ ‫الصادرة‬ ‫يعات‬ ‫والت‬ ‫نظمة‬ ‫ا‬ ‫صعيد‬ ‫على‬ ‫متغيرات‬ ‫من‬ ‫يستجد‬ ‫بما‬ ‫وطيدة‬ ‫قة‬ ‫ع‬ ‫وللحوكمة‬
+                    ‫في‬ ‫الحوكمة‬ ‫لوثائق‬ ‫مستمر‬ ‫تقييم‬ ‫عمل‬ ‫ورة‬
+                    ‫يعني‬ ‫مما‬ ‫الحكومية‪،‬‬ ‫وشبه‬ ‫الحكومية‬ ‫القطاعات‬ ‫‪stc‬‬
+                    ‫سنوية‬ ‫مبادرة‬ ‫ق‬ ‫إط‬ ‫التنفيذية‬ ‫دارة‬ ‫ا‬ ‫تبنت‬ ‫كما‬ ‫يعات‪.‬‬ ‫وت‬ ‫تنظيمات‬ ‫من‬ ‫يستجد‬ ‫لما‬ ‫وفقاً‬ ‫وتحديثها‬
+                    ‫فرص‬ ‫عن‬ ‫البحث‬ ‫بغرض‬ ‫بالحوكمة‬ ‫المعنية‬ ‫عمال‬ ‫وا‬ ‫الوثائق‬ ‫لجميع‬ ‫داخلي‬ ‫سنوي‬ ‫تقييم‬ ‫عمل‬ ‫إلى‬ ‫تهدف‬
+                    ‫من‬ ‫حققتها‬ ‫وما‬ ‫كة‬ ‫ال‬ ‫أعمال‬ ‫على‬ ‫يجابي‬ ‫ا‬ ‫ثر‬ ‫ا‬ ‫المبادرة‬ ‫لهذه‬ ‫كان‬ ‫لقد‬ ‫تطويرها‪.‬‬ ‫على‬ ‫والعمل‬ ‫التحسين‬
+                    ‫مركز‬ ‫من‬ ‫المقدمة‬ ‫الحوكمة‬ ‫في‬ ‫التميز‬ ‫جائزة‬ ‫تحقيق‬ ‫من‬ ‫سبحانه‬ ‫الله‬ ‫توفيق‬ ‫بعد‬ ‫استطاعت‬ ‫حيث‬ ‫إنجازات‪،‬‬
+                    ‫جامعة‬ ‫وبإدارة‬ ‫ستثمار‬ ‫ل‬ ‫العامة‬ ‫والهيئة‬ ‫المالية‬ ‫السوق‬ ‫هيئة‬ ‫عليه‬ ‫ف‬ ‫ت‬ ‫والذي‬ ‫كات‬ ‫ال‬ ‫حوكمة‬
+                    ‫تكريم‬ ‫وجاء‬ ‫الفيصل‪،‬‬ ‫‪stc‬‬ ‫ل‬ ‫خ‬ ‫الرياض‬ ‫مدينة‬ ‫في‬ ‫المنعقد‬ ‫كات‬ ‫ال‬ ‫لحوكمة‬ ‫ول‬ ‫ا‬ ‫العالمي‬ ‫المؤتمر‬ ‫ل‬ ‫خ‬
+                    ‫‪2019‬م‬ ‫‪.‬العام‬
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       <!-- creation bod6 -->
 
       <!-- creation bod7 -->
+        <div class="page_creation_bod7"></div>
       <!-- creation bod7 -->
 
       <!-- creation bod8 -->
         <div class="page_creation_bod8">
-          <div class="screentop_para">
-            <h1>
-              <span class="h1 colr_purple"> حوكمة  </span>
-            </h1>
-            <h1>
-              <span class="h1 colr_white bk_purple" style="padding: 5px 15px 5px 150px;">
-                الشركة
-              </span>
-            </h1>
-          </div>
-          
-          <div class="cwrapper">
+          <div class="sp_wrap cwrapper">
+            <div class="screentop_para">
+              <h1>
+                <span class="h1 colr_white bk_purple" style="padding: 5px 15px 5px 150px;"> ‫
+                ‫‫حوكمة‬
+                </span> 
+              </h1>
+              <h1>
+                <span class="h1 colr_purple"> 
+                ‫كة‬ ‫ال‬
+                </span>
+              </h1>
+            </div>
             <div class="content-wrapper">
               <div class="left">
-               <div class="img-wrap">
-                 <img src="img/guy_tab1.jpg">
-               </div>
-              </div>
-              <div class="right marginr50">
-               <p class="content_para">
-                حرص مجلس إدارة stc على تأسيس نظام حوكمة فاعل واعتباره جزء لا يتجزأ من نظام الشركة الإداري والمالي، حيث يتولى نظام الحوكمة تنظيم الأعمال الداخلية من خلال إيضاح العلاقة بين مجلس الإدارة وجمعية المساهمين من جهة، ومجلس الإدارة والإدارة التنفيذية من جهة أخرى، كما يتولى نظام الحوكمة في stc تنظيم الأعمال الخارجية من خلال إدارة علاقاتها مع القطاعات الحكومية والجهات التشريعية والمورّدين والمقاولين بغرض تحقيق كفاءة وفاعلية عالية تكفل تحقيق أهداف stc الاستراتيجية. كما تحرص stc على شمولية التنظيمات وقواعد العمل المتعلقة بالتوجيه والمراقبة والشفافية لتكون متوافقة مع ما ورد في نظام الشركات الصادر من مقام وزارة التجارة والاستثمار ولائحة حوكمة الشركات الصادرة من مجلس إدارة هيئة السوق المالية، والأنظمة الأخرى ذات العلاقة، بالإضافة إلى رفع مستوى حوكمة الأعمال في stc من خلال الاستفادة من أفضل الممارسات الإقليمية والعالمية.
-
-                <br /><br />
-                
-                لقد مكن نظام الحوكمة في stc من تحقيق الاستدامة المستهدفة والتي تعتبر ركيزة هامة من ركائز استراتيجية مجموعة stc، فأعمال الشركة ونشاطاتها تستند على وثائق معتمدة من قبل الجهات المعنية، ومن ذلك على سبيل المثال لا الحصر النظام الأساس لشركة stc والمعتمد من قبل وزارة التجارة والاستثمار بعد عرضه على الجمعية العامة، وسياسة توزيع الأرباح المعتمدة من الجمعية العامة، ولوائح عمل مجلس الإدارة واللجان المنبثقة عنه كلائحة عمل لجنة المراجعة المعتمدة من قبل الجمعية العامة، ولائحة حوكمة stc المعتمدة من قبل مجلس الإدارة. كما أن توثيق مصفوفة تفويض الصلاحيات الاستراتيجية والمالية يعد مطلباً أساسياً من متطلبات ضوابط الرقابة الداخلية في stc حيث أنها تعمل على تحديد المسؤوليات والصلاحيات الاستراتيجية والمالية لشاغلي الوظائف الادارية المفوضين باعتماد القرارات والمعاملات في stc، والتي من شأنها أن تعزز من ضبط وحوكمة آليات اتخاذ القرارات الرسمية، وتمنع مخاطر الغش والاحتيال.
-
-               </p>
-              </div>
-            </div>
-
-            <div class="content-wrapper inner-wrapper c-row-reverse sp_row">
-              <div class="left" style="position: relative;">
-              <div class="bar-wrap">
-                 <div class="element_bars_hr" style="width: 100%;position: absolute;right: 0;height: 100%;">
-                      <div class="leftbar bk_purple" style="width: 90%"></div>
-                      <div class="rightbar bk_pink" style="width: 10%"></div>
+                <div class="img-wrap">
+                  <img src="img/guy_tab1.jpg">
                 </div>
               </div>
+              <div class="right marginr50">
+                <p class="content_para">
+                  ‫إدارة‬ ‫مجلس‬ ‫حرص‬ ‫‪stc‬‬ ‫داري‬ ‫ا‬ ‫كة‬ ‫ال‬ ‫نظام‬ ‫من‬ ‫يتجزأ‬ ‫جزء‬ ‫واعتباره‬ ‫فاعل‬ ‫حوكمة‬ ‫نظام‬ ‫تأسيس‬ ‫على‬
+                  ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫بين‬ ‫قة‬ ‫الع‬ ‫إيضاح‬ ‫ل‬ ‫خ‬ ‫من‬ ‫الداخلية‬ ‫عمال‬ ‫ا‬ ‫تنظيم‬ ‫الحوكمة‬ ‫نظام‬ ‫يتولى‬ ‫حيث‬ ‫والمالي‪،‬‬
+                  ‫نظام‬ ‫يتولى‬ ‫كما‬ ‫أخرى‪،‬‬ ‫جهة‬ ‫من‬ ‫التنفيذية‬ ‫دارة‬ ‫وا‬ ‫دارة‬ ‫ا‬ ‫ومجلس‬ ‫جهة‪،‬‬ ‫من‬ ‫المساهمين‬ ‫وجمعية‬
+                  ‫في‬ ‫الحوكمة‬ ‫‪stc‬‬ ‫والجهات‬ ‫الحكومية‬ ‫القطاعات‬ ‫مع‬ ‫قاتها‬ ‫ع‬ ‫إدارة‬ ‫ل‬ ‫خ‬ ‫من‬ ‫الخارجية‬ ‫عمال‬ ‫ا‬ ‫تنظيم‬
+                  ‫أهداف‬ ‫تحقيق‬ ‫تكفل‬ ‫عالية‬ ‫وفاعلية‬ ‫كفاءة‬ ‫تحقيق‬ ‫بغرض‬ ‫والمقاولين‬ ‫والمورّدين‬ ‫يعية‬ ‫الت‬ ‫‪stc‬‬
+                  ‫تحرص‬ ‫كما‬ ‫ستراتيجية‪.‬‬ ‫ا‬ ‫‪stc‬‬ ‫والمراقبة‬ ‫بالتوجيه‬ ‫المتعلقة‬ ‫العمل‬ ‫وقواعد‬ ‫التنظيمات‬ ‫شمولية‬ ‫على‬
+                  ‫ستثمار‬ ‫وا‬ ‫التجارة‬ ‫وزارة‬ ‫مقام‬ ‫من‬ ‫الصادر‬ ‫كات‬ ‫ال‬ ‫نظام‬ ‫في‬ ‫ورد‬ ‫ما‬ ‫مع‬ ‫متوافقة‬ ‫لتكون‬ ‫والشفافية‬
+                  ‫قة‪،‬‬ ‫الع‬ ‫ذات‬ ‫خرى‬ ‫ا‬ ‫نظمة‬ ‫وا‬ ‫المالية‪،‬‬ ‫السوق‬ ‫هيئة‬ ‫إدارة‬ ‫مجلس‬ ‫من‬ ‫الصادرة‬ ‫كات‬ ‫ال‬ ‫حوكمة‬ ‫ئحة‬ ‫و‬
+                  ‫في‬ ‫عمال‬ ‫ا‬ ‫حوكمة‬ ‫مستوى‬ ‫رفع‬ ‫إلى‬ ‫ضافة‬ ‫با‬ ‫‪stc‬‬ ‫قليمية‬ ‫ا‬ ‫الممارسات‬ ‫أفضل‬ ‫من‬ ‫ستفادة‬ ‫ا‬ ‫ل‬ ‫خ‬ ‫من‬
+                  ‫‪.‬والعالمية‬
+                  <br>
+                  ‫في‬ ‫الحوكمة‬ ‫نظام‬ ‫مكن‬ ‫لقد‬ ‫‪stc‬‬ ‫ركائز‬ ‫من‬ ‫هامة‬ ‫ركيزة‬ ‫تعتبر‬ ‫والتي‬ ‫المستهدفة‬ ‫ستدامة‬ ‫ا‬ ‫تحقيق‬ ‫من‬
+                  ‫مجموعة‬ ‫استراتيجية‬ ‫‪stc،‬‬ ‫الجهات‬ ‫قبل‬ ‫من‬ ‫معتمدة‬ ‫وثائق‬ ‫على‬ ‫تستند‬ ‫ونشاطاتها‬ ‫كة‬ ‫ال‬ ‫فأعمال‬
+                  ‫كة‬ ‫ل‬ ‫ساس‬ ‫ا‬ ‫النظام‬
+                  ‫الح‬ ‫المثال‬ ‫سبيل‬ ‫على‬ ‫ذلك‬ ‫ومن‬ ‫المعنية‪،‬‬ ‫‪stc‬‬ ‫وزارة‬ ‫قبل‬ ‫من‬ ‫والمعتمد‬
+                  ‫الجمعية‬ ‫من‬ ‫المعتمدة‬ ‫رباح‬ ‫ا‬ ‫توزيع‬ ‫وسياسة‬ ‫العامة‪،‬‬ ‫الجمعية‬ ‫على‬ ‫عرضه‬ ‫بعد‬ ‫ستثمار‬ ‫وا‬ ‫التجارة‬
+                  ‫قبل‬ ‫من‬ ‫المعتمدة‬ ‫المراجعة‬ ‫لجنة‬ ‫عمل‬ ‫ئحة‬ ‫ك‬ ‫عنه‬ ‫المنبثقة‬ ‫واللجان‬ ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫عمل‬ ‫ولوائح‬ ‫العامة‪،‬‬
+                  ‫حوكمة‬ ‫ئحة‬ ‫و‬ ‫العامة‪،‬‬ ‫الجمعية‬ ‫‪stc‬‬ ‫تفويض‬ ‫مصفوفة‬ ‫توثيق‬ ‫أن‬ ‫كما‬ ‫دارة‪.‬‬ ‫ا‬ ‫مجلس‬ ‫قبل‬ ‫من‬ ‫المعتمدة‬
+                  ‫في‬ ‫الداخلية‬ ‫الرقابة‬ ‫ضوابط‬ ‫متطلبات‬ ‫من‬ ‫أساسياً‬ ‫مطلباً‬ ‫يعد‬ ‫والمالية‬ ‫ستراتيجية‬ ‫ا‬ ‫حيات‬ ‫الص‬ ‫‪stc‬‬ ‫حيث‬
+                  ‫دارية‬ ‫ا‬ ‫الوظائف‬ ‫لشاغلي‬ ‫والمالية‬ ‫ستراتيجية‬ ‫ا‬ ‫حيات‬ ‫والص‬ ‫المسؤوليات‬ ‫تحديد‬ ‫على‬ ‫تعمل‬ ‫أنها‬
+                  ‫في‬ ‫ت‬ ‫والمعام‬ ‫القرارات‬ ‫باعتماد‬ ‫المفوضين‬ ‫‪stc،‬‬ ‫آليات‬ ‫وحوكمة‬ ‫ضبط‬ ‫من‬ ‫تعزز‬ ‫أن‬ ‫شأنها‬ ‫من‬ ‫والتي‬
+                </p>
+                <br><br><br>
+              </div>
+            </div>
+            <div class="content-wrapper inner-wrapper c-row-reverse sp_row">
+              <div class="left" style="position: relative;">
+                <div class="bar-wrap">
+                  <div class="element_bars_hr" style="width: 100%;position: absolute;right: 0;height: 100%;">
+                    <div class="leftbar bk_purple" style="width: 90%"></div>
+                    <div class="rightbar bk_pink" style="width: 10%"></div>
+                  </div>
+                </div>
               </div>
               <div class="right">
                 <p class="content_para">
-                ولأهمية وجود استراتيجية خاصة بالحوكمة مرتبطة وبشكل واضح مع استراتيجية stc، حرصت الإدارة التنفيذية وبدعم من لجنة الترشيحات والمكافآت في مجلس الإدارة على تطوير واعتماد استراتيجية الحوكمة في بداية العام 2019م، والتي تضمنت محاور رئيسة تشكل التوجه الاستراتيجي للشركة في هذا الشأن. كما تضمنت الاستراتيجية المعتمدة مجموعة من المبادرات الاستراتيجية المستهدفة بالتطوير، حيث أكمل الفريق المختص بأعمال الحوكمة في الشركة إنجاز بعضٍ منها على مستوى الجمعية العامة كاعتماد سياسة توزيع الأرباح من الجمعية العامة، واعتماد سياسة تعارض المصالح وسياسة السلوك المهني من مجلس الإدارة. كما عمل الفريق المختص بأعمال الحوكمة على تطوير أعمال على مستوى الإدارة التنفيذية ومنها تطوير إطار عمل الحوكمة في stc، وإطار عمل اللجان الإدارية.
-                <br /><br/>
-                وللحوكمة علاقة وطيدة بما يستجد من متغيرات على صعيد الأنظمة والتشريعات الصادرة من قبل القطاعات الحكومية وشبه الحكومية، مما يعني ضرورة عمل تقييم مستمر لوثائق الحوكمة في stc وتحديثها وفقاً لما يستجد من تنظيمات وتشريعات. كما تبنت الإدارة التنفيذية إطلاق مبادرة سنوية تهدف إلى عمل تقييم سنوي داخلي لجميع الوثائق والأعمال المعنية بالحوكمة بغرض البحث عن فرص التحسين والعمل على تطويرها. لقد كان لهذه المبادرة الأثر الإيجابي على أعمال الشركة وما حققتها من إنجازات، حيث استطاعت بعد توفيق الله سبحانه من تحقيق جائزة التميز في الحوكمة المقدمة من مركز حوكمة الشركات والذي تشرف عليه هيئة السوق المالية والهيئة العامة للاستثمار وبإدارة جامعة الفيصل، وجاء تكريم stc خلال المؤتمر العالمي الأول لحوكمة الشركات المنعقد في مدينة الرياض خلال العام 2019م.
-                <br /><br/>
-                وقد تم تطبيق جميع أحكام لائحة حوكمة الشركات الصادرة من هيئة السوق المالية باستثناء المادة الخمسون (الفقرة رابعاً)، التي تنص على ألا يقل عدد أعضاء اللجان عن ثلاثة ولايزيد عن خمسة، في حين تتكون اللجنة التنفيذية من أربعة أعضاء من أعضاء مجلس الإدارة، وعضوين خارجيين، أحدهم الرئيس التنفيذي للشركة، وذلك بسبب حجم الأعمال والاختصاصات المناطة باللجنة.
-
+                  ‫استراتيجية‬ ‫مع‬ ‫واضح‬ ‫وبشكل‬ ‫مرتبطة‬ ‫بالحوكمة‬ ‫خاصة‬ ‫استراتيجية‬ ‫وجود‬ ‫همية‬ ‫و‬ ‫‪stc،‬‬ ‫دارة‬ ‫ا‬ ‫حرصت‬
+                  ‫استراتيجية‬ ‫واعتماد‬ ‫تطوير‬ ‫على‬ ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫في‬ ‫والمكافآت‬ ‫الترشيحات‬ ‫لجنة‬ ‫من‬ ‫وبدعم‬ ‫التنفيذية‬
+                  ‫هذا‬ ‫في‬ ‫كة‬ ‫لل‬ ‫ستراتيجي‬ ‫ا‬ ‫التوجه‬ ‫تشكل‬ ‫رئيسة‬ ‫محاور‬ ‫تضمنت‬ ‫والتي‬ ‫‪2019‬م‪،‬‬ ‫العام‬ ‫بداية‬ ‫في‬ ‫الحوكمة‬
+                  ‫بالتطوير‪،‬‬ ‫المستهدفة‬ ‫ستراتيجية‬ ‫ا‬ ‫المبادرات‬ ‫من‬ ‫مجموعة‬ ‫المعتمدة‬ ‫ستراتيجية‬ ‫ا‬ ‫تضمنت‬ ‫كما‬ ‫الشأن‪.‬‬
+                  ‫العامة‬ ‫الجمعية‬ ‫مستوى‬ ‫على‬ ‫منها‬ ‫بعضٍ‬ ‫إنجاز‬ ‫كة‬ ‫ال‬ ‫في‬ ‫الحوكمة‬ ‫بأعمال‬ ‫المختص‬ ‫الفريق‬ ‫أكمل‬ ‫حيث‬
+                  ‫السلوك‬ ‫وسياسة‬ ‫المصالح‬ ‫تعارض‬ ‫سياسة‬ ‫واعتماد‬ ‫العامة‪،‬‬ ‫الجمعية‬ ‫من‬ ‫رباح‬ ‫ا‬ ‫توزيع‬ ‫سياسة‬ ‫كاعتماد‬
+                  ‫مستوى‬ ‫على‬ ‫أعمال‬ ‫تطوير‬ ‫على‬ ‫الحوكمة‬ ‫بأعمال‬ ‫المختص‬ ‫الفريق‬ ‫عمل‬ ‫كما‬ ‫دارة‪.‬‬ ‫ا‬ ‫مجلس‬ ‫من‬ ‫المهني‬
+                  ‫في‬ ‫الحوكمة‬ ‫عمل‬ ‫إطار‬ ‫تطوير‬ ‫ومنها‬ ‫التنفيذية‬ ‫دارة‬ ‫ا‬ ‫‪stc،‬‬ ‫دارية‬ ‫ا‬ ‫اللجان‬ ‫عمل‬ ‫‪.‬وإطار‬
+                  <br><br>
+                  ‫قبل‬ ‫من‬ ‫الصادرة‬ ‫يعات‬ ‫والت‬ ‫نظمة‬ ‫ا‬ ‫صعيد‬ ‫على‬ ‫متغيرات‬ ‫من‬ ‫يستجد‬ ‫بما‬ ‫وطيدة‬ ‫قة‬ ‫ع‬ ‫وللحوكمة‬
+                  ‫في‬ ‫الحوكمة‬ ‫لوثائق‬ ‫مستمر‬ ‫تقييم‬ ‫عمل‬ ‫ورة‬
+                  ‫يعني‬ ‫مما‬ ‫الحكومية‪،‬‬ ‫وشبه‬ ‫الحكومية‬ ‫القطاعات‬ ‫‪stc‬‬
+                  ‫سنوية‬ ‫مبادرة‬ ‫ق‬ ‫إط‬ ‫التنفيذية‬ ‫دارة‬ ‫ا‬ ‫تبنت‬ ‫كما‬ ‫يعات‪.‬‬ ‫وت‬ ‫تنظيمات‬ ‫من‬ ‫يستجد‬ ‫لما‬ ‫وفقاً‬ ‫وتحديثها‬
+                  ‫فرص‬ ‫عن‬ ‫البحث‬ ‫بغرض‬ ‫بالحوكمة‬ ‫المعنية‬ ‫عمال‬ ‫وا‬ ‫الوثائق‬ ‫لجميع‬ ‫داخلي‬ ‫سنوي‬ ‫تقييم‬ ‫عمل‬ ‫إلى‬ ‫تهدف‬
+                  ‫من‬ ‫حققتها‬ ‫وما‬ ‫كة‬ ‫ال‬ ‫أعمال‬ ‫على‬ ‫يجابي‬ ‫ا‬ ‫ثر‬ ‫ا‬ ‫المبادرة‬ ‫لهذه‬ ‫كان‬ ‫لقد‬ ‫تطويرها‪.‬‬ ‫على‬ ‫والعمل‬ ‫التحسين‬
+                  ‫مركز‬ ‫من‬ ‫المقدمة‬ ‫الحوكمة‬ ‫في‬ ‫التميز‬ ‫جائزة‬ ‫تحقيق‬ ‫من‬ ‫سبحانه‬ ‫الله‬ ‫توفيق‬ ‫بعد‬ ‫استطاعت‬ ‫حيث‬ ‫إنجازات‪،‬‬
+                  ‫جامعة‬ ‫وبإدارة‬ ‫ستثمار‬ ‫ل‬ ‫العامة‬ ‫والهيئة‬ ‫المالية‬ ‫السوق‬ ‫هيئة‬ ‫عليه‬ ‫ف‬ ‫ت‬ ‫والذي‬ ‫كات‬ ‫ال‬ ‫حوكمة‬
+                  ‫تكريم‬ ‫وجاء‬ ‫الفيصل‪،‬‬ ‫‪stc‬‬ ‫ل‬ ‫خ‬ ‫الرياض‬ ‫مدينة‬ ‫في‬ ‫المنعقد‬ ‫كات‬ ‫ال‬ ‫لحوكمة‬ ‫ول‬ ‫ا‬ ‫العالمي‬ ‫المؤتمر‬ ‫ل‬ ‫خ‬
+                  ‫‪2019‬م‬ ‫‪.‬العام‬
+                  <br><br>
+                  ‫المادة‬ ‫باستثناء‬ ‫المالية‬ ‫السوق‬ ‫هيئة‬ ‫من‬ ‫الصادرة‬ ‫كات‬ ‫ال‬ ‫حوكمة‬ ‫ئحة‬ ‫أحكام‬ ‫جميع‬ ‫تطبيق‬ ‫تم‬ ‫وقد‬
+                  ‫حين‬ ‫في‬ ‫خمسة‪،‬‬ ‫عن‬ ‫يزيد‬ ‫و‬ ‫ثة‬ ‫ث‬ ‫عن‬ ‫اللجان‬ ‫أعضاء‬ ‫عدد‬ ‫يقل‬ ‫أ‬ ‫على‬ ‫تنص‬ ‫التي‬ ‫رابعاً(‪،‬‬ ‫)الفقرة‬ ‫الخمسون‬
+                  ‫الرئيس‬ ‫أحدهم‬ ‫خارجيين‪،‬‬ ‫وعضوين‬ ‫دارة‪،‬‬ ‫ا‬ ‫مجلس‬ ‫أعضاء‬ ‫من‬ ‫أعضاء‬ ‫أربعة‬ ‫من‬ ‫التنفيذية‬ ‫اللجنة‬ ‫تتكون‬
                 </p>
               </div>
             </div>
-
           </div>
         </div>
       <!-- creation bod8 -->
@@ -155,35 +1763,128 @@
 
       <!-- creation bod10 -->
         <div class="page_creation_bod10">
-          <div class="screentop_para">
-            <h1>
-              <span class="h1 colr_purple"> المراجعة  </span>
-            </h1>
-            <h1>
-              <span class="h1 colr_white bk_purple" style="padding: 5px 15px 5px 150px;">
-                الداخلية  
-              </span>
-            </h1>
-          </div>
-          
-          <div class="cwrapper">
+          <div class="sp_wrap cwrapper">
+            <div class="screentop_para">
+              <h1>
+                <span class="h1 colr_white bk_purple" style="padding: 5px 15px 5px 150px;"> ‫
+                ‫‫‫المراجعة‬
+                </span> 
+              </h1>
+              <h1>
+                <span class="h1 colr_purple"> 
+                ‫‫الداخلية‬
+                </span>
+              </h1>
+            </div>
             <div class="content-wrapper">
               <div class="left">
-               <div class="img-wrap">
-                 <img src="img/guy_tab1.jpg">
-               </div>
+                <div class="img-wrap">
+                  <img src="img/guy_tab1.jpg">
+                </div>
               </div>
               <div class="right marginr50">
-               <p class="content_para">
-                تقدم المراجعة الداخلية في الشركة خدمات تأكيدية واستشارية باستقلالية وموضوعية بغرض إضافة قيمة وتحسين العمليات وتحقيق أهداف الشركة العليا. وتساعد المراجعة الداخلية الشركة st في تحقيق أهدافها من خلال تبني مدخل منتظم لتقويم وتحسين فاعلية إدارة المخاطر والرقابة الداخلية. وقد نفّذت المراجعة الداخلية العديد من عمليات المراجعة الدورية والخاصة وفقاً لخطة المراجعة السنوية المعتمدة من قبل لجنة المراجعة بهدف إعطاء التأكيدات اللازمة بشأن فاعلية وكفاءة الرقابة الداخلية وإدارة المخاطر في الشركة ، مع التركيز على الأنشطة والوظائف ذات المخاطر العالية. وشملت خطة المراجعة السنوية على سبيل المثال مراجعة السياسات والإجراءات المتعلقة بالمشتريات والشؤون الاستراتيجية والموارد البشرية وتقنية المعلومات ووحدات الأعمال إضافة إلى القطاع المالي، كما تقدم المراجعة الداخلية خدمات استشارية بغرض الاسهام مع الإدارة التنفيذية في تحسين كفاءة وفاعلية عمليات الشركة المختلفة، وخفض التكاليف والحد من فقد الإيرادات، إضافة إلى الإسهام في مراجعة القوائم المالية الأولية والسنوية وتنسيق أعمال الجهات الرقابية الخارجية، علماً بأن عمليات المراجعة المشار إليها لم تظهر وجود ملحوظات جوهرية تؤثر  في قدرة الشركة في مواصلة تنفيذ أعمالها. كما استعرضت لجنة المراجعة نتائج التقييم الخارجي المستقل لمستوى نضج المراجعة الداخلية الذي خلص إلى التزام المراجعة الداخلية بالمعايير المنظمة لعملها، واتباعها أفضل الممارسات المهنية والمعايير الصادرة بهذا الشأن.     
-               </p>
+                <p class="content_para">
+                  ‫‫إضافة‬ ‫بغرض‬ ‫وموضوعية‬ ‫لية‬ ‫باستق‬ ‫واستشارية‬ ‫تأكيدية‬ ‫خدمات‬ ‫كة‬ ‫ال‬ ‫في‬ ‫الداخلية‬ ‫المراجعة‬ ‫تقدم‬
+                  ‫كة‬ ‫ال‬ ‫الداخلية‬ ‫المراجعة‬ ‫وتساعد‬ ‫العليا‪.‬‬ ‫كة‬ ‫ال‬ ‫أهداف‬ ‫وتحقيق‬ ‫العمليات‬ ‫وتحسين‬ ‫قيمة‬ ‫‪st‬‬ ‫تحقيق‬ ‫في‬
+                  ‫وقد‬ ‫الداخلية‪.‬‬ ‫والرقابة‬ ‫المخاطر‬ ‫إدارة‬ ‫فاعلية‬ ‫وتحسين‬ ‫لتقويم‬ ‫منتظم‬ ‫مدخل‬ ‫تبني‬ ‫ل‬ ‫خ‬ ‫من‬ ‫أهدافها‬
+                  ‫السنوية‬ ‫المراجعة‬ ‫لخطة‬ ‫وفقاً‬ ‫والخاصة‬ ‫الدورية‬ ‫المراجعة‬ ‫عمليات‬ ‫من‬ ‫العديد‬ ‫الداخلية‬ ‫المراجعة‬ ‫نفّذت‬
+                  ‫الداخلية‬ ‫الرقابة‬ ‫وكفاءة‬ ‫فاعلية‬ ‫بشأن‬ ‫زمة‬ ‫ال‬ ‫التأكيدات‬ ‫إعطاء‬ ‫بهدف‬ ‫المراجعة‬ ‫لجنة‬ ‫قبل‬ ‫من‬ ‫المعتمدة‬
+                  ‫خطة‬ ‫وشملت‬ ‫العالية‪.‬‬ ‫المخاطر‬ ‫ذات‬ ‫والوظائف‬ ‫نشطة‬ ‫ا‬ ‫على‬ ‫التركيز‬ ‫مع‬ ‫‪،‬‬ ‫كة‬ ‫ال‬ ‫في‬ ‫المخاطر‬ ‫وإدارة‬
+                  ‫والشؤون‬ ‫بالمشتريات‬ ‫المتعلقة‬ ‫جراءات‬ ‫وا‬ ‫السياسات‬ ‫مراجعة‬ ‫المثال‬ ‫سبيل‬ ‫على‬ ‫السنوية‬ ‫المراجعة‬
+                  ‫تقدم‬ ‫كما‬ ‫المالي‪،‬‬ ‫القطاع‬ ‫إلى‬ ‫إضافة‬ ‫عمال‬ ‫ا‬ ‫ووحدات‬ ‫المعلومات‬ ‫وتقنية‬ ‫ية‬ ‫الب‬ ‫والموارد‬ ‫ستراتيجية‬ ‫ا‬
+                  ‫وفاعلية‬ ‫كفاءة‬ ‫تحسين‬ ‫في‬ ‫التنفيذية‬ ‫دارة‬ ‫ا‬ ‫مع‬ ‫سهام‬ ‫ا‬ ‫بغرض‬ ‫استشارية‬ ‫خدمات‬ ‫الداخلية‬ ‫المراجعة‬
+                  ‫مراجعة‬ ‫في‬ ‫سهام‬ ‫ا‬ ‫إلى‬ ‫إضافة‬ ‫يرادات‪،‬‬ ‫ا‬ ‫فقد‬ ‫من‬ ‫والحد‬ ‫التكاليف‬ ‫وخفض‬ ‫المختلفة‪،‬‬ ‫كة‬ ‫ال‬ ‫عمليات‬
+                  ‫المراجعة‬ ‫عمليات‬ ‫بأن‬ ‫علماً‬ ‫الخارجية‪،‬‬ ‫الرقابية‬ ‫الجهات‬ ‫أعمال‬ ‫وتنسيق‬ ‫والسنوية‬ ‫ولية‬ ‫ا‬ ‫المالية‬ ‫القوائم‬
+                  ‫كما‬ ‫أعمالها‪.‬‬ ‫تنفيذ‬ ‫مواصلة‬ ‫في‬ ‫كة‬ ‫ال‬ ‫قدرة‬ ‫في‬ ‫تؤثر‬ ‫جوهرية‬ ‫ملحوظات‬ ‫وجود‬ ‫تظهر‬ ‫لم‬ ‫إليها‬ ‫المشار‬
+                  ‫خلص‬ ‫الذي‬ ‫الداخلية‬ ‫المراجعة‬ ‫نضج‬ ‫لمستوى‬ ‫المستقل‬ ‫الخارجي‬ ‫التقييم‬ ‫نتائج‬ ‫المراجعة‬ ‫لجنة‬ ‫استعرضت‬
+                  ‫والمعايير‬ ‫المهنية‬ ‫الممارسات‬ ‫أفضل‬ ‫واتباعها‬ ‫لعملها‪،‬‬ ‫المنظمة‬ ‫بالمعايير‬ ‫الداخلية‬ ‫المراجعة‬ ‫التزام‬ ‫إلى‬
+                  ‫الشأن‬ ‫بهذا‬ ‫‪.‬الصادرة‬
+                  <br>
+                  ‫في‬ ‫الحوكمة‬ ‫نظام‬ ‫مكن‬ ‫لقد‬ ‫‪stc‬‬ ‫ركائز‬ ‫من‬ ‫هامة‬ ‫ركيزة‬ ‫تعتبر‬ ‫والتي‬ ‫المستهدفة‬ ‫ستدامة‬ ‫ا‬ ‫تحقيق‬ ‫من‬
+                  ‫مجموعة‬ ‫استراتيجية‬ ‫‪stc،‬‬ ‫الجهات‬ ‫قبل‬ ‫من‬ ‫معتمدة‬ ‫وثائق‬ ‫على‬ ‫تستند‬ ‫ونشاطاتها‬ ‫كة‬ ‫ال‬ ‫فأعمال‬
+                  ‫كة‬ ‫ل‬ ‫ساس‬ ‫ا‬ ‫النظام‬
+                  ‫الح‬ ‫المثال‬ ‫سبيل‬ ‫على‬ ‫ذلك‬ ‫ومن‬ ‫المعنية‪،‬‬ ‫‪stc‬‬ ‫وزارة‬ ‫قبل‬ ‫من‬ ‫والمعتمد‬
+                  ‫الجمعية‬ ‫من‬ ‫المعتمدة‬ ‫رباح‬ ‫ا‬ ‫توزيع‬ ‫وسياسة‬ ‫العامة‪،‬‬ ‫الجمعية‬ ‫على‬ ‫عرضه‬ ‫بعد‬ ‫ستثمار‬ ‫وا‬ ‫التجارة‬
+                  ‫قبل‬ ‫من‬ ‫المعتمدة‬ ‫المراجعة‬ ‫لجنة‬ ‫عمل‬ ‫ئحة‬ ‫ك‬ ‫عنه‬ ‫المنبثقة‬ ‫واللجان‬ ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫عمل‬ ‫ولوائح‬ ‫العامة‪،‬‬
+                  ‫حوكمة‬ ‫ئحة‬ ‫و‬ ‫العامة‪،‬‬ ‫الجمعية‬ ‫‪stc‬‬ ‫تفويض‬ ‫مصفوفة‬ ‫توثيق‬ ‫أن‬ ‫كما‬ ‫دارة‪.‬‬ ‫ا‬ ‫مجلس‬ ‫قبل‬ ‫من‬ ‫المعتمدة‬
+                  ‫في‬ ‫الداخلية‬ ‫الرقابة‬ ‫ضوابط‬ ‫متطلبات‬ ‫من‬ ‫أساسياً‬ ‫مطلباً‬ ‫يعد‬ ‫والمالية‬ ‫ستراتيجية‬ ‫ا‬ ‫حيات‬ ‫الص‬ ‫‪stc‬‬ ‫حيث‬
+                  ‫دارية‬ ‫ا‬ ‫الوظائف‬ ‫لشاغلي‬ ‫والمالية‬ ‫ستراتيجية‬ ‫ا‬ ‫حيات‬ ‫والص‬ ‫المسؤوليات‬ ‫تحديد‬ ‫على‬ ‫تعمل‬ ‫أنها‬
+                  ‫في‬ ‫ت‬ ‫والمعام‬ ‫القرارات‬ ‫باعتماد‬ ‫المفوضين‬ ‫‪stc،‬‬ ‫آليات‬ ‫وحوكمة‬ ‫ضبط‬ ‫من‬ ‫تعزز‬ ‫أن‬ ‫شأنها‬ ‫من‬ ‫والتي‬
+                </p>
+                <br><br><br>
               </div>
             </div>
           </div>
         </div>
       <!-- creation bod10 -->
 
-
+      <!-- creation bod 11 -->
+        <div class="page_creation_bod11">
+          <div class="sp_wrap cwrapper">
+            <div class="screentop_para">
+              <h1>
+                <span class="h1 colr_white bk_purple" style="padding: 5px 15px 5px 150px;"> ‫
+                ‫سجل‬
+                </span> 
+              </h1>
+              <h1>
+                <span class="h1 colr_purple"> 
+                ‫المساهمين‬
+                </span>
+              </h1>
+            </div>
+            <div class="content-wrapper sp2_row">
+              <div class="left bk_purple">
+              </div>
+              <div class="right pink_border nopadding">
+                <div class="box_center_content">
+                  <p class="content_para" style="text-align: right;">
+                    ‫من‬ ‫المساهمين‬ ‫لسجل‬ ‫مرة‬ ‫)‪(13‬‬ ‫الطلب‬ ‫تم‬
+                    ‫التالية‬ ‫غراض‬ ‫ل‬ ‫وذلك‬ ‫‪2019‬م‬ ‫عام‬ ‫‪:‬‬
+                    <br><br><br>
+                    ‫شهريا‬ ‫المساهمين‬ ‫سجل‬ ‫تحديث‬ ‫‪.‬‬
+                    ‫•‬
+                    <br><br><br>
+                    ‫سنوية‬ ‫الربع‬ ‫رباح‬ ‫ا‬ ‫توزيع‬ ‫‪.‬‬
+                    <br><br><br>
+                    ‫العمومية‬ ‫الجمعية‬ ‫عقد‬ ‫‪.‬‬
+                    ‫م‬
+                    ‫‪1‬‬
+                    ‫‪2‬‬
+                    ‫‪3‬‬
+                    ‫‪4‬‬
+                    ‫ل‬ ‫خ‬ ‫المالية‬ ‫وراق‬ ‫ا‬ ‫إيداع‬ ‫مركز‬ ‫كة‬
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="tabular_data margint50">
+              <div class="c_row first bk_purple nomargin">
+                <div>‫م‬</div>
+                <div>المساهمين‬ ‫سجل‬ ‫طلب‬ ‫تاريخ‬</div>
+                <div>المساهمين‬ ‫سجل‬ ‫طلب‬ ‫تاريخ‬</div>
+              </div>
+              <div class="tabular_data_inner">
+                <div class="c_row">
+                  <div>‫1</div>
+                  <div></div>
+                  <div></div>
+                </div>
+                <div class="c_row">
+                  <div>‫2</div>
+                  <div></div>
+                  <div></div>
+                </div>
+                <div class="c_row">
+                  <div>‫3</div>
+                  <div></div>
+                  <div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      <!-- creation bod 11 -->
     </div>
   <!-- creation of board of directors -->
   
