@@ -22,7 +22,7 @@
       <?php require_once 'slide_chairman.php'; ?>
     </div>
     <div class="lslides bk_purple" landing-data-slide="4">
-      <?php require_once 'slide_activities.php'; ?>
+      <?php require_once 'slide_highlights.php'; ?>
     </div>
   </div>
   <!-- landing slider -->

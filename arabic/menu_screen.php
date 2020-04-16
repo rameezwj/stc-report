@@ -14,6 +14,11 @@
     <div class="mm4" data-category-title="consolidate_financials" data-menu-goto-slide="4">
       <a href="javascript: void(0)" class="hover-this"> القوائم المالية الموحدة </a>
     </div>
+    <div class="mm5" data-category-title="conclusion" data-menu-goto-slide="5">
+      <a href="javascript: void(0)" class="hover-this">
+        الخاتمة 
+      </a>
+    </div>
   </div>
 
   <!-- sub menu -->
@@ -26,9 +31,9 @@
         <a href="javascript: void(0)" data-page-link="who_we_are_inner" class="hover-this">
           من نحن 
         </a>
-        <a href="javascript: void(0)" data-page-link="vision_inner" class="hover-this">
+        <!-- <a href="javascript: void(0)" data-page-link="vision_inner" class="hover-this">
           رؤية الشركة 
-        </a>
+        </a> -->
         <a href="javascript: void(0)" data-page-link="our_mission_inner" class="hover-this">
           غايتنا 
         </a>
@@ -41,18 +46,27 @@
         <a href="javascript: void(0)" data-page-link="ceo_inner" class="hover-this">
           كلمة رئيس التنفيذي لمجموعة الاتصالات السعودية 
         </a>
+        <a href="javascript: void(0)" data-page-link="introduction_inner" class="hover-this">
+          المقدمة
+        </a>
+        <a href="javascript: void(0)" data-page-link="financials_inner" class="hover-this">
+          ملخص الامور المالية 
+        </a>
       </div>
 
       <div class="submenu_content submenu_2" data-parent-category="2" >
         <!-- <a href="javascript: void(0)" data-page-link="bod" class="hover-this"> -->
-        <a href="javascript: void(0)" data-page-link="our_values_inner" class="hover-this">
-          مجلس الادارة الشركة الاتصالات السعودية 
+        <a href="javascript: void(0)" data-page-link="bod_inner" class="hover-this">
+          ممجلس الادارة الشركة الاتصالات السعودية 
         </a>
         <a href="javascript: void(0)" data-page-link="creation_of_board" class="hover-this">
-          تكوين مجلس الادارة 
+          تتكوين مجلس الادارة
+        </a>
+        <a href="javascript: void(0)" data-page-link="contribution_of_board" class="hover-this">
+        تكوين مجلس الإدارة ولجانه وتصنيف أعضائه والإدارة التنفيذية
         </a>
         <a href="javascript: void(0)" data-page-link="distribution_profit" class="hover-this">
-          أعضاء مجلس الإدارة ولجانه وتصنيف عضويتهم 
+          توزيع الارباحو المكافآت و توصيات مجلس الادارة
         </a>
       </div>
 
@@ -87,8 +101,14 @@
       </div>
       
       <div class="submenu_content submenu_4" data-parent-category="4" >
-        <a href="javascript: void(0)" data-page-link="financials_inner" class="hover-this">
-         لقوائم المالية الموحدة 
+        <a href="javascript: void(0)" data-page-link="consolidate_financials_inner" class="hover-this">
+          القوائم المالية الموحدة 
+        </a>
+      </div>
+
+      <div class="submenu_content submenu_5" data-parent-category="5" >
+        <a href="javascript: void(0)" data-page-link="creation_bod_conclusion" class="hover-this">
+          القوائم المالية الموحدة 
         </a>
       </div>
     </div>
@@ -110,6 +130,10 @@
       </div>
       <div class="swiper-slide" data-slide="4">
         <img src="img/m2.png" />
+        <div class="mask_layer bk_pink"></div>
+      </div>
+      <div class="swiper-slide" data-slide="5">
+        <img src="img/m1.png" />
         <div class="mask_layer bk_pink"></div>
       </div>
     </div>

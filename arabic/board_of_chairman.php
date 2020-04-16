@@ -6,22 +6,22 @@
 <body class="page_inner">
   
   <style type="text/css">
-    /*page_creation_bod2*/
-    .page_creation_bod2 .screentop_para{
+    /*page_creation_bod_a*/
+    .page_creation_bod_a .screentop_para{
       margin: 50px 50px 50px 0;
       overflow: hidden;
       display: inline-block;
       position: relative;
     }
-    .page_creation_bod2 .tabular_data{
+    .page_creation_bod_a .tabular_data{
       width:calc( 100% - 100px );
       margin: 0 auto;
       clear: both;
     }
-    .page_creation_bod2 .tabular_data .c_row{
+    .page_creation_bod_a .tabular_data .c_row{
      display: flex;
     }
-    .page_creation_bod2 .tabular_data .c_row div{
+    .page_creation_bod_a .tabular_data .c_row div{
       flex: 1;
       padding: 40px;
       width: calc( 100% / 8 );
@@ -35,30 +35,30 @@
       border-bottom: none;
       transition: all 0.2s ease-in;
     }
-    .page_creation_bod2 .tabular_data .c_row div:last-child{
+    .page_creation_bod_a .tabular_data .c_row div:last-child{
       border-left: 1px solid #4f0f8c;
     }
-    .page_creation_bod2 .tabular_data .c_row:last-child div{
+    .page_creation_bod_a .tabular_data .c_row:last-child div{
       border-bottom: 1px solid #4f0f8c; 
     }
-    .page_creation_bod2 .tabular_data .tabular_data_inner .c_row:hover div:first-child{
+    .page_creation_bod_a .tabular_data .tabular_data_inner .c_row:hover div:first-child{
       background: #FF375E;
     }
-    .page_creation_bod2 .tabular_data .tabular_data_inner .c_row div:first-child{
+    .page_creation_bod_a .tabular_data .tabular_data_inner .c_row div:first-child{
       text-align: center;
       justify-content: center;
     }
-    .page_creation_bod2 .tabular_data .tabular_data_inner .c_row:hover div{
+    .page_creation_bod_a .tabular_data .tabular_data_inner .c_row:hover div{
       background: #4f0f8c;
       color: #fff;
     }
-    .page_creation_bod2 .tabular_data .c_row.second div  {
+    .page_creation_bod_a .tabular_data .c_row.second div  {
       padding: 10px;
     }
-    .page_creation_bod2 .tabular_data .c_row.first {
+    .page_creation_bod_a .tabular_data .c_row.first {
       margin-bottom: 20px;
     }
-    .page_creation_bod2 .tabular_data .c_row.first div{
+    .page_creation_bod_a .tabular_data .c_row.first div{
       border:none;
       border-left: 1px solid #fff;
       color: #fff;
@@ -67,31 +67,31 @@
       justify-content: center;
     }
 
-    .page_creation_bod2 .tabular_data2{
+    .page_creation_bod_a .tabular_data2{
       width:calc( 100% - 100px );
       margin: 0 auto;
       clear: both;
     }
-    .page_creation_bod2 .tabular_data2 .c_row{
+    .page_creation_bod_a .tabular_data2 .c_row{
      display: flex;
     }
 
-    .page_creation_bod2 .tabular_data2 .c_row.first.table_white div{
+    .page_creation_bod_a .tabular_data2 .c_row.first.table_white div{
       color: #4f0f8c;
       border: 1px solid #4f0f8c;
       border-left: none;
       border-top: none;
     }
-     .page_creation_bod2 .tabular_data2 .c_row.first.table_white div.last div.c_row{
+     .page_creation_bod_a .tabular_data2 .c_row.first.table_white div.last div.c_row{
       border-left: 0 !important;
     }
-    .page_creation_bod2 .tabular_data2 .c_row.first.table_white div span{
+    .page_creation_bod_a .tabular_data2 .c_row.first.table_white div span{
       border-left: 1px solid #4f0f8c !important;
     }
-    .page_creation_bod2 .tabular_data2 .c_row.first.table_white div span:last-child{
+    .page_creation_bod_a .tabular_data2 .c_row.first.table_white div span:last-child{
       border-left: none !important;
     }
-    .page_creation_bod2 .tabular_data2 .c_row div{
+    .page_creation_bod_a .tabular_data2 .c_row div{
       flex: 1;
       padding: 40px;
       width: calc( 100% / 8 );
@@ -105,30 +105,30 @@
       border-bottom: none;
       transition: all 0.2s ease-in;
     }
-    .page_creation_bod2 .tabular_data2 .c_row div:last-child{
+    .page_creation_bod_a .tabular_data2 .c_row div:last-child{
       border-left: 1px solid #4f0f8c !important;
     }
-    .page_creation_bod2 .tabular_data2 .c_row:last-child div{
+    .page_creation_bod_a .tabular_data2 .c_row:last-child div{
       border-bottom: 1px solid #4f0f8c; 
     }
-    .page_creation_bod2 .tabular_data2 .tabular_data_inner .c_row:hover div:first-child{
+    .page_creation_bod_a .tabular_data2 .tabular_data_inner .c_row:hover div:first-child{
       background: #FF375E;
     }
-    .page_creation_bod2 .tabular_data2 .tabular_data_inner .c_row div:first-child{
+    .page_creation_bod_a .tabular_data2 .tabular_data_inner .c_row div:first-child{
       text-align: center;
       justify-content: center;
     }
-    .page_creation_bod2 .tabular_data2 .tabular_data_inner .c_row:hover div{
+    .page_creation_bod_a .tabular_data2 .tabular_data_inner .c_row:hover div{
       background: #4f0f8c;
       color: #fff;
     }
-    .page_creation_bod2 .tabular_data2 .c_row.second div  {
+    .page_creation_bod_a .tabular_data2 .c_row.second div  {
       padding: 10px;
     }
-    .page_creation_bod2 .tabular_data2 .c_row.first {
+    .page_creation_bod_a .tabular_data2 .c_row.first {
       margin-bottom: 0;
     }
-    .page_creation_bod2 .tabular_data2 .c_row.first div{
+    .page_creation_bod_a .tabular_data2 .c_row.first div{
       border:none;
       border-left: 1px solid #fff;
       color: #fff;
@@ -136,13 +136,13 @@
       text-align: center;
       justify-content: center;
     }
-    .page_creation_bod2 .tabular_data2 .c_row.first div.last{
+    .page_creation_bod_a .tabular_data2 .c_row.first div.last{
       padding: 0;
       flex-wrap: wrap;
       flex: 20%;
       align-items: initial;
     }
-    .page_creation_bod2 .tabular_data2 .c_row.first div.last .f-row{
+    .page_creation_bod_a .tabular_data2 .c_row.first div.last .f-row{
       display: flex;
       flex: initial;
       flex-wrap: wrap;
@@ -150,7 +150,7 @@
       border: none;
       padding: 0;
     }
-    .page_creation_bod2 .tabular_data2 .c_row.first div.last .f-row span{
+    .page_creation_bod_a .tabular_data2 .c_row.first div.last .f-row span{
       display: inline-flex;
       word-break: break-word;
       align-items: center;
@@ -162,109 +162,109 @@
       justify-content: center;
       padding: 10px 20px;
     }
-    .page_creation_bod2 .tabular_data2 .c_row.first div.last .f-row span:last-child{
+    .page_creation_bod_a .tabular_data2 .c_row.first div.last .f-row span:last-child{
        border-left: none !important;
     }
-    .page_creation_bod2 .img_wrap {
+    .page_creation_bod_a .img_wrap {
       position: relative;
       overflow: hidden;
     }
-    .page_creation_bod2 .img_wrap .left{
+    .page_creation_bod_a .img_wrap .left{
       width: 40%;
       float: left;
 
     }
-    .page_creation_bod2 .img_wrap .right{
+    .page_creation_bod_a .img_wrap .right{
       width: 35%;
       float: right;
     }
-    .page_creation_bod2 .img_wrap img{
+    .page_creation_bod_a .img_wrap img{
       width: 100%;
     }
-    .page_creation_bod2 .cwrapper{
+    .page_creation_bod_a .cwrapper{
         margin-bottom:50px;
     }
-    .page_creation_bod2 .bar-wrap{
+    .page_creation_bod_a .bar-wrap{
       position: relative;
       height: 10px;
       width: 100%;
       margin-bottom: 50px;
     }
    
-   .page_creation_bod2 .sp_wrap .content-wrapper {
+   .page_creation_bod_a .sp_wrap .content-wrapper {
       position: relative;
       /*margin: 50px 0;*/
     }
-    .page_creation_bod2 .sp_wrap .content-wrapper.c-row-reverse .left{
+    .page_creation_bod_a .sp_wrap .content-wrapper.c-row-reverse .left{
       width: 50%;
       float: right;
     }
-    .page_creation_bod2 .sp_wrap .content-wrapper.c-row-reverse .left .box_center_content{
+    .page_creation_bod_a .sp_wrap .content-wrapper.c-row-reverse .left .box_center_content{
       float: right;
       width: 90%;
     }
-    .page_creation_bod2 .sp_wrap .content-wrapper.c-row-reverse .right{
+    .page_creation_bod_a .sp_wrap .content-wrapper.c-row-reverse .right{
     }
-    .page_creation_bod2 .sp_wrap .content-wrapper:after {
+    .page_creation_bod_a .sp_wrap .content-wrapper:after {
       content: '';
       display: table;
       clear: both;
     }
-    .page_creation_bod2 .sp_wrap .content-wrapper .left{
+    .page_creation_bod_a .sp_wrap .content-wrapper .left{
       width: 50%;
       float: left;
       position: relative;
       min-height: 250px;
     }
-    .page_creation_bod2 .sp_wrap .content-wrapper .left .box_center_content{
+    .page_creation_bod_a .sp_wrap .content-wrapper .left .box_center_content{
         /*margin:0 auto;*/
         width: 80%;
         min-height: 400px;
         /*float: left;*/
     }
 
-    .page_creation_bod2 .sp_wrap .content-wrapper .left .box_center_content p{
+    .page_creation_bod_a .sp_wrap .content-wrapper .left .box_center_content p{
       font-size: 28px;
       line-height: 38px;
       font-family: "stc_light";
     }
-    .page_creation_bod2 .sp_wrap .content-wrapper .img-wrap{
+    .page_creation_bod_a .sp_wrap .content-wrapper .img-wrap{
       height: 400px;
     }
-    .page_creation_bod2 .sp_wrap .content-wrapper .img-wrap img{
+    .page_creation_bod_a .sp_wrap .content-wrapper .img-wrap img{
       height: 100%;
       width: 100%;
       object-fit: cover;
       object-position: top right;
     }
-    .page_creation_bod2 .sp_wrap .content-wrapper .right{
+    .page_creation_bod_a .sp_wrap .content-wrapper .right{
       width: 40%;
       float: right;
       position: relative;
       min-height: 250px;
     }
-   .page_creation_bod2 .sp_wrap .sp_row{
+   .page_creation_bod_a .sp_wrap .sp_row{
         display: flex;
         margin:50px 0;
    }
-   .page_creation_bod2 .sp_wrap .sp_row .left,
-   .page_creation_bod2 .sp_wrap .sp_row .right{
+   .page_creation_bod_a .sp_wrap .sp_row .left,
+   .page_creation_bod_a .sp_wrap .sp_row .right{
     flex: initial;
    }
-  .page_creation_bod2 .sp2_row .left,
-  .page_creation_bod2 .sp2_row .right{
+  .page_creation_bod_a .sp2_row .left,
+  .page_creation_bod_a .sp2_row .right{
     height: 400px;
   }
-  .page_creation_bod2 .sp2_row .right
+  .page_creation_bod_a .sp2_row .right
   {
     height: 400px;
     padding: 40px;
     width: 45%;
   }
-  .page_creation_bod2 .sp_wrap .sp_row .right .content_para{
+  .page_creation_bod_a .sp_wrap .sp_row .right .content_para{
     margin-bottom: 0;
   }
-  .page_creation_bod2 .sp_wrap .bar-wrap {
+  .page_creation_bod_a .sp_wrap .bar-wrap {
     position: absolute;
     height: 60px;
     width: 80%;
@@ -272,24 +272,24 @@
     right: 0;
     transform: translate(0,-100%);
   }
-    /*page_creation_bod2*/
+    /*page_creation_bod_a*/
 
-    /*page_creation_bod3*/
-      .page_creation_bod3 .screentop_para{
+    /*page_creation_bod_b*/
+      .page_creation_bod_b .screentop_para{
         margin: 50px 50px 50px 0;
         overflow: hidden;
         display: inline-block;
         position: relative;
       }
-      .page_creation_bod3 .tabular_data{
+      .page_creation_bod_b .tabular_data{
         width:calc( 100% - 100px );
         margin: 0 auto;
         clear: both;
       }
-      .page_creation_bod3 .tabular_data .c_row{
+      .page_creation_bod_b .tabular_data .c_row{
        display: flex;
       }
-      .page_creation_bod3 .tabular_data .c_row div{
+      .page_creation_bod_b .tabular_data .c_row div{
         flex: 1;
         padding: 40px;
         width: calc( 100% / 8 );
@@ -303,30 +303,30 @@
         border-bottom: none;
         transition: all 0.2s ease-in;
       }
-      .page_creation_bod3 .tabular_data .c_row div:last-child{
+      .page_creation_bod_b .tabular_data .c_row div:last-child{
         border-left: 1px solid #4f0f8c;
       }
-      .page_creation_bod3 .tabular_data .c_row:last-child div{
+      .page_creation_bod_b .tabular_data .c_row:last-child div{
         border-bottom: 1px solid #4f0f8c; 
       }
-      .page_creation_bod3 .tabular_data .tabular_data_inner .c_row:hover div:first-child{
+      .page_creation_bod_b .tabular_data .tabular_data_inner .c_row:hover div:first-child{
         background: #FF375E;
       }
-      .page_creation_bod3 .tabular_data .tabular_data_inner .c_row div:first-child{
+      .page_creation_bod_b .tabular_data .tabular_data_inner .c_row div:first-child{
         text-align: center;
         justify-content: center;
       }
-      .page_creation_bod3 .tabular_data .tabular_data_inner .c_row:hover div{
+      .page_creation_bod_b .tabular_data .tabular_data_inner .c_row:hover div{
         background: #4f0f8c;
         color: #fff;
       }
-      .page_creation_bod3 .tabular_data .c_row.second div  {
+      .page_creation_bod_b .tabular_data .c_row.second div  {
         padding: 10px;
       }
-      .page_creation_bod3 .tabular_data .c_row.first {
+      .page_creation_bod_b .tabular_data .c_row.first {
         margin-bottom: 20px;
       }
-      .page_creation_bod3 .tabular_data .c_row.first div{
+      .page_creation_bod_b .tabular_data .c_row.first div{
         border:none;
         border-left: 1px solid #fff;
         color: #fff;
@@ -335,31 +335,31 @@
         justify-content: center;
       }
 
-      .page_creation_bod3 .tabular_data2{
+      .page_creation_bod_b .tabular_data2{
         width:calc( 100% - 100px );
         margin: 0 auto;
         clear: both;
       }
-      .page_creation_bod3 .tabular_data2 .c_row{
+      .page_creation_bod_b .tabular_data2 .c_row{
        display: flex;
       }
 
-      .page_creation_bod3 .tabular_data2 .c_row.first.table_white div{
+      .page_creation_bod_b .tabular_data2 .c_row.first.table_white div{
         color: #4f0f8c;
         border: 1px solid #4f0f8c;
         border-left: none;
         border-top: none;
       }
-       .page_creation_bod3 .tabular_data2 .c_row.first.table_white div.last div.c_row{
+       .page_creation_bod_b .tabular_data2 .c_row.first.table_white div.last div.c_row{
         border-left: 0 !important;
       }
-      .page_creation_bod3 .tabular_data2 .c_row.first.table_white div span{
+      .page_creation_bod_b .tabular_data2 .c_row.first.table_white div span{
         border-left: 1px solid #4f0f8c !important;
       }
-      .page_creation_bod3 .tabular_data2 .c_row.first.table_white div span:last-child{
+      .page_creation_bod_b .tabular_data2 .c_row.first.table_white div span:last-child{
         border-left: none !important;
       }
-      .page_creation_bod3 .tabular_data2 .c_row div{
+      .page_creation_bod_b .tabular_data2 .c_row div{
         flex: 1;
         padding: 40px;
         width: calc( 100% / 8 );
@@ -373,30 +373,30 @@
         border-bottom: none;
         transition: all 0.2s ease-in;
       }
-      .page_creation_bod3 .tabular_data2 .c_row div:last-child{
+      .page_creation_bod_b .tabular_data2 .c_row div:last-child{
         border-left: 1px solid #4f0f8c !important;
       }
-      .page_creation_bod3 .tabular_data2 .c_row:last-child div{
+      .page_creation_bod_b .tabular_data2 .c_row:last-child div{
         border-bottom: 1px solid #4f0f8c; 
       }
-      .page_creation_bod3 .tabular_data2 .tabular_data_inner .c_row:hover div:first-child{
+      .page_creation_bod_b .tabular_data2 .tabular_data_inner .c_row:hover div:first-child{
         background: #FF375E;
       }
-      .page_creation_bod3 .tabular_data2 .tabular_data_inner .c_row div:first-child{
+      .page_creation_bod_b .tabular_data2 .tabular_data_inner .c_row div:first-child{
         text-align: center;
         justify-content: center;
       }
-      .page_creation_bod3 .tabular_data2 .tabular_data_inner .c_row:hover div{
+      .page_creation_bod_b .tabular_data2 .tabular_data_inner .c_row:hover div{
         background: #4f0f8c;
         color: #fff;
       }
-      .page_creation_bod3 .tabular_data2 .c_row.second div  {
+      .page_creation_bod_b .tabular_data2 .c_row.second div  {
         padding: 10px;
       }
-      .page_creation_bod3 .tabular_data2 .c_row.first {
+      .page_creation_bod_b .tabular_data2 .c_row.first {
         margin-bottom: 0;
       }
-      .page_creation_bod3 .tabular_data2 .c_row.first div{
+      .page_creation_bod_b .tabular_data2 .c_row.first div{
         border:none;
         border-left: 1px solid #fff;
         color: #fff;
@@ -404,13 +404,13 @@
         text-align: center;
         justify-content: center;
       }
-      .page_creation_bod3 .tabular_data2 .c_row.first div.last{
+      .page_creation_bod_b .tabular_data2 .c_row.first div.last{
         padding: 0;
         flex-wrap: wrap;
         flex: 20%;
         align-items: initial;
       }
-      .page_creation_bod3 .tabular_data2 .c_row.first div.last .f-row{
+      .page_creation_bod_b .tabular_data2 .c_row.first div.last .f-row{
         display: flex;
         flex: initial;
         flex-wrap: wrap;
@@ -418,7 +418,7 @@
         border: none;
         padding: 0;
       }
-      .page_creation_bod3 .tabular_data2 .c_row.first div.last .f-row span{
+      .page_creation_bod_b .tabular_data2 .c_row.first div.last .f-row span{
         display: inline-flex;
         word-break: break-word;
         align-items: center;
@@ -430,109 +430,109 @@
         justify-content: center;
         padding: 10px 20px;
       }
-      .page_creation_bod3 .tabular_data2 .c_row.first div.last .f-row span:last-child{
+      .page_creation_bod_b .tabular_data2 .c_row.first div.last .f-row span:last-child{
          border-left: none !important;
       }
-      .page_creation_bod3 .img_wrap {
+      .page_creation_bod_b .img_wrap {
         position: relative;
         overflow: hidden;
       }
-      .page_creation_bod3 .img_wrap .left{
+      .page_creation_bod_b .img_wrap .left{
         width: 40%;
         float: left;
 
       }
-      .page_creation_bod3 .img_wrap .right{
+      .page_creation_bod_b .img_wrap .right{
         width: 35%;
         float: right;
       }
-      .page_creation_bod3 .img_wrap img{
+      .page_creation_bod_b .img_wrap img{
         width: 100%;
       }
-      .page_creation_bod3 .cwrapper{
+      .page_creation_bod_b .cwrapper{
           margin-bottom:50px;
       }
-      .page_creation_bod3 .bar-wrap{
+      .page_creation_bod_b .bar-wrap{
         position: relative;
         height: 10px;
         width: 100%;
         margin-bottom: 50px;
       }
 
-      .page_creation_bod3 .sp_wrap .content-wrapper {
+      .page_creation_bod_b .sp_wrap .content-wrapper {
         position: relative;
         /*margin: 50px 0;*/
       }
-      .page_creation_bod3 .sp_wrap .content-wrapper.c-row-reverse .left{
+      .page_creation_bod_b .sp_wrap .content-wrapper.c-row-reverse .left{
         width: 50%;
         float: right;
       }
-      .page_creation_bod3 .sp_wrap .content-wrapper.c-row-reverse .left .box_center_content{
+      .page_creation_bod_b .sp_wrap .content-wrapper.c-row-reverse .left .box_center_content{
         float: right;
         width: 90%;
       }
-      .page_creation_bod3 .sp_wrap .content-wrapper.c-row-reverse .right{
+      .page_creation_bod_b .sp_wrap .content-wrapper.c-row-reverse .right{
       }
-      .page_creation_bod3 .sp_wrap .content-wrapper:after {
+      .page_creation_bod_b .sp_wrap .content-wrapper:after {
         content: '';
         display: table;
         clear: both;
       }
-      .page_creation_bod3 .sp_wrap .content-wrapper .left{
+      .page_creation_bod_b .sp_wrap .content-wrapper .left{
         width: 50%;
         float: left;
         position: relative;
         min-height: 250px;
       }
-      .page_creation_bod3 .sp_wrap .content-wrapper .left .box_center_content{
+      .page_creation_bod_b .sp_wrap .content-wrapper .left .box_center_content{
           /*margin:0 auto;*/
           width: 80%;
           min-height: 400px;
           /*float: left;*/
       }
 
-      .page_creation_bod3 .sp_wrap .content-wrapper .left .box_center_content p{
+      .page_creation_bod_b .sp_wrap .content-wrapper .left .box_center_content p{
         font-size: 28px;
         line-height: 38px;
         font-family: "stc_light";
       }
-      .page_creation_bod3 .sp_wrap .content-wrapper .img-wrap{
+      .page_creation_bod_b .sp_wrap .content-wrapper .img-wrap{
         height: 400px;
       }
-      .page_creation_bod3 .sp_wrap .content-wrapper .img-wrap img{
+      .page_creation_bod_b .sp_wrap .content-wrapper .img-wrap img{
         height: 100%;
         width: 100%;
         object-fit: cover;
         object-position: top right;
       }
-      .page_creation_bod3 .sp_wrap .content-wrapper .right{
+      .page_creation_bod_b .sp_wrap .content-wrapper .right{
         width: 40%;
         float: right;
         position: relative;
         min-height: 250px;
       }
-      .page_creation_bod3 .sp_wrap .sp_row{
+      .page_creation_bod_b .sp_wrap .sp_row{
           display: flex;
           margin:50px 0;
       }
-      .page_creation_bod3 .sp_wrap .sp_row .left,
-      .page_creation_bod3 .sp_wrap .sp_row .right{
+      .page_creation_bod_b .sp_wrap .sp_row .left,
+      .page_creation_bod_b .sp_wrap .sp_row .right{
       flex: initial;
       }
-      .page_creation_bod3 .sp2_row .left,
-      .page_creation_bod3 .sp2_row .right{
+      .page_creation_bod_b .sp2_row .left,
+      .page_creation_bod_b .sp2_row .right{
       height: 400px;
       }
-      .page_creation_bod3 .sp2_row .right
+      .page_creation_bod_b .sp2_row .right
       {
       height: 400px;
       padding: 40px;
       width: 45%;
       }
-      .page_creation_bod3 .sp_wrap .sp_row .right .content_para{
+      .page_creation_bod_b .sp_wrap .sp_row .right .content_para{
       margin-bottom: 0;
       }
-      .page_creation_bod3 .sp_wrap .bar-wrap {
+      .page_creation_bod_b .sp_wrap .bar-wrap {
       position: absolute;
       height: 60px;
       width: 80%;
@@ -540,25 +540,25 @@
       right: 0;
       transform: translate(0,-100%);
       }
-    /*page_creation_bod3*/
+    /*page_creation_bod_b*/
 
 
-    /*page_creation_bod4*/
-     .page_creation_bod4 .screentop_para{
+    /*page_creation_bod_c*/
+     .page_creation_bod_c .screentop_para{
         margin: 50px 50px 50px 0;
         overflow: hidden;
         display: inline-block;
         position: relative;
       }
-      .page_creation_bod4 .tabular_data{
+      .page_creation_bod_c .tabular_data{
         width:calc( 100% - 100px );
         margin: 0 auto;
         clear: both;
       }
-      .page_creation_bod4 .tabular_data .c_row{
+      .page_creation_bod_c .tabular_data .c_row{
        display: flex;
       }
-      .page_creation_bod4 .tabular_data .c_row div{
+      .page_creation_bod_c .tabular_data .c_row div{
         flex: 1;
         padding: 40px;
         width: calc( 100% / 8 );
@@ -572,30 +572,30 @@
         border-bottom: none;
         transition: all 0.2s ease-in;
       }
-      .page_creation_bod4 .tabular_data .c_row div:last-child{
+      .page_creation_bod_c .tabular_data .c_row div:last-child{
         border-left: 1px solid #4f0f8c;
       }
-      .page_creation_bod4 .tabular_data .c_row:last-child div{
+      .page_creation_bod_c .tabular_data .c_row:last-child div{
         border-bottom: 1px solid #4f0f8c; 
       }
-      .page_creation_bod4 .tabular_data .tabular_data_inner .c_row:hover div:first-child{
+      .page_creation_bod_c .tabular_data .tabular_data_inner .c_row:hover div:first-child{
         background: #FF375E;
       }
-      .page_creation_bod4 .tabular_data .tabular_data_inner .c_row div:first-child{
+      .page_creation_bod_c .tabular_data .tabular_data_inner .c_row div:first-child{
         text-align: center;
         justify-content: center;
       }
-      .page_creation_bod4 .tabular_data .tabular_data_inner .c_row:hover div{
+      .page_creation_bod_c .tabular_data .tabular_data_inner .c_row:hover div{
         background: #4f0f8c;
         color: #fff;
       }
-      .page_creation_bod4 .tabular_data .c_row.second div  {
+      .page_creation_bod_c .tabular_data .c_row.second div  {
         padding: 10px;
       }
-      .page_creation_bod4 .tabular_data .c_row.first {
+      .page_creation_bod_c .tabular_data .c_row.first {
         margin-bottom: 20px;
       }
-      .page_creation_bod4 .tabular_data .c_row.first div{
+      .page_creation_bod_c .tabular_data .c_row.first div{
         border:none;
         border-left: 1px solid #fff;
         color: #fff;
@@ -604,31 +604,31 @@
         justify-content: center;
       }
 
-      .page_creation_bod4 .tabular_data2{
+      .page_creation_bod_c .tabular_data2{
         width:calc( 100% - 100px );
         margin: 0 auto;
         clear: both;
       }
-      .page_creation_bod4 .tabular_data2 .c_row{
+      .page_creation_bod_c .tabular_data2 .c_row{
        display: flex;
       }
 
-      .page_creation_bod4 .tabular_data2 .c_row.first.table_white div{
+      .page_creation_bod_c .tabular_data2 .c_row.first.table_white div{
         color: #4f0f8c;
         border: 1px solid #4f0f8c;
         border-left: none;
         border-top: none;
       }
-       .page_creation_bod4 .tabular_data2 .c_row.first.table_white div.last div.c_row{
+       .page_creation_bod_c .tabular_data2 .c_row.first.table_white div.last div.c_row{
         border-left: 0 !important;
       }
-      .page_creation_bod4 .tabular_data2 .c_row.first.table_white div span{
+      .page_creation_bod_c .tabular_data2 .c_row.first.table_white div span{
         border-left: 1px solid #4f0f8c !important;
       }
-      .page_creation_bod4 .tabular_data2 .c_row.first.table_white div span:last-child{
+      .page_creation_bod_c .tabular_data2 .c_row.first.table_white div span:last-child{
         border-left: none !important;
       }
-      .page_creation_bod4 .tabular_data2 .c_row div{
+      .page_creation_bod_c .tabular_data2 .c_row div{
         flex: 1;
         padding: 40px;
         width: calc( 100% / 8 );
@@ -642,30 +642,30 @@
         border-bottom: none;
         transition: all 0.2s ease-in;
       }
-      .page_creation_bod4 .tabular_data2 .c_row div:last-child{
+      .page_creation_bod_c .tabular_data2 .c_row div:last-child{
         border-left: 1px solid #4f0f8c !important;
       }
-      .page_creation_bod4 .tabular_data2 .c_row:last-child div{
+      .page_creation_bod_c .tabular_data2 .c_row:last-child div{
         border-bottom: 1px solid #4f0f8c; 
       }
-      .page_creation_bod4 .tabular_data2 .tabular_data_inner .c_row:hover div:first-child{
+      .page_creation_bod_c .tabular_data2 .tabular_data_inner .c_row:hover div:first-child{
         background: #FF375E;
       }
-      .page_creation_bod4 .tabular_data2 .tabular_data_inner .c_row div:first-child{
+      .page_creation_bod_c .tabular_data2 .tabular_data_inner .c_row div:first-child{
         text-align: center;
         justify-content: center;
       }
-      .page_creation_bod4 .tabular_data2 .tabular_data_inner .c_row:hover div{
+      .page_creation_bod_c .tabular_data2 .tabular_data_inner .c_row:hover div{
         background: #4f0f8c;
         color: #fff;
       }
-      .page_creation_bod4 .tabular_data2 .c_row.second div  {
+      .page_creation_bod_c .tabular_data2 .c_row.second div  {
         padding: 10px;
       }
-      .page_creation_bod4 .tabular_data2 .c_row.first {
+      .page_creation_bod_c .tabular_data2 .c_row.first {
         margin-bottom: 0;
       }
-      .page_creation_bod4 .tabular_data2 .c_row.first div{
+      .page_creation_bod_c .tabular_data2 .c_row.first div{
         border:none;
         border-left: 1px solid #fff;
         color: #fff;
@@ -673,13 +673,13 @@
         text-align: center;
         justify-content: center;
       }
-      .page_creation_bod4 .tabular_data2 .c_row.first div.last{
+      .page_creation_bod_c .tabular_data2 .c_row.first div.last{
         padding: 0;
         flex-wrap: wrap;
         flex: 20%;
         align-items: initial;
       }
-      .page_creation_bod4 .tabular_data2 .c_row.first div.last .f-row{
+      .page_creation_bod_c .tabular_data2 .c_row.first div.last .f-row{
         display: flex;
         flex: initial;
         flex-wrap: wrap;
@@ -687,7 +687,7 @@
         border: none;
         padding: 0;
       }
-      .page_creation_bod4 .tabular_data2 .c_row.first div.last .f-row span{
+      .page_creation_bod_c .tabular_data2 .c_row.first div.last .f-row span{
         display: inline-flex;
         word-break: break-word;
         align-items: center;
@@ -699,109 +699,109 @@
         justify-content: center;
         padding: 10px 20px;
       }
-      .page_creation_bod4 .tabular_data2 .c_row.first div.last .f-row span:last-child{
+      .page_creation_bod_c .tabular_data2 .c_row.first div.last .f-row span:last-child{
          border-left: none !important;
       }
-      .page_creation_bod4 .img_wrap {
+      .page_creation_bod_c .img_wrap {
         position: relative;
         overflow: hidden;
       }
-      .page_creation_bod4 .img_wrap .left{
+      .page_creation_bod_c .img_wrap .left{
         width: 40%;
         float: left;
 
       }
-      .page_creation_bod4 .img_wrap .right{
+      .page_creation_bod_c .img_wrap .right{
         width: 35%;
         float: right;
       }
-      .page_creation_bod4 .img_wrap img{
+      .page_creation_bod_c .img_wrap img{
         width: 100%;
       }
-      .page_creation_bod4 .cwrapper{
+      .page_creation_bod_c .cwrapper{
           margin-bottom:50px;
       }
-      .page_creation_bod4 .bar-wrap{
+      .page_creation_bod_c .bar-wrap{
         position: relative;
         height: 10px;
         width: 100%;
         margin-bottom: 50px;
       }
 
-      .page_creation_bod4 .sp_wrap .content-wrapper {
+      .page_creation_bod_c .sp_wrap .content-wrapper {
         position: relative;
         /*margin: 50px 0;*/
       }
-      .page_creation_bod4 .sp_wrap .content-wrapper.c-row-reverse .left{
+      .page_creation_bod_c .sp_wrap .content-wrapper.c-row-reverse .left{
         width: 50%;
         float: right;
       }
-      .page_creation_bod4 .sp_wrap .content-wrapper.c-row-reverse .left .box_center_content{
+      .page_creation_bod_c .sp_wrap .content-wrapper.c-row-reverse .left .box_center_content{
         float: right;
         width: 90%;
       }
-      .page_creation_bod4 .sp_wrap .content-wrapper.c-row-reverse .right{
+      .page_creation_bod_c .sp_wrap .content-wrapper.c-row-reverse .right{
       }
-      .page_creation_bod4 .sp_wrap .content-wrapper:after {
+      .page_creation_bod_c .sp_wrap .content-wrapper:after {
         content: '';
         display: table;
         clear: both;
       }
-      .page_creation_bod4 .sp_wrap .content-wrapper .left{
+      .page_creation_bod_c .sp_wrap .content-wrapper .left{
         width: 50%;
         float: left;
         position: relative;
         min-height: 250px;
       }
-      .page_creation_bod4 .sp_wrap .content-wrapper .left .box_center_content{
+      .page_creation_bod_c .sp_wrap .content-wrapper .left .box_center_content{
           /*margin:0 auto;*/
           width: 80%;
           min-height: 400px;
           /*float: left;*/
       }
 
-      .page_creation_bod4 .sp_wrap .content-wrapper .left .box_center_content p{
+      .page_creation_bod_c .sp_wrap .content-wrapper .left .box_center_content p{
         font-size: 28px;
         line-height: 38px;
         font-family: "stc_light";
       }
-      .page_creation_bod4 .sp_wrap .content-wrapper .img-wrap{
+      .page_creation_bod_c .sp_wrap .content-wrapper .img-wrap{
         height: 400px;
       }
-      .page_creation_bod4 .sp_wrap .content-wrapper .img-wrap img{
+      .page_creation_bod_c .sp_wrap .content-wrapper .img-wrap img{
         height: 100%;
         width: 100%;
         object-fit: cover;
         object-position: top right;
       }
-      .page_creation_bod4 .sp_wrap .content-wrapper .right{
+      .page_creation_bod_c .sp_wrap .content-wrapper .right{
         width: 40%;
         float: right;
         position: relative;
         min-height: 250px;
       }
-      .page_creation_bod4 .sp_wrap .sp_row{
+      .page_creation_bod_c .sp_wrap .sp_row{
           display: flex;
           margin:50px 0;
       }
-      .page_creation_bod4 .sp_wrap .sp_row .left,
-      .page_creation_bod4 .sp_wrap .sp_row .right{
+      .page_creation_bod_c .sp_wrap .sp_row .left,
+      .page_creation_bod_c .sp_wrap .sp_row .right{
       flex: initial;
       }
-      .page_creation_bod4 .sp2_row .left,
-      .page_creation_bod4 .sp2_row .right{
+      .page_creation_bod_c .sp2_row .left,
+      .page_creation_bod_c .sp2_row .right{
       height: 400px;
       }
-      .page_creation_bod4 .sp2_row .right
+      .page_creation_bod_c .sp2_row .right
       {
       height: 400px;
       padding: 40px;
       width: 45%;
       }
-      .page_creation_bod4 .sp_wrap .sp_row .right .content_para{
+      .page_creation_bod_c .sp_wrap .sp_row .right .content_para{
       margin-bottom: 0;
       }
-      .page_creation_bod4 .sp_wrap .bar-wrap {
+      .page_creation_bod_c .sp_wrap .bar-wrap {
       position: absolute;
       height: 60px;
       width: 80%;
@@ -809,7 +809,7 @@
       right: 0;
       transform: translate(0,-100%);
       }  
-    /*page_creation_bod4*/
+    /*page_creation_bod_c*/
 
     /*page_creation_bod_d*/
      .page_creation_bod_d .screentop_para{
@@ -1079,22 +1079,22 @@
       }  
     /*page_creation_bod_d*/
 
-    /*page_creation_bod6*/
-     .page_creation_bod6 .screentop_para{
+    /*page_creation_bod_e*/
+     .page_creation_bod_e .screentop_para{
         margin: 50px 50px 50px 0;
         overflow: hidden;
         display: inline-block;
         position: relative;
       }
-      .page_creation_bod6 .tabular_data{
+      .page_creation_bod_e .tabular_data{
         width:calc( 100% - 100px );
         margin: 0 auto;
         clear: both;
       }
-      .page_creation_bod6 .tabular_data .c_row{
+      .page_creation_bod_e .tabular_data .c_row{
        display: flex;
       }
-      .page_creation_bod6 .tabular_data .c_row div{
+      .page_creation_bod_e .tabular_data .c_row div{
         flex: 1;
         padding: 40px;
         width: calc( 100% / 8 );
@@ -1108,30 +1108,30 @@
         border-bottom: none;
         transition: all 0.2s ease-in;
       }
-      .page_creation_bod6 .tabular_data .c_row div:last-child{
+      .page_creation_bod_e .tabular_data .c_row div:last-child{
         border-left: 1px solid #4f0f8c;
       }
-      .page_creation_bod6 .tabular_data .c_row:last-child div{
+      .page_creation_bod_e .tabular_data .c_row:last-child div{
         border-bottom: 1px solid #4f0f8c; 
       }
-      .page_creation_bod6 .tabular_data .tabular_data_inner .c_row:hover div:first-child{
+      .page_creation_bod_e .tabular_data .tabular_data_inner .c_row:hover div:first-child{
         background: #FF375E;
       }
-      .page_creation_bod6 .tabular_data .tabular_data_inner .c_row div:first-child{
+      .page_creation_bod_e .tabular_data .tabular_data_inner .c_row div:first-child{
         text-align: center;
         justify-content: center;
       }
-      .page_creation_bod6 .tabular_data .tabular_data_inner .c_row:hover div{
+      .page_creation_bod_e .tabular_data .tabular_data_inner .c_row:hover div{
         background: #4f0f8c;
         color: #fff;
       }
-      .page_creation_bod6 .tabular_data .c_row.second div  {
+      .page_creation_bod_e .tabular_data .c_row.second div  {
         padding: 10px;
       }
-      .page_creation_bod6 .tabular_data .c_row.first {
+      .page_creation_bod_e .tabular_data .c_row.first {
         margin-bottom: 20px;
       }
-      .page_creation_bod6 .tabular_data .c_row.first div{
+      .page_creation_bod_e .tabular_data .c_row.first div{
         border:none;
         border-left: 1px solid #fff;
         color: #fff;
@@ -1140,31 +1140,31 @@
         justify-content: center;
       }
 
-      .page_creation_bod6 .tabular_data2{
+      .page_creation_bod_e .tabular_data2{
         width:calc( 100% - 100px );
         margin: 0 auto;
         clear: both;
       }
-      .page_creation_bod6 .tabular_data2 .c_row{
+      .page_creation_bod_e .tabular_data2 .c_row{
        display: flex;
       }
 
-      .page_creation_bod6 .tabular_data2 .c_row.first.table_white div{
+      .page_creation_bod_e .tabular_data2 .c_row.first.table_white div{
         color: #4f0f8c;
         border: 1px solid #4f0f8c;
         border-left: none;
         border-top: none;
       }
-       .page_creation_bod6 .tabular_data2 .c_row.first.table_white div.last div.c_row{
+       .page_creation_bod_e .tabular_data2 .c_row.first.table_white div.last div.c_row{
         border-left: 0 !important;
       }
-      .page_creation_bod6 .tabular_data2 .c_row.first.table_white div span{
+      .page_creation_bod_e .tabular_data2 .c_row.first.table_white div span{
         border-left: 1px solid #4f0f8c !important;
       }
-      .page_creation_bod6 .tabular_data2 .c_row.first.table_white div span:last-child{
+      .page_creation_bod_e .tabular_data2 .c_row.first.table_white div span:last-child{
         border-left: none !important;
       }
-      .page_creation_bod6 .tabular_data2 .c_row div{
+      .page_creation_bod_e .tabular_data2 .c_row div{
         flex: 1;
         padding: 40px;
         width: calc( 100% / 8 );
@@ -1178,30 +1178,30 @@
         border-bottom: none;
         transition: all 0.2s ease-in;
       }
-      .page_creation_bod6 .tabular_data2 .c_row div:last-child{
+      .page_creation_bod_e .tabular_data2 .c_row div:last-child{
         border-left: 1px solid #4f0f8c !important;
       }
-      .page_creation_bod6 .tabular_data2 .c_row:last-child div{
+      .page_creation_bod_e .tabular_data2 .c_row:last-child div{
         border-bottom: 1px solid #4f0f8c; 
       }
-      .page_creation_bod6 .tabular_data2 .tabular_data_inner .c_row:hover div:first-child{
+      .page_creation_bod_e .tabular_data2 .tabular_data_inner .c_row:hover div:first-child{
         background: #FF375E;
       }
-      .page_creation_bod6 .tabular_data2 .tabular_data_inner .c_row div:first-child{
+      .page_creation_bod_e .tabular_data2 .tabular_data_inner .c_row div:first-child{
         text-align: center;
         justify-content: center;
       }
-      .page_creation_bod6 .tabular_data2 .tabular_data_inner .c_row:hover div{
+      .page_creation_bod_e .tabular_data2 .tabular_data_inner .c_row:hover div{
         background: #4f0f8c;
         color: #fff;
       }
-      .page_creation_bod6 .tabular_data2 .c_row.second div  {
+      .page_creation_bod_e .tabular_data2 .c_row.second div  {
         padding: 10px;
       }
-      .page_creation_bod6 .tabular_data2 .c_row.first {
+      .page_creation_bod_e .tabular_data2 .c_row.first {
         margin-bottom: 0;
       }
-      .page_creation_bod6 .tabular_data2 .c_row.first div{
+      .page_creation_bod_e .tabular_data2 .c_row.first div{
         border:none;
         border-left: 1px solid #fff;
         color: #fff;
@@ -1209,13 +1209,13 @@
         text-align: center;
         justify-content: center;
       }
-      .page_creation_bod6 .tabular_data2 .c_row.first div.last{
+      .page_creation_bod_e .tabular_data2 .c_row.first div.last{
         padding: 0;
         flex-wrap: wrap;
         flex: 20%;
         align-items: initial;
       }
-      .page_creation_bod6 .tabular_data2 .c_row.first div.last .f-row{
+      .page_creation_bod_e .tabular_data2 .c_row.first div.last .f-row{
         display: flex;
         flex: initial;
         flex-wrap: wrap;
@@ -1223,7 +1223,7 @@
         border: none;
         padding: 0;
       }
-      .page_creation_bod6 .tabular_data2 .c_row.first div.last .f-row span{
+      .page_creation_bod_e .tabular_data2 .c_row.first div.last .f-row span{
         display: inline-flex;
         word-break: break-word;
         align-items: center;
@@ -1235,109 +1235,109 @@
         justify-content: center;
         padding: 10px 20px;
       }
-      .page_creation_bod6 .tabular_data2 .c_row.first div.last .f-row span:last-child{
+      .page_creation_bod_e .tabular_data2 .c_row.first div.last .f-row span:last-child{
          border-left: none !important;
       }
-      .page_creation_bod6 .img_wrap {
+      .page_creation_bod_e .img_wrap {
         position: relative;
         overflow: hidden;
       }
-      .page_creation_bod6 .img_wrap .left{
+      .page_creation_bod_e .img_wrap .left{
         width: 40%;
         float: left;
 
       }
-      .page_creation_bod6 .img_wrap .right{
+      .page_creation_bod_e .img_wrap .right{
         width: 35%;
         float: right;
       }
-      .page_creation_bod6 .img_wrap img{
+      .page_creation_bod_e .img_wrap img{
         width: 100%;
       }
-      .page_creation_bod6 .cwrapper{
+      .page_creation_bod_e .cwrapper{
           margin-bottom:50px;
       }
-      .page_creation_bod6 .bar-wrap{
+      .page_creation_bod_e .bar-wrap{
         position: relative;
         height: 10px;
         width: 100%;
         margin-bottom: 50px;
       }
 
-      .page_creation_bod6 .sp_wrap .content-wrapper {
+      .page_creation_bod_e .sp_wrap .content-wrapper {
         position: relative;
         /*margin: 50px 0;*/
       }
-      .page_creation_bod6 .sp_wrap .content-wrapper.c-row-reverse .left{
+      .page_creation_bod_e .sp_wrap .content-wrapper.c-row-reverse .left{
         width: 50%;
         float: right;
       }
-      .page_creation_bod6 .sp_wrap .content-wrapper.c-row-reverse .left .box_center_content{
+      .page_creation_bod_e .sp_wrap .content-wrapper.c-row-reverse .left .box_center_content{
         float: right;
         width: 90%;
       }
-      .page_creation_bod6 .sp_wrap .content-wrapper.c-row-reverse .right{
+      .page_creation_bod_e .sp_wrap .content-wrapper.c-row-reverse .right{
       }
-      .page_creation_bod6 .sp_wrap .content-wrapper:after {
+      .page_creation_bod_e .sp_wrap .content-wrapper:after {
         content: '';
         display: table;
         clear: both;
       }
-      .page_creation_bod6 .sp_wrap .content-wrapper .left{
+      .page_creation_bod_e .sp_wrap .content-wrapper .left{
         width: 50%;
         float: left;
         position: relative;
         min-height: 250px;
       }
-      .page_creation_bod6 .sp_wrap .content-wrapper .left .box_center_content{
+      .page_creation_bod_e .sp_wrap .content-wrapper .left .box_center_content{
           /*margin:0 auto;*/
           width: 80%;
           min-height: 400px;
           /*float: left;*/
       }
 
-      .page_creation_bod6 .sp_wrap .content-wrapper .left .box_center_content p{
+      .page_creation_bod_e .sp_wrap .content-wrapper .left .box_center_content p{
         font-size: 28px;
         line-height: 38px;
         font-family: "stc_light";
       }
-      .page_creation_bod6 .sp_wrap .content-wrapper .img-wrap{
+      .page_creation_bod_e .sp_wrap .content-wrapper .img-wrap{
         height: 400px;
       }
-      .page_creation_bod6 .sp_wrap .content-wrapper .img-wrap img{
+      .page_creation_bod_e .sp_wrap .content-wrapper .img-wrap img{
         height: 100%;
         width: 100%;
         object-fit: cover;
         object-position: top right;
       }
-      .page_creation_bod6 .sp_wrap .content-wrapper .right{
+      .page_creation_bod_e .sp_wrap .content-wrapper .right{
         width: 40%;
         float: right;
         position: relative;
         min-height: 250px;
       }
-      .page_creation_bod6 .sp_wrap .sp_row{
+      .page_creation_bod_e .sp_wrap .sp_row{
           display: flex;
           margin:50px 0;
       }
-      .page_creation_bod6 .sp_wrap .sp_row .left,
-      .page_creation_bod6 .sp_wrap .sp_row .right{
+      .page_creation_bod_e .sp_wrap .sp_row .left,
+      .page_creation_bod_e .sp_wrap .sp_row .right{
       flex: initial;
       }
-      .page_creation_bod6 .sp2_row .left,
-      .page_creation_bod6 .sp2_row .right{
+      .page_creation_bod_e .sp2_row .left,
+      .page_creation_bod_e .sp2_row .right{
       height: 400px;
       }
-      .page_creation_bod6 .sp2_row .right
+      .page_creation_bod_e .sp2_row .right
       {
       height: 400px;
       padding: 40px;
       width: 45%;
       }
-      .page_creation_bod6 .sp_wrap .sp_row .right .content_para{
+      .page_creation_bod_e .sp_wrap .sp_row .right .content_para{
       margin-bottom: 0;
       }
-      .page_creation_bod6 .sp_wrap .bar-wrap {
+      .page_creation_bod_e .sp_wrap .bar-wrap {
       position: absolute;
       height: 60px;
       width: 80%;
@@ -1345,7 +1345,7 @@
       right: 0;
       transform: translate(0,-100%);
       }  
-    /*page_creation_bod6*/
+    /*page_creation_bod_e*/
 
     /*page_creation_bod_f*/
      .page_creation_bod_f .screentop_para{
@@ -1615,22 +1615,22 @@
       }  
     /*page_creation_bod_f*/
 
-    /*page_creation_bod8*/
-     .page_creation_bod8 .screentop_para{
+    /*page_creation_bod_g*/
+     .page_creation_bod_g .screentop_para{
         margin: 50px 50px 50px 0;
         overflow: hidden;
         display: inline-block;
         position: relative;
       }
-      .page_creation_bod8 .tabular_data{
+      .page_creation_bod_g .tabular_data{
         width:calc( 100% - 100px );
         margin: 0 auto;
         clear: both;
       }
-      .page_creation_bod8 .tabular_data .c_row{
+      .page_creation_bod_g .tabular_data .c_row{
        display: flex;
       }
-      .page_creation_bod8 .tabular_data .c_row div{
+      .page_creation_bod_g .tabular_data .c_row div{
         flex: 1;
         padding: 40px;
         width: calc( 100% / 8 );
@@ -1644,30 +1644,30 @@
         border-bottom: none;
         transition: all 0.2s ease-in;
       }
-      .page_creation_bod8 .tabular_data .c_row div:last-child{
+      .page_creation_bod_g .tabular_data .c_row div:last-child{
         border-left: 1px solid #4f0f8c;
       }
-      .page_creation_bod8 .tabular_data .c_row:last-child div{
+      .page_creation_bod_g .tabular_data .c_row:last-child div{
         border-bottom: 1px solid #4f0f8c; 
       }
-      .page_creation_bod8 .tabular_data .tabular_data_inner .c_row:hover div:first-child{
+      .page_creation_bod_g .tabular_data .tabular_data_inner .c_row:hover div:first-child{
         background: #FF375E;
       }
-      .page_creation_bod8 .tabular_data .tabular_data_inner .c_row div:first-child{
+      .page_creation_bod_g .tabular_data .tabular_data_inner .c_row div:first-child{
         text-align: center;
         justify-content: center;
       }
-      .page_creation_bod8 .tabular_data .tabular_data_inner .c_row:hover div{
+      .page_creation_bod_g .tabular_data .tabular_data_inner .c_row:hover div{
         background: #4f0f8c;
         color: #fff;
       }
-      .page_creation_bod8 .tabular_data .c_row.second div  {
+      .page_creation_bod_g .tabular_data .c_row.second div  {
         padding: 10px;
       }
-      .page_creation_bod8 .tabular_data .c_row.first {
+      .page_creation_bod_g .tabular_data .c_row.first {
         margin-bottom: 20px;
       }
-      .page_creation_bod8 .tabular_data .c_row.first div{
+      .page_creation_bod_g .tabular_data .c_row.first div{
         border:none;
         border-left: 1px solid #fff;
         color: #fff;
@@ -1676,31 +1676,31 @@
         justify-content: center;
       }
 
-      .page_creation_bod8 .tabular_data2{
+      .page_creation_bod_g .tabular_data2{
         width:calc( 100% - 100px );
         margin: 0 auto;
         clear: both;
       }
-      .page_creation_bod8 .tabular_data2 .c_row{
+      .page_creation_bod_g .tabular_data2 .c_row{
        display: flex;
       }
 
-      .page_creation_bod8 .tabular_data2 .c_row.first.table_white div{
+      .page_creation_bod_g .tabular_data2 .c_row.first.table_white div{
         color: #4f0f8c;
         border: 1px solid #4f0f8c;
         border-left: none;
         border-top: none;
       }
-       .page_creation_bod8 .tabular_data2 .c_row.first.table_white div.last div.c_row{
+       .page_creation_bod_g .tabular_data2 .c_row.first.table_white div.last div.c_row{
         border-left: 0 !important;
       }
-      .page_creation_bod8 .tabular_data2 .c_row.first.table_white div span{
+      .page_creation_bod_g .tabular_data2 .c_row.first.table_white div span{
         border-left: 1px solid #4f0f8c !important;
       }
-      .page_creation_bod8 .tabular_data2 .c_row.first.table_white div span:last-child{
+      .page_creation_bod_g .tabular_data2 .c_row.first.table_white div span:last-child{
         border-left: none !important;
       }
-      .page_creation_bod8 .tabular_data2 .c_row div{
+      .page_creation_bod_g .tabular_data2 .c_row div{
         flex: 1;
         padding: 40px;
         width: calc( 100% / 8 );
@@ -1714,30 +1714,30 @@
         border-bottom: none;
         transition: all 0.2s ease-in;
       }
-      .page_creation_bod8 .tabular_data2 .c_row div:last-child{
+      .page_creation_bod_g .tabular_data2 .c_row div:last-child{
         border-left: 1px solid #4f0f8c !important;
       }
-      .page_creation_bod8 .tabular_data2 .c_row:last-child div{
+      .page_creation_bod_g .tabular_data2 .c_row:last-child div{
         border-bottom: 1px solid #4f0f8c; 
       }
-      .page_creation_bod8 .tabular_data2 .tabular_data_inner .c_row:hover div:first-child{
+      .page_creation_bod_g .tabular_data2 .tabular_data_inner .c_row:hover div:first-child{
         background: #FF375E;
       }
-      .page_creation_bod8 .tabular_data2 .tabular_data_inner .c_row div:first-child{
+      .page_creation_bod_g .tabular_data2 .tabular_data_inner .c_row div:first-child{
         text-align: center;
         justify-content: center;
       }
-      .page_creation_bod8 .tabular_data2 .tabular_data_inner .c_row:hover div{
+      .page_creation_bod_g .tabular_data2 .tabular_data_inner .c_row:hover div{
         background: #4f0f8c;
         color: #fff;
       }
-      .page_creation_bod8 .tabular_data2 .c_row.second div  {
+      .page_creation_bod_g .tabular_data2 .c_row.second div  {
         padding: 10px;
       }
-      .page_creation_bod8 .tabular_data2 .c_row.first {
+      .page_creation_bod_g .tabular_data2 .c_row.first {
         margin-bottom: 0;
       }
-      .page_creation_bod8 .tabular_data2 .c_row.first div{
+      .page_creation_bod_g .tabular_data2 .c_row.first div{
         border:none;
         border-left: 1px solid #fff;
         color: #fff;
@@ -1745,13 +1745,13 @@
         text-align: center;
         justify-content: center;
       }
-      .page_creation_bod8 .tabular_data2 .c_row.first div.last{
+      .page_creation_bod_g .tabular_data2 .c_row.first div.last{
         padding: 0;
         flex-wrap: wrap;
         flex: 20%;
         align-items: initial;
       }
-      .page_creation_bod8 .tabular_data2 .c_row.first div.last .f-row{
+      .page_creation_bod_g .tabular_data2 .c_row.first div.last .f-row{
         display: flex;
         flex: initial;
         flex-wrap: wrap;
@@ -1759,7 +1759,7 @@
         border: none;
         padding: 0;
       }
-      .page_creation_bod8 .tabular_data2 .c_row.first div.last .f-row span{
+      .page_creation_bod_g .tabular_data2 .c_row.first div.last .f-row span{
         display: inline-flex;
         word-break: break-word;
         align-items: center;
@@ -1771,109 +1771,109 @@
         justify-content: center;
         padding: 10px 20px;
       }
-      .page_creation_bod8 .tabular_data2 .c_row.first div.last .f-row span:last-child{
+      .page_creation_bod_g .tabular_data2 .c_row.first div.last .f-row span:last-child{
          border-left: none !important;
       }
-      .page_creation_bod8 .img_wrap {
+      .page_creation_bod_g .img_wrap {
         position: relative;
         overflow: hidden;
       }
-      .page_creation_bod8 .img_wrap .left{
+      .page_creation_bod_g .img_wrap .left{
         width: 40%;
         float: left;
 
       }
-      .page_creation_bod8 .img_wrap .right{
+      .page_creation_bod_g .img_wrap .right{
         width: 35%;
         float: right;
       }
-      .page_creation_bod8 .img_wrap img{
+      .page_creation_bod_g .img_wrap img{
         width: 100%;
       }
-      .page_creation_bod8 .cwrapper{
+      .page_creation_bod_g .cwrapper{
           margin-bottom:50px;
       }
-      .page_creation_bod8 .bar-wrap{
+      .page_creation_bod_g .bar-wrap{
         position: relative;
         height: 10px;
         width: 100%;
         margin-bottom: 50px;
       }
 
-      .page_creation_bod8 .sp_wrap .content-wrapper {
+      .page_creation_bod_g .sp_wrap .content-wrapper {
         position: relative;
         /*margin: 50px 0;*/
       }
-      .page_creation_bod8 .sp_wrap .content-wrapper.c-row-reverse .left{
+      .page_creation_bod_g .sp_wrap .content-wrapper.c-row-reverse .left{
         width: 50%;
         float: right;
       }
-      .page_creation_bod8 .sp_wrap .content-wrapper.c-row-reverse .left .box_center_content{
+      .page_creation_bod_g .sp_wrap .content-wrapper.c-row-reverse .left .box_center_content{
         float: right;
         width: 90%;
       }
-      .page_creation_bod8 .sp_wrap .content-wrapper.c-row-reverse .right{
+      .page_creation_bod_g .sp_wrap .content-wrapper.c-row-reverse .right{
       }
-      .page_creation_bod8 .sp_wrap .content-wrapper:after {
+      .page_creation_bod_g .sp_wrap .content-wrapper:after {
         content: '';
         display: table;
         clear: both;
       }
-      .page_creation_bod8 .sp_wrap .content-wrapper .left{
+      .page_creation_bod_g .sp_wrap .content-wrapper .left{
         width: 50%;
         float: left;
         position: relative;
         min-height: 250px;
       }
-      .page_creation_bod8 .sp_wrap .content-wrapper .left .box_center_content{
+      .page_creation_bod_g .sp_wrap .content-wrapper .left .box_center_content{
           /*margin:0 auto;*/
           width: 80%;
           min-height: 400px;
           /*float: left;*/
       }
 
-      .page_creation_bod8 .sp_wrap .content-wrapper .left .box_center_content p{
+      .page_creation_bod_g .sp_wrap .content-wrapper .left .box_center_content p{
         font-size: 28px;
         line-height: 38px;
         font-family: "stc_light";
       }
-      .page_creation_bod8 .sp_wrap .content-wrapper .img-wrap{
+      .page_creation_bod_g .sp_wrap .content-wrapper .img-wrap{
         height: 400px;
       }
-      .page_creation_bod8 .sp_wrap .content-wrapper .img-wrap img{
+      .page_creation_bod_g .sp_wrap .content-wrapper .img-wrap img{
         height: 100%;
         width: 100%;
         object-fit: cover;
         object-position: top right;
       }
-      .page_creation_bod8 .sp_wrap .content-wrapper .right{
+      .page_creation_bod_g .sp_wrap .content-wrapper .right{
         width: 40%;
         float: right;
         position: relative;
         min-height: 250px;
       }
-      .page_creation_bod8 .sp_wrap .sp_row{
+      .page_creation_bod_g .sp_wrap .sp_row{
           display: flex;
           margin:50px 0;
       }
-      .page_creation_bod8 .sp_wrap .sp_row .left,
-      .page_creation_bod8 .sp_wrap .sp_row .right{
+      .page_creation_bod_g .sp_wrap .sp_row .left,
+      .page_creation_bod_g .sp_wrap .sp_row .right{
       flex: initial;
       }
-      .page_creation_bod8 .sp2_row .left,
-      .page_creation_bod8 .sp2_row .right{
+      .page_creation_bod_g .sp2_row .left,
+      .page_creation_bod_g .sp2_row .right{
       height: 400px;
       }
-      .page_creation_bod8 .sp2_row .right
+      .page_creation_bod_g .sp2_row .right
       {
       height: 400px;
       padding: 40px;
       width: 45%;
       }
-      .page_creation_bod8 .sp_wrap .sp_row .right .content_para{
+      .page_creation_bod_g .sp_wrap .sp_row .right .content_para{
       margin-bottom: 0;
       }
-      .page_creation_bod8 .sp_wrap .bar-wrap {
+      .page_creation_bod_g .sp_wrap .bar-wrap {
       position: absolute;
       height: 60px;
       width: 80%;
@@ -1881,7 +1881,7 @@
       right: 0;
       transform: translate(0,-100%);
       }  
-    /*page_creation_bod8*/
+    /*page_creation_bod_g*/
 
     /*page_creation_bod_h*/
      .page_creation_bod_h .screentop_para{
@@ -2440,7 +2440,7 @@
 <div class="main_boc">
     <div class=" outer_wrapper">
     <!-- SECTION1 -->
-      <div class="page_creation_bod2">
+      <div class="page_creation_bod_a">
         <div class="cwrapper ">
           <div class="screentop_para">
             <h1>
@@ -2862,7 +2862,7 @@
    
 
     <!-- SECTION2 -->
-      <div class="page_creation_bod3">
+      <div class="page_creation_bod_b">
         <div class="cwrapper">
           <div class="screentop_para">
           <h1>
@@ -3166,7 +3166,7 @@
     <!-- SECTION2 -->
 
     <!-- SECTION3 -->
-    <div class="page_creation_bod4">
+    <div class="page_creation_bod_c">
       <div class="cwrapper">
         <div class="screentop_para">
           <h1>
@@ -3189,14 +3189,13 @@
 
          <div class="tabular_data">
           <div class="c_row first bk_purple">
-            <div>الرئيس</div>
-            <div>الرئيس</div>
-            <div>الرئيس</div>
-            <div>الرئيس</div>
-            <div>الرئيس</div>
-            <div>الرئيس</div>
-            <div>الرئيس</div>
-            <div>الرئيس</div>
+            <div>‫م‬</div>
+            <div>‫سم‬ ‫ا‬</div>
+            <div>‫العلمية‬ ‫ت‬ ‫المؤه‬</div>
+            <div>‫السعودية(‬ ‫ت‬ ‫تصا‬ ‫)ا‬ ‫الحالية‬ ‫الوظيفة‬</div>
+            <div>‫السابقة‬ ‫الوظيفة‬</div>
+            <div> ال‬كة‬</div>
+           
           </div>
            <div class="c_row bk_purple second">
               <div class="bk_pink"></div>
@@ -3205,378 +3204,144 @@
               <div></div>
               <div></div>
               <div></div>
-              <div></div>
-              <div></div>
+              
             </div>
           <div class="tabular_data_inner">
            
             <div class="c_row">
               <div>1</div>
-              <div>
-                            جانه
-              صاحب السمو الملكي
-              امير/ محمد بن خالد
-              العبدالل
-
-              </div>
-              <div>
-              استاذ/ أحمد بن
-              رئيس مجلس •
-              </div>
-              <div>
-              عضو مجلس 
-              ادا
-              </div>
-              <div>
-                بائية
-                بكالوريوس بحوث
-                ماجستير عل
-              </div>
-              <div>
-              ية
-              للتقنية
-              خبرة في
-              </div>
-              <div>
-              ر
-              مستشار
-              مستشار
-              </div>
-              <div>
-                حكومي
-              </div>
-            </div>
-            
-            <div class="c_row">
-              <div>1</div>
-              <div>
-                            جانه
-              صاحب السمو الملكي
-              امير/ محمد بن خالد
-              العبدالل
-
-              </div>
-              <div>
-              استاذ/ أحمد بن
-              رئيس مجلس •
-              </div>
-              <div>
-              عضو مجلس 
-              ادا
-              </div>
-              <div>
-                بائية
-                بكالوريوس بحوث
-                ماجستير عل
-              </div>
-              <div>
-              ية
-              للتقنية
-              خبرة في
-              </div>
-              <div>
-              ر
-              مستشار
-              مستشار
-              </div>
-              <div>
-                حكومي
-              </div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
             </div>
 
             <div class="c_row">
               <div>2</div>
-              <div>
-                            جانه
-              صاحب السمو الملكي
-              امير/ محمد بن خالد
-              العبدالل
-
-              </div>
-              <div>
-              استاذ/ أحمد بن
-              رئيس مجلس •
-              </div>
-              <div>
-              عضو مجلس 
-              ادا
-              </div>
-              <div>
-                بائية
-                بكالوريوس بحوث
-                ماجستير عل
-              </div>
-              <div>
-              ية
-              للتقنية
-              خبرة في
-              </div>
-              <div>
-              ر
-              مستشار
-              مستشار
-              </div>
-              <div>
-                حكومي
-              </div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
             </div>
 
-            <div class="c_row">
+             <div class="c_row">
               <div>3</div>
-              <div>
-                            جانه
-              صاحب السمو الملكي
-              امير/ محمد بن خالد
-              العبدالل
-
-              </div>
-              <div>
-              استاذ/ أحمد بن
-              رئيس مجلس •
-              </div>
-              <div>
-              عضو مجلس 
-              ادا
-              </div>
-              <div>
-                بائية
-                بكالوريوس بحوث
-                ماجستير عل
-              </div>
-              <div>
-              ية
-              للتقنية
-              خبرة في
-              </div>
-              <div>
-              ر
-              مستشار
-              مستشار
-              </div>
-              <div>
-                حكومي
-              </div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
             </div>
+            
 
-            <div class="c_row">
+             <div class="c_row">
               <div>4</div>
-              <div>
-                            جانه
-              صاحب السمو الملكي
-              امير/ محمد بن خالد
-              العبدالل
-
-              </div>
-              <div>
-              استاذ/ أحمد بن
-              رئيس مجلس •
-              </div>
-              <div>
-              عضو مجلس 
-              ادا
-              </div>
-              <div>
-                بائية
-                بكالوريوس بحوث
-                ماجستير عل
-              </div>
-              <div>
-              ية
-              للتقنية
-              خبرة في
-              </div>
-              <div>
-              ر
-              مستشار
-              مستشار
-              </div>
-              <div>
-                حكومي
-              </div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
             </div>
+
             <div class="c_row">
               <div>5</div>
-              <div>
-                            جانه
-              صاحب السمو الملكي
-              امير/ محمد بن خالد
-              العبدالل
-
-              </div>
-              <div>
-              استاذ/ أحمد بن
-              رئيس مجلس •
-              </div>
-              <div>
-              عضو مجلس 
-              ادا
-              </div>
-              <div>
-                بائية
-                بكالوريوس بحوث
-                ماجستير عل
-              </div>
-              <div>
-              ية
-              للتقنية
-              خبرة في
-              </div>
-              <div>
-              ر
-              مستشار
-              مستشار
-              </div>
-              <div>
-                حكومي
-              </div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
             </div>
 
             <div class="c_row">
               <div>6</div>
-              <div>
-                            جانه
-              صاحب السمو الملكي
-              امير/ محمد بن خالد
-              العبدالل
-
-              </div>
-              <div>
-              استاذ/ أحمد بن
-              رئيس مجلس •
-              </div>
-              <div>
-              عضو مجلس 
-              ادا
-              </div>
-              <div>
-                بائية
-                بكالوريوس بحوث
-                ماجستير عل
-              </div>
-              <div>
-              ية
-              للتقنية
-              خبرة في
-              </div>
-              <div>
-              ر
-              مستشار
-              مستشار
-              </div>
-              <div>
-                حكومي
-              </div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
             </div>
 
             <div class="c_row">
               <div>7</div>
-              <div>
-                            جانه
-              صاحب السمو الملكي
-              امير/ محمد بن خالد
-              العبدالل
-
-              </div>
-              <div>
-              استاذ/ أحمد بن
-              رئيس مجلس •
-              </div>
-              <div>
-              عضو مجلس 
-              ادا
-              </div>
-              <div>
-                بائية
-                بكالوريوس بحوث
-                ماجستير عل
-              </div>
-              <div>
-              ية
-              للتقنية
-              خبرة في
-              </div>
-              <div>
-              ر
-              مستشار
-              مستشار
-              </div>
-              <div>
-                حكومي
-              </div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
             </div>
 
             <div class="c_row">
               <div>8</div>
-              <div>
-                            جانه
-              صاحب السمو الملكي
-              امير/ محمد بن خالد
-              العبدالل
-
-              </div>
-              <div>
-              استاذ/ أحمد بن
-              رئيس مجلس •
-              </div>
-              <div>
-              عضو مجلس 
-              ادا
-              </div>
-              <div>
-                بائية
-                بكالوريوس بحوث
-                ماجستير عل
-              </div>
-              <div>
-              ية
-              للتقنية
-              خبرة في
-              </div>
-              <div>
-              ر
-              مستشار
-              مستشار
-              </div>
-              <div>
-                حكومي
-              </div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
             </div>
 
             <div class="c_row">
               <div>9</div>
-              <div>
-                            جانه
-              صاحب السمو الملكي
-              امير/ محمد بن خالد
-              العبدالل
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+            </div>
 
-              </div>
-              <div>
-              استاذ/ أحمد بن
-              رئيس مجلس •
-              </div>
-              <div>
-              عضو مجلس 
-              ادا
-              </div>
-              <div>
-                بائية
-                بكالوريوس بحوث
-                ماجستير عل
-              </div>
-              <div>
-              ية
-              للتقنية
-              خبرة في
-              </div>
-              <div>
-              ر
-              مستشار
-              مستشار
-              </div>
-              <div>
-                حكومي
-              </div>
+             <div class="c_row">
+              <div>10</div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+            </div>
+
+            <div class="c_row">
+              <div>11</div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+            </div>
+
+            <div class="c_row">
+              <div>12</div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+            </div>
+
+            <div class="c_row">
+              <div>13</div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+            </div>
+
+            <div class="c_row">
+              <div>14</div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+            </div>
+
+            <div class="c_row">
+              <div>15</div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
             </div>
           </div>
         </div>
@@ -3586,12 +3351,99 @@
 
     <!-- SECTION4 -->
       <div class="page_creation_bod_d">
-        
+        <div class="cwrapper">
+          <div class="screentop_para">
+            <h1>
+              <span class="h1 colr_white bk_purple" style="padding: 5px 15px 5px 150px;"> ‫
+               ‫‫عضو‬ ‫يكون‬ ‫التي‬ ‫كات‬ ‫ال‬ ‫أسماء‬
+              </span> 
+            </h1>
+            <h1>
+              <span class="h1 colr_purple"> 
+             ‫إدارتها‬ ‫مجالس‬ ‫في‬ ‫عضواً‬ ‫دارة‬ ‫ا‬ ‫مجلس‬
+             <br>
+             ‫مديريها‬ ‫من‬ ‫أو‬ ‫والسابقة‬ ‫الحالية‬
+              </span>
+          </h1>
+          </div>
+          <div class="tabular_data2 margint50">
+             <div class="c_row first bk_purple">
+               <div>‫
+               ‫م‬
+               </div>
+               <div>‫‫‫المنصب‬</div>
+               <div class="c_row last">
+                 <div class="c_row f-row" style="padding:10px 20px;">‫الفعلية‬ ‫الملكية‬ ‫نسبة‬</div>
+                 <div class="c_row f-row">
+                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                 </div>
+               </div>
+               <div>‫
+                 ال‬ ‫اسم‬
+                 ‫التابعة‬ ‫كة‬
+               </div>
+                <div>‫
+                 ال‬ ‫اسم‬
+                 ‫التابعة‬ ‫كة‬
+               </div>
+               <div class="c_row last">
+                 <div class="c_row f-row" style="padding:10px 20px;">‫الفعلية‬ ‫الملكية‬ ‫نسبة‬</div>
+                 <div class="c_row f-row">
+                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                 </div>
+               </div>
+               <div>‫
+                 ال‬ ‫اسم‬
+                 ‫التابعة‬ ‫كة‬
+               </div>
+               <div>‫
+                 ال‬ ‫اسم‬
+                 ‫التابعة‬ ‫كة‬
+               </div>
+             </div>
+             <div class="c_row first table_white">
+               <div>‫
+                1
+               </div>
+               <div>‫التأسيس‬ ‫بلد‬</div>
+               <div class="c_row last">
+                 <div class="c_row f-row">
+                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                 </div>
+               </div>
+               <div>‫
+                 ال‬ ‫اسم‬
+                 ‫التابعة‬ ‫كة‬
+               </div>
+                <div>‫
+                 ال‬ ‫اسم‬
+                 ‫التابعة‬ ‫كة‬
+               </div>
+               <div class="c_row last">
+                 <div class="c_row f-row">
+                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
+                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                 </div>
+               </div>
+               <div>‫
+                 ال‬ ‫اسم‬
+                 ‫التابعة‬ ‫كة‬
+               </div>
+               <div>‫
+                 ال‬ ‫اسم‬
+                 ‫التابعة‬ ‫كة‬
+               </div>
+             </div>
+          </div>
+        </div>
       </div>
     <!-- SECTION4 -->
 
     <!-- SECTION5 -->
-      <div class="page_creation_bod6">
+      <div class="page_creation_bod_e">
         <div class="cwrapper">
           <div class="screentop_para">
             <h1>
@@ -3618,87 +3470,176 @@
             </div>
           </div>
           <div class="tabular_data2">
-             <div class="c_row first bk_purple">
-               <div>‫
-               ‫م‬
-               </div>
-               <div>‫‫سم‬ ‫ا‬</div>
-               <div>‫‫‫المنصب‬</div>
-               <div class="c_row last">
-                 <div class="c_row f-row" style="padding:10px 20px;">‫الفعلية‬ ‫الملكية‬ ‫نسبة‬</div>
-                 <div class="c_row f-row">
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 </div>
-               </div>
-               <div>‫
-                 ال‬ ‫اسم‬
-                 ‫التابعة‬ ‫كة‬
+            <div class="c_row first bk_purple">
+             <div>‫م‬</div>
+             <div>‫‫‫سم‬ ‫ا‬</div>
+             <div>‫المنصب‬</div>
+             <div class="c_row last">
+               <div class="c_row f-row" style="padding:10px 20px;">‫الفعلية‬ ‫الملكية‬ ‫نسبة‬</div>
+               <div class="c_row f-row">
+                 <span>‫‪‫‪20‬‬ ‫مارس‬</span>
+                 <span>‫‪‫‪21‬‬ ‫مارس‬</span>
+                 <span>‫‪‫‪15‬‬ ‫مايو‬</span>
+                 <span>‫‪‫‪18‬‬ ‫سبتمبر‬</span>
+                 <span>‫‪‫‪18‬‬ ‫ديسمبر‬</span>
                </div>
              </div>
-             <div class="c_row first table_white">
-               <div>‫
-                1
-               </div>
-               <div>‫التأسيس‬ ‫بلد‬</div>
-               <div>‫التأسيس‬ ‫بلد‬</div>
-               <div class="c_row last">
-                 <div class="c_row f-row">
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 </div>
-               </div>
-               <div>‫
-                 ال‬ ‫اسم‬
-                 ‫التابعة‬ ‫كة‬
+             <div>‫المجموع‬</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              1
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
                </div>
              </div>
-              <div class="c_row first table_white">
-               <div>‫
-                2
-               </div>
-               <div>‫التأسيس‬ ‫بلد‬</div>
-               <div>‫التأسيس‬ ‫بلد‬</div>
-               <div class="c_row last">
-                 <div class="c_row f-row">
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 </div>
-               </div>
-               <div>‫
-                 ال‬ ‫اسم‬
-                 ‫التابعة‬ ‫كة‬
+             <div>‫
+             </div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              2
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
                </div>
              </div>
-             <div class="c_row first table_white">
-               <div>‫
-                3
-               </div>
-               <div>‫التأسيس‬ ‫بلد‬</div>
-               <div>‫التأسيس‬ ‫بلد‬</div>
-               <div class="c_row last">
-                 <div class="c_row f-row">
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 </div>
-               </div>
-               <div>‫
-                 ال‬ ‫اسم‬
-                 ‫التابعة‬ ‫كة‬
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              3
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
                </div>
              </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              4
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              5
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              6
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              7
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              8
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              9
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
           </div>
           <div class="sp_wrap margint50">
             <div class="content-wrapper ">
@@ -3731,87 +3672,176 @@
             </div>
           </div>
           <div class="tabular_data2 margint50">
-             <div class="c_row first bk_purple">
-               <div>‫
-               ‫م‬
-               </div>
-               <div>‫‫سم‬ ‫ا‬</div>
-               <div>‫‫‫المنصب‬</div>
-               <div class="c_row last">
-                 <div class="c_row f-row" style="padding:10px 20px;">‫الفعلية‬ ‫الملكية‬ ‫نسبة‬</div>
-                 <div class="c_row f-row">
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 </div>
-               </div>
-               <div>‫
-                 ال‬ ‫اسم‬
-                 ‫التابعة‬ ‫كة‬
+            <div class="c_row first bk_purple">
+             <div>‫م‬</div>
+             <div>‫‫‫سم‬ ‫ا‬</div>
+             <div>‫المنصب‬</div>
+             <div class="c_row last">
+               <div class="c_row f-row" style="padding:10px 20px;">‫الفعلية‬ ‫الملكية‬ ‫نسبة‬</div>
+               <div class="c_row f-row">
+                 <span>‫‪‫‪20‬‬ ‫مارس‬</span>
+                 <span>‫‪‫‪21‬‬ ‫مارس‬</span>
+                 <span>‫‪‫‪15‬‬ ‫مايو‬</span>
+                 <span>‫‪‫‪18‬‬ ‫سبتمبر‬</span>
+                 <span>‫‪‫‪18‬‬ ‫ديسمبر‬</span>
                </div>
              </div>
-             <div class="c_row first table_white">
-               <div>‫
-                1
-               </div>
-               <div>‫التأسيس‬ ‫بلد‬</div>
-               <div>‫التأسيس‬ ‫بلد‬</div>
-               <div class="c_row last">
-                 <div class="c_row f-row">
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 </div>
-               </div>
-               <div>‫
-                 ال‬ ‫اسم‬
-                 ‫التابعة‬ ‫كة‬
+             <div>‫المجموع‬</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              1
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
                </div>
              </div>
-              <div class="c_row first table_white">
-               <div>‫
-                2
-               </div>
-               <div>‫التأسيس‬ ‫بلد‬</div>
-               <div>‫التأسيس‬ ‫بلد‬</div>
-               <div class="c_row last">
-                 <div class="c_row f-row">
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 </div>
-               </div>
-               <div>‫
-                 ال‬ ‫اسم‬
-                 ‫التابعة‬ ‫كة‬
+             <div>‫
+             </div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              2
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
                </div>
              </div>
-             <div class="c_row first table_white">
-               <div>‫
-                3
-               </div>
-               <div>‫التأسيس‬ ‫بلد‬</div>
-               <div>‫التأسيس‬ ‫بلد‬</div>
-               <div class="c_row last">
-                 <div class="c_row f-row">
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                   <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 </div>
-               </div>
-               <div>‫
-                 ال‬ ‫اسم‬
-                 ‫التابعة‬ ‫كة‬
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              3
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
                </div>
              </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              4
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              5
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              6
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              7
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              8
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              9
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
           </div>
           <div class="sp_wrap">
             <div class="content-wrapper inner-wrapper c-row-reverse sp_row">
@@ -3839,89 +3869,181 @@
               </div>
             </div>
           </div>
+
           <div class="tabular_data2 margint50">
             <div class="c_row first bk_purple">
-             <div>‫
-             ‫م‬
-             </div>
-             <div>‫‫سم‬ ‫ا‬</div>
-             <div>‫‫‫المنصب‬</div>
+             <div>‫م‬</div>
+             <div>‫‫‫سم‬ ‫ا‬</div>
+             <div>‫المنصب‬</div>
              <div class="c_row last">
                <div class="c_row f-row" style="padding:10px 20px;">‫الفعلية‬ ‫الملكية‬ ‫نسبة‬</div>
                <div class="c_row f-row">
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                 <span>‫‪‫‪20‬‬ ‫مارس‬</span>
+                 <span>‫‪‫‪21‬‬ ‫مارس‬</span>
+                 <span>‫‪‫‪15‬‬ ‫مايو‬</span>
+                 <span>‫‪‫‪18‬‬ ‫سبتمبر‬</span>
+                 <span>‫‪‫‪18‬‬ ‫ديسمبر‬</span>
                </div>
              </div>
-             <div>‫
-               ال‬ ‫اسم‬
-               ‫التابعة‬ ‫كة‬
-             </div>
+             <div>‫المجموع‬</div>
             </div>
             <div class="c_row first table_white">
              <div>‫
               1
              </div>
-             <div>‫التأسيس‬ ‫بلد‬</div>
-             <div>‫التأسيس‬ ‫بلد‬</div>
+             <div>‫</div>
+             <div>‫</div>
              <div class="c_row last">
                <div class="c_row f-row">
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
                </div>
              </div>
              <div>‫
-               ال‬ ‫اسم‬
-               ‫التابعة‬ ‫كة‬
              </div>
             </div>
             <div class="c_row first table_white">
              <div>‫
               2
              </div>
-             <div>‫التأسيس‬ ‫بلد‬</div>
-             <div>‫التأسيس‬ ‫بلد‬</div>
+             <div>‫</div>
+             <div>‫</div>
              <div class="c_row last">
                <div class="c_row f-row">
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
                </div>
              </div>
-             <div>‫
-               ال‬ ‫اسم‬
-               ‫التابعة‬ ‫كة‬
-             </div>
+             <div>‫</div>
             </div>
             <div class="c_row first table_white">
              <div>‫
               3
              </div>
-             <div>‫التأسيس‬ ‫بلد‬</div>
-             <div>‫التأسيس‬ ‫بلد‬</div>
+             <div>‫</div>
+             <div>‫</div>
              <div class="c_row last">
                <div class="c_row f-row">
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
                </div>
              </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
              <div>‫
-               ال‬ ‫اسم‬
-               ‫التابعة‬ ‫كة‬
+              4
              </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              5
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              6
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              7
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              8
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              9
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
             </div>
           </div>
+          
+
           <div class="sp_wrap">
             <div class="content-wrapper inner-wrapper c-row-reverse sp_row">
 
@@ -3938,85 +4060,174 @@
           </div>
           <div class="tabular_data2 margint50">
             <div class="c_row first bk_purple">
-             <div>‫
-             ‫م‬
-             </div>
-             <div>‫‫سم‬ ‫ا‬</div>
-             <div>‫‫‫المنصب‬</div>
+             <div>‫م‬</div>
+             <div>‫‫‫سم‬ ‫ا‬</div>
+             <div>‫المنصب‬</div>
              <div class="c_row last">
                <div class="c_row f-row" style="padding:10px 20px;">‫الفعلية‬ ‫الملكية‬ ‫نسبة‬</div>
                <div class="c_row f-row">
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                 <span>‫‪‫‪20‬‬ ‫مارس‬</span>
+                 <span>‫‪‫‪21‬‬ ‫مارس‬</span>
+                 <span>‫‪‫‪15‬‬ ‫مايو‬</span>
+                 <span>‫‪‫‪18‬‬ ‫سبتمبر‬</span>
+                 <span>‫‪‫‪18‬‬ ‫ديسمبر‬</span>
                </div>
              </div>
-             <div>‫
-               ال‬ ‫اسم‬
-               ‫التابعة‬ ‫كة‬
-             </div>
+             <div>‫المجموع‬</div>
             </div>
             <div class="c_row first table_white">
              <div>‫
               1
              </div>
-             <div>‫التأسيس‬ ‫بلد‬</div>
-             <div>‫التأسيس‬ ‫بلد‬</div>
+             <div>‫</div>
+             <div>‫</div>
              <div class="c_row last">
                <div class="c_row f-row">
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
                </div>
              </div>
              <div>‫
-               ال‬ ‫اسم‬
-               ‫التابعة‬ ‫كة‬
              </div>
             </div>
             <div class="c_row first table_white">
              <div>‫
               2
              </div>
-             <div>‫التأسيس‬ ‫بلد‬</div>
-             <div>‫التأسيس‬ ‫بلد‬</div>
+             <div>‫</div>
+             <div>‫</div>
              <div class="c_row last">
                <div class="c_row f-row">
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
                </div>
              </div>
-             <div>‫
-               ال‬ ‫اسم‬
-               ‫التابعة‬ ‫كة‬
-             </div>
+             <div>‫</div>
             </div>
             <div class="c_row first table_white">
              <div>‫
               3
              </div>
-             <div>‫التأسيس‬ ‫بلد‬</div>
-             <div>‫التأسيس‬ ‫بلد‬</div>
+             <div>‫</div>
+             <div>‫</div>
              <div class="c_row last">
                <div class="c_row f-row">
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
-                 <span>‫‪31‬‬ ‫م‬ ‫‪2018‬‬ ‫ديسمبر‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
                </div>
              </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
              <div>‫
-               ال‬ ‫اسم‬
-               ‫التابعة‬ ‫كة‬
+              4
              </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              5
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              6
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              7
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              8
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
+            </div>
+            <div class="c_row first table_white">
+             <div>‫
+              9
+             </div>
+             <div>‫</div>
+             <div>‫</div>
+             <div class="c_row last">
+               <div class="c_row f-row">
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+                 <span>‬</span>
+               </div>
+             </div>
+             <div>‫</div>
             </div>
           </div>
           <div class="sp_wrap">
@@ -4037,25 +4248,30 @@
                 </h5>
                 <div class="tabular_data nomargin col10" style="width: 100%;">
                   <div class="c_row first bk_purple nomargin">
-                    <div>الرئيس</div>
-                    <div>الرئيس</div>
-                    <div>الرئيس</div>
+                    <div>‫م‬</div>
+                    <div>‫سم‬ ‫ا‬</div>
+                    <div>‫الحضور‬</div>
                   </div>
                   <div class="tabular_data_inner">
-                   
                     <div class="c_row">
                       <div>1</div>
-                      <div>
-                                    جانه
-                      صاحب السمو الملكي
-                      امير/ محمد بن خالد
-                      العبدالل
-
-                      </div>
-                      <div>
-                      استاذ/ أحمد بن
-                      رئيس مجلس •
-                      </div>
+                      <div></div>
+                      <div></div>
+                    </div>
+                    <div class="c_row">
+                      <div>2</div>
+                      <div></div>
+                      <div></div>
+                    </div>
+                    <div class="c_row">
+                      <div>3</div>
+                      <div></div>
+                      <div></div>
+                    </div>
+                    <div class="c_row">
+                      <div>4</div>
+                      <div></div>
+                      <div></div>
                     </div>
                   </div>
                 </div>
@@ -4147,7 +4363,7 @@
     <!-- SECTION6 -->
 
     <!-- SECTION7 -->
-      <div class="page_creation_bod8">
+      <div class="page_creation_bod_g">
         <div class="sp_wrap cwrapper">
           <div class="screentop_para">
               <h1>
@@ -4336,25 +4552,26 @@
             </div>
              <div class="tabular_data margint50">
                 <div class="c_row first bk_purple nomargin">
-                  <div>الرئيس</div>
-                  <div>الرئيس</div>
-                  <div>الرئيس</div>
+                   <div>‫م‬</div>
+                    <div>المساهمين‬ ‫سجل‬ ‫طلب‬ ‫تاريخ‬</div>
+                    <div>المساهمين‬ ‫سجل‬ ‫طلب‬ ‫تاريخ‬</div>
                 </div>
                 <div class="tabular_data_inner">
                  
                   <div class="c_row">
-                    <div>1</div>
-                    <div>
-                                  جانه
-                    صاحب السمو الملكي
-                    امير/ محمد بن خالد
-                    العبدالل
-
-                    </div>
-                    <div>
-                    استاذ/ أحمد بن
-                    رئيس مجلس •
-                    </div>
+                    <div>‫1</div>
+                    <div></div>
+                    <div></div>
+                  </div>
+                  <div class="c_row">
+                    <div>‫2</div>
+                    <div></div>
+                    <div></div>
+                  </div>
+                  <div class="c_row">
+                    <div>‫3</div>
+                    <div></div>
+                    <div></div>
                   </div>
                 </div>
              </div>
