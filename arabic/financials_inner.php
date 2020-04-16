@@ -24,9 +24,9 @@
           </div>
 
           <h1>
-            <span class="h1 colr_white bk_pink" style="padding: 5px 15px 5px 15px;"> ملخص   </span> </h1>
+            <span class="h1 colr_white bk_pink" style="padding: 5px 15px 5px 15px;">الأداء المالي </span> </h1>
           <h1>
-            <span class="h1 colr_white"> ملخص    </span>
+            <span class="h1 colr_white">للمجموعة </span>
           </h1>
         </div>
 
@@ -59,8 +59,8 @@
         <div class="snippetBar">
             <div class="sB-right-wrap">
               <div class="colr_white r-wrap-top">
-                ‫صول‬ ‫ا‬ ‫إجمالي‬ ‫حجم‬
-              </br>سعودي‬ ‫ريال‬ ‫مليون‬
+                ‫حجم إجمالي الأصول 
+              </br> بالريال السعودي 
               </div>
               <div class="r-wrap-bottom">
                   <div class="r-wrap-bottom-bar">&nbsp;</div>
@@ -215,21 +215,13 @@
 
     <div class="glb-sec-1-right bk_purple"></div>
     <div class="glb-sec-1-left bk_white">
-        <p>مة العمت اجنبية
-        النقد والنقد المماثل  </p> 
-        <p> والزكاة والائب
-        تزاول المجموعة نشاطاً رئيسياً يتمثل بتقديم خدمات اتصات والسلع المتعلقة بها. إن أغلبية إيرادات ودخل وأصول
-        المجموعة تتعلق بعملياتها داخل المملكة (كة اتصات السعودية وكة قنوات اتصات السعودية). تعمل
-         .المجموعة خارج المملكة من خل كاتها التابعة وكاته</p>
+        <p style="margin-top: 10px;">الأثر المالي للأنشطة الرئيسة في مستوى المجموعة </p> 
+        <p>تزاول المجموعة نشاطاً رئيسياً يتمثل بتقديم خدمات الاتصالات والسلع المتعلقة بها. إن أغلبية إيرادات ودخل وأصول المجموعة تتعلق بعملياتها داخل المملكة (شركة الاتصالات السعودية وشركة قنوات الاتصالات السعودية). تعمل المجموعة خارج المملكة من خلال شركاتها التابعة وشركاتها الزميلة ومشاريعها المشتركة في دول متعددة. </p>
       <p>
-        الزميلة ومشاريعها المشتركة في دول متعددة
-      يوزع ايراد على القطاع التشغيلي بناءً على المنشأة التي قامت بتقديم تقرير ايراد. تحسب المبيعات بي
+        يوزع الإيراد على القطاع التشغيلي بناءً على المنشأة التي قامت بتقديم تقرير الإيراد. تحسب المبيعات بين القطاعات وفقا لأسعار التعامل التجاري العادي.
       </p>
       <p>
-      القطاعات
-       .وفقا سعار التعامل التجاري العادي
-      القطاعات التي تم افصاح عنها بشكل مستقل تجاوزت مستوى 75 %من اجمالي ايرادات، وبالتالي تم تجميع باقي
-
+        القطاعات التي تم الإفصاح عنها بشكل مستقل تجاوزت مستوى 75% من اجمالي الإيرادات، وبالتالي تم تجميع باقي القطاعات التشغيلية الأخرى ضمن "قطاعات تشغيلية أخرى".
       </p>
 
     </div>
@@ -240,22 +232,19 @@
   <!-- section1 start -->
   <div class="glb-sec-1">
     <div class="glb-sec-1-left">
-        <h3 class="colr_purpleLight marginb50">مة العمت اجنبية
-        النقد والنقد المماثل  </h3> 
-        <p> والزكاة والائب
-        تزاول المجموعة نشاطاً رئيسياً يتمثل بتقديم خدمات اتصات والسلع المتعلقة بها. إن أغلبية إيرادات ودخل وأصول
-        المجموعة تتعلق بعملياتها داخل المملكة (كة اتصات السعودية وكة قنوات اتصات السعودية). تعمل
-         .المجموعة خارج المملكة من خل كاتها التابعة وكاته</p>
-      <p>
+        <!-- <h3 class="colr_purpleLight marginb50">مة العمت اجنبية -->
+        <!-- النقد والنقد المماثل  </h3>  -->
+        <p></p>
+      <!-- <p>
         الزميلة ومشاريعها المشتركة في دول متعددة
       يوزع ايراد على القطاع التشغيلي بناءً على المنشأة التي قامت بتقديم تقرير ايراد. تحسب المبيعات بي
-      </p>
-      <p>
+      </p> -->
+      <!-- <p>
       القطاعات
        .وفقا سعار التعامل التجاري العادي
       القطاعات التي تم افصاح عنها بشكل مستقل تجاوزت مستوى 75 %من اجمالي ايرادات، وبالتالي تم تجميع باقي
 
-      </p>
+      </p> -->
 
     </div>
 
@@ -273,7 +262,7 @@
 
       <table>
         <tr class="tr1">
-          <th class="c1" >5 مليون ريال سعودي في </th>
+          <th class="c1" >البند (آلاف الريالات)</th>
           <th class="c2">2019</th>
           <th class="c2">2018</th>
         </tr>
@@ -290,7 +279,7 @@
         </tr>
 
         <tr class="tr3">
-          <td class="td1">  الإيرادات شركة (1) </td>
+          <td class="td1"> الإيرادات (1)</td>
           <td class="td1"></td>
           <td class="td1"></td>
         </tr>
@@ -405,7 +394,7 @@
         </tr>
 
         <tr class="tr3">
-          <td class="td1">   صافي الربح العائد إلى </td>
+          <td class="td1">صافي الربح العائد إلى </td>
           <td class="td1"></td>
           <td class="td1"></td>
         </tr>
@@ -443,7 +432,7 @@
 
       <table>
         <tr class="tr1">
-          <th class="c1" >5 مليون ريال سعودي في </th>
+          <th class="c1" >البند (آلاف الريالات)</th>
           <th class="c2">2019</th>
           <th class="c2">2018</th>
         </tr>
@@ -459,7 +448,7 @@
         </tr>
 
         <tr class="tr3">
-          <td class="td1">  الإيرادات شركة (1) </td>
+          <td class="td1"> الإيرادات (1)</td>
           <td class="td1"></td>
           <td class="td1"></td>
         </tr>
@@ -770,19 +759,18 @@
 
       <table>
         <tr class="tr1 tr1-1">
-            <th class="c1" >‫المعايير‬ ‫تطبيق‬ </th>
-            <th class="c2">‫لمعايير‬ ‫وفقاً‬ ‫عداد‬ ‫ا‬ ‫تم‬السعودية‬ ‫المحاسبة‬</th>
-            <th class="c2" colspan ="4">‫المعتمدة‬ ‫خرى‬ ‫ا‬ ‫صدارات‬ ‫وا‬ ‫والمعايير‬ ‫المالي‬ ‫للتقرير‬الدولية‬ ‫   للمعايير‬ ‫وفقاً‬ ‫عداد‬ ‫ا‬ ‫تم‬لسعودية‬ ‫العربية‬ ‫المملكة‬ ‫*في‬</th>
+            <th class="c1" >‫تطبيق المعايير  </th>
+            <th class="c2">‫تطبيق المعايير  </th>
+            <th class="c2" colspan ="4">‫تطبيق المعايير  </th>
         </tr>
         
         <tr class="tr1 tr1-a">
         
-          <th class="c1"> ت‬ ‫الريا‬ ‫يين‬ ‫)م‬ ‫البيان‬ </th>
-          <th class="c2"> مراجعة‪2016‬‬ ‫موحدة‬ ‫م‬ </th>
-          <th class="c2"> مراجعة‪2016‬‬ ‫موحدة‬ ‫م‬ </th>
-          <th class="c2"> مراجعة‪2016‬‬ ‫موحدة‬ ‫م‬ </th>
-          <th class="c2"> مراجعة‪2016‬‬ ‫موحدة‬ ‫م‬ </th>
-          <th class="c2"> مراجعة‪2016‬‬ ‫موحدة‬ ‫م‬ </th>
+          <th class="c1">البيان (ملايين الريالات)</th>
+          <th class="c2">البيان (ملايين الريالات)</th>
+          <th class="c2">البيان (ملايين الريالات)</th>
+          <th class="c2" colspan ="2">2017م 2018م** موحدة وحدة معدلة معدلة</th>
+          <th class="c2">2019م موحدة مراجعة</th>
         </tr>
 
         <tr class="tr2-1">
@@ -799,380 +787,68 @@
         </tr>
 
         <tr class="tr3">
-          <td class="td1">  ‫الدخل‬ ‫‪:‬قائمة‬ </td>
+          <td class="td1" rowspan="5"> 
+          قائمة الدخل:
+          إيرادات النشاط
+          تكاليف إيرادات النشاط
+          مجمل ربح النشاط
+          المصاريف التشغيلية
+          ربح النشاط التشغيلي
+          الإيرادات والمصروفات الأخرى – صافي
+          الزكاة والضرائب وحقوق الملكية غير المسيطرة
+          صافي الربح العائد إلى مساهمي الشركة</td>
           <td class="td1"></td>
           <td class="td1"></td>
           <td class="td1"></td>
           <td class="td1"></td>
-          <td class="td1"></td>
+          <!-- <td class="td1"></td> -->
         </tr>
 
 
         <tr class="tr3">
-          <td class="td2"> ‫النشاط‬ ‫إيرادات‬ </td>
-          <td class="td2">‫‪50,651‬‬</td>
-          <td class="td2">‫‪52,674‬‬</td>
-          <td class="td2">‫‪50,661‬‬</td>
-          <td class="td2">‫‪51,963‬‬</td>
-          <td class="td2">‫‪54,367‬‬</td>
+          <!-- <td class="td2"> ‫النشاط‬ ‫إيرادات‬ </td> -->
+          <td class="td2">‫‪قائمة الدخل: إيرادات النشاط تكاليف إيرادات النشاط</td>
+          <td class="td2">‫‪قائمة الدخل: إيرادات النشاط تكاليف إيرادات النشاط</td>
+          <td class="td2" colspan="2">‫‪50,661 51,963 (22,106) (21,490)</td>
+          <td class="td2">‫‪ 54,367 (21,976)</td>
+          <!-- <td class="td2">‫‪54,367‬‬</td> -->
         </tr>
 
-
-        <tr class="tr3">
-          <td class="td2"> ‫النشاط‬ ‫إيرادات‬ </td>
-          <td class="td2">‫‪(21,976‬‬)</td>
-          <td class="td2">‫‪(21,976‬‬)</td>
-          <td class="td2">‫‪(21,976‬‬)</td>
-          <td class="td2">‫‪(21,976‬‬)</td>
-          <td class="td2">‫‪(21,976‬‬)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫النشاط‬ ‫ربح‬ ‫مجمل‬ </td>
-          <td class="td2">‫‪(21,976‬‬)</td>
-          <td class="td2">‫‪(28,688‬‬)</td>
-          <td class="td2">‫‪(21,976‬‬)</td>
-          <td class="td2">‫‪(30,473‬‬)</td>
-          <td class="td2">‫‪(32,391‬‬)</td>
-        </tr>
-
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫التشغيلية‬ ‫المصاريف‬ </td>
-          <td class="td2">‫‪‫‪‫(18,486‬‬)‪ ‫‪</td>
-          <td class="td2">‫‪(18,737‬‬)‪</td>
-          <td class="td2">‫‪(21,976‬‬)</td>
-          <td class="td2">‫‪(18,228‬‬)‪</td>
-          <td class="td2">‫‪(19,911‬‬)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫التشغيلي‬ ‫النشاط‬ ‫ربح‬</td>
-          <td class="td2">‫‪(21,976‬‬)</td>
-          <td class="td2">‫‪(21,976‬‬)</td>
-          <td class="td2">‫‪(12,245‬‬)</td>
-          <td class="td2">‫‪(12,480‬‬)</td>
-          <td class="td2">‫‪(12,480‬‬)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫والم‬ ‫يرادات‬ ‫ا‬‫صافي‬ ‫–‬ ‫خرى‬ ‫ا‬ ‫وفات‬ </td>
-          <td class="td2">‫‪(21,976‬‬)</td>
-          <td class="td2">‫‪(21,976‬‬)</td>
-          <td class="td2">‫‪(12,245‬‬)</td>
-          <td class="td2">‫‪(12,480‬‬)</td>
-          <td class="td2">‫‪(12,480‬‬)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫التشغيلية‬ ‫المصاريف‬ </td>
-          <td class="td2">(30345)</td>
-          <td class="td2">(26,688)</td>
-          <td class="td2">(28,555)</td>
-          <td class="td2">(30,73)</td>
-          <td class="td2">(3,32)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫التشغيلي‬ ‫النشاط‬ ‫ربح‬</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-        </tr>
-
-
-
-        <tr class="tr3 ">
-          <td class="td2">&nbsp;</td>
-          <td class="td2"></td>
-          <td class="td2"></td>
-          <td class="td2"></td>
-          <td class="td2"></td>
-          <td class="td2"></td>
-
-        </tr>
-
+        
       <!-- sec6 area2   -->
       <tr class="tr3">
-          <td class="td1"></td>
-          <td class="td1"></td>
-          <td class="td1"></td>
-          <td class="td1"></td>
-          <td class="td1"></td>
-          <td class="td1"></td>
+          <!-- <td class="td1"></td> -->
+          <td class="td1">مجمل ربح النشاط المصاريف التشغيلية </td>
+          <td class="td1">مجمل ربح النشاط المصاريف التشغيلية</td>
+          <td class="td1" colspan="2"> 28,555 30,473 (17,569) (18,228)</td>
+          <td class="td1">32,391  (19,911)</td>
+          <!-- <td class="td1"></td> -->
         </tr>
 
-       <tr class="tr3">
-          <td class="td2"> ‫‫‫النشاط‬ ‫إيرادات‬ ‫تكاليف‬ </td>
-          <td class="td2">‫‪‫‪‫(1,228‬‬)‪ ‫‪</td>
-          <td class="td2">‫‪(978‬‬)‪</td>
-          <td class="td2">‫‪(973‬‬)</td>
-          <td class="td2">‫‪(1,048‬‬)‪</td>
-          <td class="td2">‫‪(1,022‬‬)</td>
-        </tr>
-
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫التشغيلية‬ ‫المصاريف‬ </td>
-          <td class="td2">(30345)</td>
-          <td class="td2">(26,688)</td>
-          <td class="td2">(28,555)</td>
-          <td class="td2">(30,73)</td>
-          <td class="td2">(3,32)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫التشغيلي‬ ‫النشاط‬ ‫ربح‬</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫التشغيلية‬ ‫المصاريف‬ </td>
-          <td class="td2">(30345)</td>
-          <td class="td2">(26,688)</td>
-          <td class="td2">(28,555)</td>
-          <td class="td2">(30,73)</td>
-          <td class="td2">(3,32)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫التشغيلي‬ ‫النشاط‬ ‫ربح‬</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
+        
+      <!-- sec6 area2   -->
+      <tr class="tr3">
+          <!-- <td class="td1"></td> -->
+          <td class="td1">ربح النشاط التشغيلي الإيرادات والمصروفات الأخرى – صافي الزكاة والضرائب وحقوق الملكية غير المسيطرة</td>
+          <td class="td1">ربح النشاط التشغيلي الإيرادات والمصروفات الأخرى – صافي الزكاة والضرائب وحقوق الملكية غير المسيطرة</td>
+          <td class="td1" colspan="2">10,986 12,245 3 (417) (973)( 1,048)</td>
+          <td class="td1">12,480 (793) (1,022)</td>
+          <!-- <td class="td1"></td> -->
         </tr>
 
 
 
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫التشغيلية‬ ‫المصاريف‬ </td>
-          <td class="td2">(30345)</td>
-          <td class="td2">(26,688)</td>
-          <td class="td2">(28,555)</td>
-          <td class="td2">(30,73)</td>
-          <td class="td2">(3,32)</td>
+        
+      <!-- sec6 area2   -->
+      <tr class="tr3">
+          <!-- <td class="td1"></td> -->
+          <td class="td1">صافي الربح العائد إلى مساهمي الشركة</td>
+          <td class="td1">صافي الربح العائد إلى مساهمي الشركة</td>
+          <td class="td1" colspan="2"> 10,016 10,780</td>
+          <td class="td1">10,665</td>
+          <!-- <td class="td1"></td> -->
         </tr>
 
-
-        <tr class="tr3">
-          <td class="td2">‫‫التشغيلي‬ ‫النشاط‬ ‫ربح‬</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-        </tr>
-
-
-
-         <tr class="tr3 ">
-          <td class="td2">&nbsp;</td>
-          <td class="td2"></td>
-          <td class="td2"></td>
-          <td class="td2"></td>
-          <td class="td2"></td>
-          <td class="td2"></td>
-
-          </tr>
-
-
-        <!-- sec6 area3   -->
-        <tr class="tr3">
-          <td class="td1"></td>
-          <td class="td1"></td>
-          <td class="td1"></td>
-          <td class="td1"></td>
-          <td class="td1"></td>
-          <td class="td1"></td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫التشغيلية‬ ‫المصاريف‬ </td>
-          <td class="td2">(30345)</td>
-          <td class="td2">(26,688)</td>
-          <td class="td2">(28,555)</td>
-          <td class="td2">(30,73)</td>
-          <td class="td2">(3,32)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫التشغيلي‬ ‫النشاط‬ ‫ربح‬</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-        </tr>
-
-
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫التشغيلية‬ ‫المصاريف‬ </td>
-          <td class="td2">(30345)</td>
-          <td class="td2">(26,688)</td>
-          <td class="td2">(28,555)</td>
-          <td class="td2">(30,73)</td>
-          <td class="td2">(3,32)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫التشغيلي‬ ‫النشاط‬ ‫ربح‬</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫والم‬ ‫يرادات‬ ‫ا‬‫صافي‬ ‫–‬ ‫خرى‬ ‫ا‬ ‫وفات‬ </td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫المسيطرة‬ ‫غير‬ ‫الملكية‬ ‫وحقوق‬ ‫ائب‬</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-        </tr>
-          
-        <tr class="tr3">
-          <td class="td2">‫‫‫ال‬ ‫مساهمي‬ ‫إلى‬ ‫العائد‬ ‫الربح‬ ‫صافي‬كة‬</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-        </tr>
-
-         <tr class="tr3 ">
-          <td class="td2">&nbsp;</td>
-          <td class="td2"></td>
-          <td class="td2"></td>
-          <td class="td2"></td>
-          <td class="td2"></td>
-          <td class="td2"></td>
-        </tr>
-
-
-        <!-- sec6 area4 -->
-        <tr class="tr3">
-          <td class="td1"></td>
-          <td class="td1"></td>
-          <td class="td1"></td>
-          <td class="td1"></td>
-          <td class="td1"></td>
-          <td class="td1"></td>
-        </tr>
-
-        <tr class="tr3">
-          <td class="td2"> ‫‫‫النشاط‬ ‫إيرادات‬ ‫تكاليف‬ </td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫النشاط‬ ‫ربح‬ ‫مجمل‬ </td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫التشغيلية‬ ‫المصاريف‬ </td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫التشغيلي‬ ‫النشاط‬ ‫ربح‬</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫والم‬ ‫يرادات‬ ‫ا‬‫صافي‬ ‫–‬ ‫خرى‬ ‫ا‬ ‫وفات‬ </td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-        </tr>
-
-
-        <tr class="tr3">
-          <td class="td2">‫‫المسيطرة‬ ‫غير‬ ‫الملكية‬ ‫وحقوق‬ ‫ائب‬</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-        </tr>
-          
-        <tr class="tr3">
-          <td class="td2">‫‫‫ال‬ ‫مساهمي‬ ‫إلى‬ ‫العائد‬ ‫الربح‬ ‫صافي‬كة‬</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-          <td class="td2">(1,022)</td>
-        </tr>
-
-         <tr class="tr3 ">
-          <td class="td2">&nbsp;</td>
-          <td class="td2"></td>
-          <td class="td2"></td>
-          <td class="td2"></td>
-          <td class="td2"></td>
-          <td class="td2"></td>
-        </tr>
 
          
       </table>
@@ -2123,10 +1799,8 @@
   </div>
   <!-- section7 END -->
 
+    <?php require_once 'scripts.php'; ?>
+    <script type="text/javascript" src="js/inner_page.js"></script>
+  </body>
 
-
-  <?php require_once 'scripts.php'; ?>
-  <script type="text/javascript" src="js/inner_page.js"></script>
-</body>
-
-</html>
+  </html>

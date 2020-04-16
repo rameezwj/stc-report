@@ -4,6 +4,11 @@
 <?php require_once 'head.php'; ?>
 
 <body class="page_inner">
+  <?php
+    require_once 'menu_screen.php';
+    require_once 'short_menu.php';
+    require_once 'vwipes_loader.php';
+  ?>
   
   <style type="text/css">
     /*distribution_of_profit_inner*/

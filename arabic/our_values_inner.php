@@ -45,9 +45,9 @@
     <div class="value_item pink_border">
       <div>
         <h3> التفاني  </h3>
-        <span> مهتمين  </span>
-        <span> ملتزمين  </span>
-        <span> جديرين بالثقة  </span>
+        <span>مهتمون </span>
+        <span> ملتزمون </span>
+        <span>جديرون بالثقة </span>
       </div>
 
       <div>
