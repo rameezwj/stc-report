@@ -3,12 +3,12 @@
 
 <?php require_once 'head.php'; ?>
 
-<body class="inner_bnr">
+<body class="page_inner inner_bnr">
   <?php
     require_once 'menu_screen.php';
     require_once 'short_menu.php';
+    require_once 'vwipes_loader.php';
   ?>
-  
 
   <!-- Banner start-->
   <div class="bk_purple financials_banner">
@@ -2126,6 +2126,7 @@
 
 
   <?php require_once 'scripts.php'; ?>
+  <script type="text/javascript" src="js/inner_page.js"></script>
 </body>
 
 </html>

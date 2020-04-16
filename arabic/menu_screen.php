@@ -59,44 +59,44 @@
         <a href="javascript: void(0)" data-page-link="bod_inner" class="hover-this">
           ممجلس الادارة الشركة الاتصالات السعودية 
         </a>
-        <a href="javascript: void(0)" data-page-link="creation_of_board" class="hover-this">
+        <a href="javascript: void(0)" data-page-link="creation_of_board_of_directors_inner" class="hover-this">
           تتكوين مجلس الادارة
         </a>
-        <a href="javascript: void(0)" data-page-link="contribution_of_board" class="hover-this">
+        <a href="javascript: void(0)" data-page-link="contribution_of_board_of_directors_inner" class="hover-this">
         تكوين مجلس الإدارة ولجانه وتصنيف أعضائه والإدارة التنفيذية
         </a>
-        <a href="javascript: void(0)" data-page-link="distribution_profit" class="hover-this">
+        <a href="javascript: void(0)" data-page-link="distribution_of_profit_inner" class="hover-this">
           توزيع الارباحو المكافآت و توصيات مجلس الادارة
         </a>
       </div>
 
       <div class="submenu_content submenu_3" data-parent-category="3" >
-        <a href="javascript: void(0)" data-page-link="operation_preformance" class="hover-this">
-          الاداء التشغيلي  
+        <a href="javascript: void(0)" data-page-link="operations_inner" class="hover-this">
+          الاداء التشغيلي
         </a>
-        <a href="javascript: void(0)" data-page-link="local_subsidiries" class="hover-this">
-          الشركات التابعة المحلية 
+        <a href="javascript: void(0)" data-page-link="investment_inner" class="hover-this">
+          أ‌- الاستثمارات المسجلة وفق طريقة حقوق الملكية 
         </a>
-        <a href="javascript: void(0)" data-page-link="international_subsidiries" class="hover-this">
-          الشركات التابعة الدولية 
+        <a href="javascript: void(0)" data-page-link="xfinancials_inner" class="hover-this">
+          الأداء المالي للمجموعة 
         </a>
-        <a href="javascript: void(0)" data-page-link="invetments" class="hover-this">
-          الاستثمارات  
+        <a href="javascript: void(0)" data-page-link="strategy_inner" class="hover-this">
+          التوجهات الاستراتيجية
         </a>
-        <a href="javascript: void(0)" data-page-link="strategy" class="hover-this">
-          التوجهات الاستراتيجية  
+        <a href="javascript: void(0)" data-page-link="risk_management_inner" class="hover-this">
+          إدارة المخاطر المؤسساتية
         </a>
-        <a href="javascript: void(0)" data-page-link="human_resource" class="hover-this">
-          الموارد البشرية  
+        <a href="javascript: void(0)" data-page-link="human_resource_inner" class="hover-this">
+          الموارد البشرية
         </a>
-        <a href="javascript: void(0)" data-page-link="social_responsibility" class="hover-this">
-          المسؤلية الاجتماعية  
+        <a href="javascript: void(0)" data-page-link="social_responsibility_inner" class="hover-this">
+          المسؤلية الاجتماعية 
         </a>
-        <a href="javascript: void(0)" data-page-link="sustainability_in_stv" class="hover-this">
-          الاستدامة في STC 
+        <a href="javascript: void(0)" data-page-link="sustainability_inner" class="hover-this">
+          الاستدامة في STC
         </a>
-        <a href="javascript: void(0)" data-page-link="serving_pilgrams" class="hover-this">
-          خدمة حجاج بيت الحرامفي موسم الحج عام ١٩٤٠ّ 
+        <a href="javascript: void(0)" data-page-link="serving_pilgrams_inner" class="hover-this">
+          خدمة حجاج بيت الحرام في موسم الحج عام ١٩٤٠ ّ
         </a>
       </div>
       

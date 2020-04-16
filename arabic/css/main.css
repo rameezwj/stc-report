@@ -476,7 +476,7 @@ p {
 }
 
 .margint100 {
-  margin-top: 100 !important;
+  margin-top: 100px !important;
 }
 
 .marginb50 {
@@ -6364,24 +6364,24 @@ span.h1 {
   }
 
   a#btn_gotoPrev_page {
-    background-image: url('../img/left-chevron.png');
-    background-position: left 20px center;
-    background-size: 30px auto;
-    background-repeat: no-repeat;
-  }
-  a#btn_gotoPrev_page::before{
-    transform-origin: right center;
-  }
-
-  a#btn_gotoNext_page {
     background-image: url('../img/right-chevron.png');
     background-position: right 20px center;
     background-size: 30px auto;
     background-repeat: no-repeat;
     transform-origin: right center;
   }
-  a#btn_gotoNext_page::before{
+  a#btn_gotoPrev_page::before{
     transform-origin: left center;
+  }
+
+  a#btn_gotoNext_page {
+    background-image: url('../img/left-chevron.png');
+    background-position: left 20px center;
+    background-size: 30px auto;
+    background-repeat: no-repeat;
+  }
+  a#btn_gotoNext_page::before{
+    transform-origin: right center;
   }
   .inner_page_navigation > div:nth-child(1) {
     order: 2;

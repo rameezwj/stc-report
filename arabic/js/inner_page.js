@@ -54,18 +54,18 @@ jQuery(window).on('load', function(){
 			<div class='inner_page_navigation'>
 				<div>
 					${
-						previous_page_text!=undefined
+						next_page_text!=undefined
 						?
-							`<a href='javasvript: void(0)' id='btn_gotoPrev_page'>${(previous_page_text)!=undefined?previous_page_text:''}</a>`
+							`<a href='javasvript: void(0)' id='btn_gotoNext_page'>${(next_page_text)!=undefined?next_page_text:''}</a>`
 						:
 						''
 					}
 				</div>
 				<div>
 					${
-						next_page_text!=undefined
+						previous_page_text!=undefined
 						?
-							`<a href='javasvript: void(0)' id='btn_gotoNext_page'>${(next_page_text)!=undefined?next_page_text:''}</a>`
+							`<a href='javasvript: void(0)' id='btn_gotoPrev_page'>${(previous_page_text)!=undefined?previous_page_text:''}</a>`
 						:
 						''
 					}
