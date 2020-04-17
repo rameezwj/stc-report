@@ -17,3 +17,13 @@
 <!-- <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script> -->
 <!-- <script src="https://vjs.zencdn.net/7.7.5/video.js"></script> -->
 <script src="js/main.js"></script>
+
+<!-- configuration -->
+	<input type="hidden" id="environment" value="http://localhost/stc-report/arabic/">
+
+	<script type="text/javascript">
+		jQuery('.sm_home').on('click', function(){
+			window.location.href = jQuery('#environment').val();
+		})
+	</script>
+<!-- configuration -->
