@@ -46,7 +46,7 @@
     <!-- play button -->
     <a id="play_video" style="position: absolute; opacity: 0;">&nbsp;</a>
     <video id="category_video" playsinline="" xmuted style="width: 100%; height: 100vh; object-fit: cover; ">
-      <source src="video/company_profile.mp4" type="video/mp4">
+      <source src="video/cat_5.mp4" type="video/mp4">
     </video>
   </div>
 <!-- video section | consolidate_financials -->

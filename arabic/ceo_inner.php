@@ -88,7 +88,7 @@
           <br /> <br />
           وختاماً أتقدم بالشكر والعرفان لرئيس مجلس الإدارة صاحب السمو الملكي الأمير محمد بن خالد العبد الله الفيصل ولأعضاء المجلس الوقرين وللإخوة المساهمين لثقتهم ودعمهم للمجموعة، ولجميع منسوبي ومنسوبات مجموعة stc الذين ساهموا بالمضي قدما لتعزيز ريادتها محلياً وإقليمياً وعالمياً، عبر إرساء بنية رقمية قوية ومتطورة، تسهم في تسريع عملية التحول الرقمي، وتدعم توجهات رؤية المملكة العربية السعودية 2030، الرامية إلى تعزيز دور قطاع الاتصالات وتقنية المعلومات لبناء مجتمع رقمي، وحكومة رقمية، واقتصاد رقمي مزدهر.
           <br /> <br />
-          <b> ناصر بن سليمان الناص   </b>
+          <b>ناصر بن سليمان الناصر</b>
           <br />
           الرئيس التنفيذي
         </p>
@@ -120,7 +120,7 @@
   <!-- video section | consolidate_financials -->
     <div class="video_wrapper" style="z-index: 99; width: 100%; height: 100vh; position: fixed; top: 0;">
       <video id="category_video" playsinline="" xmuted style="width: 100%; height: 100vh; object-fit: cover; ">
-        <source src="video/company_profile.mp4" type="video/mp4">
+        <source src="video/cat_1.mp4" type="video/mp4">
       </video>
     </div>
   <!-- video section | consolidate_financials -->

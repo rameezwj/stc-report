@@ -164,7 +164,7 @@
         <div class="upperBar">
   
           <div class="bk_purple colr_white upperBarBottom-inner">
-            ‫للمجموعة‬ ‫المالي‬ ‫داء‬ ‫ا‬ ‫قائمة‬
+            الأداء المالي للمجموعة 
           
           <a href="" class="bk_pink colr_white"> &lt; </a>
           </div>
@@ -730,7 +730,7 @@
         </tr>
       </table>
       <div class="glb-sec-2-right-btm colr_purple">
-        <p>.“القطاعات التشغيلية اخرى ضمن ”قطاعات تشغيلية أخرى :فيما يلي تحليل يرادات المجموع </p> 
+        <!-- <p>.“القطاعات التشغيلية اخرى ضمن ”قطاعات تشغيلية أخرى :فيما يلي تحليل يرادات المجموع </p>  -->
             <p>(1)  تمثل إيرادات القطاعات المذكوره أعلاه، الإيرادات الناتجة من العملاء الخارجيين والداخليين. بلغت المبيعات والتسويات بين القطاعات (بين شركات المجموعة) للسنة المنتهية في 31 ديسمبر 2019م مبلغ 15,930 مليون ريال سعودي (31 ديسمبر 2018م: 13,778 مليون ريال سعودي) والتي تم استبعادها عند التوحيد.</p>
           <p>
             (2)  يتضمن قطاع "أخرى" شركة الاتصالات الكويتية (اس تي سي الكويت) وشركة اس تي سي البحرين وشركة حلول اس تي سي وشركة اس تي سي المتخصصة وشركة اس تي سي الخليج وشركة سفاير وشركة عقالات و شركة أبراج الاتصالات المحددودة وشركة المدفوعات الرقمية السعودية.
@@ -757,8 +757,8 @@
   <div class="glb-sec-2 glb-sec-6">
 
     <div class="glb-sec-2-right">
-      <p>.“القطاعات التشغيلية اخرى ضمن ”قطاعات تشغيلية أخرى
-        :فيما يلي تحليل يرادات المجموع</p>
+      <!-- <p>.“القطاعات التشغيلية اخرى ضمن ”قطاعات تشغيلية أخرى
+        :فيما يلي تحليل يرادات المجموع</p> -->
 
       <table>
         <tr class="tr1 tr1-1">
@@ -861,7 +861,7 @@
         .المملكة والمعايير واصدارات اخرى المعتمدة من الهيئة السعودية للمحاسبين القانونيين
         تم إعادة تصنيف بعض أرقام المقارنة للسنة المنتهية في 31 ديسمبر 2018م لتتما مع ا</p> -->
       
-      <h3 class="colr_purpleLight  font-sizzze">مة العمت اجنبية النقد والنقد المماثل  </h3>  
+      <!-- <h3 class="colr_purpleLight  font-sizzze">مة العمت اجنبية النقد والنقد المماثل  </h3>   -->
    </div>
   <!-- section6 End -->
 
@@ -1796,8 +1796,16 @@
 
 
 
-  <?php require_once 'scripts.php'; ?>
-  <script type="text/javascript" src="js/inner_page.js"></script>
-</body>
+    <!-- video section | consolidate_financials -->
+      <div class="video_wrapper" style="z-index: 99; width: 100%; height: 100vh; position: fixed; top: 0;">
+        <video id="category_video" playsinline="" xmuted style="width: 100%; height: 100vh; object-fit: cover; ">
+          <source src="video/cat_1.mp4" type="video/mp4">
+        </video>
+      </div>
+    <!-- video section | consolidate_financials -->
 
-</html>
+    <?php require_once 'scripts.php'; ?>
+    <script type="text/javascript" src="js/inner_page.js"></script>
+  </body>
+
+  </html>

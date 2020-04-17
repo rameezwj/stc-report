@@ -41,10 +41,10 @@
           قيمنا 
         </a>
         <a href="javascript: void(0)" data-page-link="chairman_inner" class="hover-this">
-          كلمة الرئيس مجلس الادارة شركة اتصالات السعودية 
+          كلمة رئيس مجلس إدارة شركة اتصالات السعودية
         </a>
         <a href="javascript: void(0)" data-page-link="ceo_inner" class="hover-this">
-          كلمة رئيس التنفيذي لمجموعة الاتصالات السعودية 
+          كلمة الرئيس التنفيذي لمجموعة اتصالات السعودية
         </a>
         <a href="javascript: void(0)" data-page-link="introduction_inner" class="hover-this">
           المقدمة
@@ -57,16 +57,16 @@
       <div class="submenu_content submenu_2" data-parent-category="2" >
         <!-- <a href="javascript: void(0)" data-page-link="bod" class="hover-this"> -->
         <a href="javascript: void(0)" data-page-link="bod_inner" class="hover-this">
-          ممجلس الادارة الشركة الاتصالات السعودية 
+          مجلس إدارة شركة الاتصالات السعودية
         </a>
         <a href="javascript: void(0)" data-page-link="creation_of_board_of_directors_inner" class="hover-this">
-          تتكوين مجلس الادارة
+          تكوين مجلس الإدارة
         </a>
         <a href="javascript: void(0)" data-page-link="contribution_of_board_of_directors_inner" class="hover-this">
         تكوين مجلس الإدارة ولجانه وتصنيف أعضائه والإدارة التنفيذية
         </a>
         <a href="javascript: void(0)" data-page-link="distribution_of_profit_inner" class="hover-this">
-          توزيع الارباحو المكافآت و توصيات مجلس الادارة
+          توزيع الأرباح والمكافآت وتوصيات مجلس الإدارة
         </a>
       </div>
 
