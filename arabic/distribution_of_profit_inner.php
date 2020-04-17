@@ -311,12 +311,12 @@
           <div class="screentop_para">
             <h1>
               <span class="h1 colr_white bk_purple" style="padding: 5px 15px 5px 150px;"> ‫
-                ‫والمكافآت‬ ‫رباح‬ ‫ا‬ ‫توزيع‬
+                ‫توزيع الأرباح والمكافآت
               </span> 
             </h1>
             <h1>
               <span class="h1 colr_purple"> 
-               ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫وتوصيات‬ 
+               ‫ وتوصيات مجلس الإدارة 
               </span>
             </h1>
           </div>
@@ -329,24 +329,17 @@
             <div class="right marginr50" style="height: 400px;">
               <div style="position: absolute;bottom: 0;">
                   <h5 class="h5 colr_purple">
-                  ‫رباح‬ ‫ا‬ ‫توزيعات‬
+                  ‫توزيعات الأرباح 
                   </h5>
                   <p class="content_para">
-                  ‫‫بمبلغ‬ ‫‪2019‬م‪،‬‬ ‫عام‬ ‫من‬ ‫الرابع‬ ‫الربع‬ ‫عن‬ ‫كة‬ ‫ال‬ ‫مساهمي‬ ‫على‬ ‫نقدية‬ ‫أرباح‬ ‫توزيع‬ ‫عن‬ ‫كة‬ ‫ال‬ ‫أعلنت‬
-                  ‫قد‬ ‫العام‬ ‫ل‬ ‫خ‬ ‫كة‬ ‫ال‬ ‫أن‬ ‫علماً‬ ‫سهم‪،‬‬ ‫كل‬ ‫عن‬ ‫سعودي‬ ‫ريال‬ ‫‪1‬‬ ‫بواقع‬ ‫سعودي‬ ‫ريال‬ ‫مليون‬ ‫‪2,000‬‬ ‫مقداره‬
-                  ‫‪2019‬م‬ ‫العام‬ ‫من‬ ‫والثالث‬ ‫والثاني‬ ‫ول‬ ‫ا‬ ‫الربع‬ ‫عن‬ ‫كة‬ ‫ال‬ ‫مساهمي‬ ‫على‬ ‫نقدية‬ ‫أرباح‬ ‫بتوزيع‬ ‫قامت‬
-                  ‫حسب‬ ‫سهم‪،‬‬ ‫كل‬ ‫عن‬ ‫سعودي‬ ‫ريال‬ ‫‪1‬‬ ‫بواقع‬ ‫ربع‬ ‫كل‬ ‫عن‬ ‫سعودي‬ ‫ريال‬ ‫مليون‬ ‫‪2,000‬‬ ‫وقدره‬ ‫بمبلغ‬
-                  ‫بتاريخ‬ ‫المنعقد‬ ‫اجتماعه‬ ‫في‬ ‫السعوديـة‬ ‫ت‬ ‫تصا‬ ‫ا‬ ‫كة‬ ‫إدارة‬ ‫مجلس‬ ‫أقرها‬ ‫التي‬ ‫رباح‬ ‫ا‬ ‫توزيع‬ ‫سياسة‬
-                  ‫‪2019‬م‪.‬‬ ‫عام‬ ‫ل‬ ‫خ‬ ‫المنعقدة‬ ‫العامة‬ ‫الجمعية‬ ‫من‬ ‫والمعتمدة‬ ‫‪16/12/2018‬م(‪،‬‬ ‫)الموافق‬ ‫‪09/04/1440‬هـ‬
-                  ‫رباح(‬ ‫ا‬ ‫توزيع‬ ‫سياسة‬ ‫فقرة‬ ‫على‬ ‫ع‬ ‫ط‬ ‫ا‬ ‫نرجو‬ ‫يضاح‬ ‫ا‬ ‫من‬ ‫‪).‬لمزيد‬
+                  أعلنت الشركة عن توزيع أرباح نقدية على مساهمي الشركة عن الربع الرابع من عام 2019م، بمبلغ مقداره 2,000 مليون ريال سعودي بواقع 1 ريال سعودي عن كل سهم، علماً أن الشركة خلال العام قد قامت بتوزيع أرباح نقدية على مساهمي الشركة عن الربع الأول والثاني والثالث من العام 2019م بمبلغ وقدره 2,000 مليون ريال سعودي عن كل ربع بواقع 1 ريال سعودي عن كل سهم، حسب سياسة توزيع الإرباح التي أقرها مجلس إدارة شركة الاتصالات السعوديـة في اجتماعه المنعقد بتاريخ 09/04/1440هـ (الموافق 16/12/2018م)، والمعتمدة من الجمعية العامة المنعقدة خلال عام 2019م. (لمزيد من الإيضاح نرجو الإطلاع على فقرة سياسة توزيع الإرباح).                  ‫‫
                   <br>
-                  ‫‫سعودي‬ ‫ريال‬ ‫‪4‬‬ ‫مبلغ‬ ‫م‬ ‫‪2019‬‬ ‫عام‬ ‫عن‬ ‫الجمعية‬ ‫موافقة‬ ‫بعد‬ ‫الموزعة‬ ‫رباح‬ ‫ا‬ ‫إجمالي‬ ‫يصبح‬ ‫وبذلك‬
-                  ‫م‬ ‫‪2019‬‬ ‫عام‬ ‫عن‬ ‫للتوزيعات‬ ‫بيان‬ ‫يلي‬ ‫فيما‬ ‫و‬ ‫للسهم(‪.‬‬ ‫سعودي‬ ‫ريال‬ ‫‪6‬‬ ‫)‪2018‬م‪:‬‬ ‫‪:‬للسهم‬
+                  ‫‫وبذلك يصبح إجمالي الأرباح الموزعة بعد موافقة الجمعية عن عام 2019 م مبلغ 4 ريال سعودي للسهم (2018م: 6 ريال سعودي للسهم). و فيما يلي بيان للتوزيعات عن عام 2019 م:
                   </p>
               </div>
             </div>
           </div>
-          <div class="tabular_data margint50">
+          <!-- <div class="tabular_data margint50">
             <div class="c_row first bk_purple nomargin">
               <div>‫البيان‬</div>
               <div>‫ت(‬ ‫الريا‬ ‫يين‬ ‫)م‬ ‫التوزيع‬ ‫إجمالي‬</div>
@@ -402,29 +395,163 @@
                 </div>
               </div>
             </div>
+          </div> -->
+          <div class="ctable_wrapper">
+            <table class="stc_table">
+              <tbody>
+                <tr>
+                  <td>
+                    <p><span>البيان</span></p>
+                  </td>
+                  <td>
+                    <p><span>إجمالي التوزيع (ملايين الريالات)</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>نصيب السهم (ريال)</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>تاريخ الإعلان</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>تاريخ الاستحقاق</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>تاريخ التوزيع</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>توزيعات نقدية عن الربع الأول 2019م</span></p>
+                  </td>
+                  <td>
+                    <p><span>2,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>1</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>22/4/2019م</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>5/5/2019م</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>27/5/2019م</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>توزيعات نقدية عن الربع الثاني 2019م</span></p>
+                  </td>
+                  <td>
+                    <p><span>2,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>1</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>22/7/2019م</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>29/7/2019م</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>26/8/2019م</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>توزيعات نقدية عن الربع الثالث 2019م</span></p>
+                  </td>
+                  <td>
+                    <p><span>2,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>1</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>22/10/2019م</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>29/10/2019م</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>19/11/2019م</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>توزيعات نقدية عن الربع الرابع 2019م</span></p>
+                  </td>
+                  <td>
+                    <p><span>2,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>1</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>22/1/2020م</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>سيحدد لاحقاً</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span> &nbsp; &nbsp; &nbsp; &nbsp; سيحدد لاحقاً</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>إجمالي التوزيعات</span></p>
+                  </td>
+                  <td>
+                    <p><span>8,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>4</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                </tr>
+              </tbody>
+            </table>
           </div>
+
           <div class="sp_wrap margint50">
               <div class="content-wrapper inner-wrapper c-row-reverse sp_row">
                 <div class="right marginr50" style="position: relative; width: 50%;">
                   <h5 class="h5 colr_purple">
-                  ‫التنفيذيين‬ ‫كبار‬ ‫من‬ ‫وخمسة‬ ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫أعضاء‬ ‫وتعويضات‬ ‫مكافآت‬       
+                  مكافآت وتعويضات أعضاء مجلس الإدارة وخمسة من كبار التنفيذيين
                    </h5>
                    <p class="content_para">
-                    ‫أبريل‬ ‫‪24‬‬ ‫)الموافق‬ ‫‪1440‬هـ‬ ‫‪19‬شعبان‬ ‫بتاريخ‬ ‫المنعقدة‬ ‫كة‬ ‫لل‬ ‫العادية‬ ‫غير‬ ‫العامة‬ ‫الجمعية‬ ‫وافقت‬
-                    ‫عن‬ ‫المنبثقة‬ ‫اللجان‬ ‫ومكافآت‬ ‫ومكافآتهم‪،‬‬ ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫أعضاء‬ ‫ترشيح‬ ‫سياسة‬ ‫تعديل‬ ‫على‬ ‫‪2019‬م(‪،‬‬
-                    ‫وضوابط‬ ‫مهامها‬ ‫وعلى‬ ‫المراجعة‪،‬‬ ‫لجنة‬ ‫عمل‬ ‫ئحة‬ ‫تعديل‬ ‫وعلى‬ ‫التنفيذية‪،‬‬ ‫دارة‬ ‫ا‬ ‫ومكافآت‬ ‫المجلس‪،‬‬
-                    ‫)‪(200.000‬‬ ‫بقيمة‬ ‫مكافأة‬ ‫على‬ ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫عضو‬ ‫يحصل‬ ‫حيث‬ ‫المراجعة‪،‬‬ ‫لجنة‬ ‫أعضاء‬ ‫ومكافآت‬ ‫عملها‪،‬‬
-                    ‫في‬ ‫عضويته‬ ‫نظير‬ ‫ريال‪،‬‬ ‫)‪(200.000‬‬ ‫بقيمة‬ ‫مكافأة‬ ‫على‬ ‫ويحصل‬ ‫المجلس‪،‬‬ ‫في‬ ‫عضويته‬ ‫نظير‬ ‫ريال‪،‬‬
-                    ‫في‬ ‫عضويته‬ ‫نظير‬ ‫ريال‪،‬‬ ‫)‪(150.000‬‬ ‫بقيمة‬ ‫مكافأة‬ ‫على‬ ‫المراجعة‬ ‫لجنة‬ ‫عضو‬ ‫ويحصل‬ ‫المجلس‪،‬‬ ‫لجان‬
-                    ‫نظير‬ ‫ريال‬ ‫)‪(100.000‬‬ ‫بقيمة‬ ‫مكافأة‬ ‫على‬ ‫خرى‬ ‫ا‬ ‫اللجان‬ ‫في‬ ‫الخارجي‬ ‫العضو‬ ‫يحصل‬ ‫كما‬ ‫المراجعة‪،‬‬ ‫لجنة‬
-                    ‫المجلس‬ ‫جلسات‬ ‫حضور‬ ‫بدل‬ ‫على‬ ‫خرى‬ ‫ا‬ ‫اللجان‬ ‫وعضو‬ ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫عضو‬ ‫يحصل‬ ‫كما‬ ‫عضويته‪.‬‬
-                    ‫جلسة‬ ‫كل‬ ‫عن‬ ‫ريال‬ ‫)‪(5.000‬‬ ‫بقيمة‬ ‫‪.‬واللجان‬
+                    ‫وافقت الجمعية العامة غير العادية للشركة المنعقدة بتاريخ 19شعبان 1440هـ (الموافق 24 أبريل 2019م)، على تعديل سياسة ترشيح أعضاء مجلس الإدارة ومكافآتهم، ومكافآت اللجان المنبثقة عن المجلس، ومكافآت الإدارة التنفيذية، وعلى تعديل لائحة عمل لجنة المراجعة، وعلى مهامها وضوابط عملها، ومكافآت أعضاء لجنة المراجعة، حيث يحصل عضو مجلس الإدارة على مكافأة بقيمة (200.000) ريال، نظير عضويته في المجلس، ويحصل على مكافأة بقيمة (200.000) ريال، نظير عضويته في لجان المجلس، ويحصل عضو لجنة المراجعة على مكافأة بقيمة (150.000) ريال، نظير عضويته في لجنة المراجعة، كما يحصل العضو الخارجي في اللجان الأخرى على مكافأة بقيمة (100.000) ريال نظير عضويته. كما يحصل عضو مجلس الإدارة وعضو اللجان الأخرى على بدل حضور جلسات المجلس واللجان بقيمة (5.000) ريال عن كل جلسة.
                     <br>
                     <br>
-                    ‫إدارة‬ ‫مجلس‬ ‫أعضاء‬ ‫ت‬ ‫وبد‬ ‫مكافآت‬ ‫وبلغت‬ ‫‪stc‬‬ ‫السنة‬ ‫ل‬ ‫خ‬ ‫ولجانه‬ ‫المجلس‬ ‫لجلسات‬ ‫حضورهم‬ ‫عن‬
-                    ‫إضافة‬ ‫اللجان‪،‬‬ ‫لجلسات‬ ‫حضورهم‬ ‫عن‬ ‫الخارجيين‬ ‫اللجان‬ ‫أعضاء‬ ‫ت‬ ‫وبد‬ ‫ومكآفات‬ ‫‪2019‬م‪،‬‬ ‫في‬ ‫المنتهية‬
-                    ‫في‬ ‫تنفيذيين‬ ‫خمسة‬ ‫أكبر‬ ‫إلى‬ ‫‪stc‬‬ ‫عام‬ ‫ل‬ ‫خ‬ ‫للمالية‬ ‫التنفيذي‬ ‫والرئيس‬ ‫التنفيذي‪،‬‬ ‫الرئيس‬ ‫فيهم‬ ‫بما‬
-                    ‫التالية‬ ‫الجداول‬ ‫وفق‬ ‫‪2019:‬م‬
+                   وبلغت مكافآت وبدلات أعضاء مجلس إدارة stc عن حضورهم لجلسات المجلس ولجانه خلال السنة المنتهية في 2019م، ومكآفات وبدلات أعضاء اللجان الخارجيين عن حضورهم لجلسات اللجان، إضافة إلى أكبر خمسة تنفيذيين في stc بما فيهم الرئيس التنفيذي، والرئيس التنفيذي للمالية خلال عام 2019م وفق الجداول التالية:
                   </p>
                 </div>
                 <div class="left">
@@ -465,9 +592,9 @@
             </div>
           </div>
 
-          <div class="tabular_data2 margint50">
+          <!-- <div class="tabular_data2 margint50">
             <h5 class="h5 colr_purple">
-            ‫   (‬ ‫م‬ ‫‪2019‬‬ ‫لعام‬ ‫السابعة‬ ‫الدورة‬ ‫في‬ ‫اللجان‬ ‫أعضاء‬ ‫مكافآت‬ ‫)‬
+            ‫  مكافآت وتعويضات أعضاء مجلس الإدارة للدورة السابعة لعام 2019م 
             </h5>
              <div class="c_row first bk_purple">
                 <div>‫)ريال(‬</div>
@@ -567,12 +694,513 @@
                </div>
                <div></div>
                <div></div>
-              </div>
+              </div>          
+          </div> -->
 
-          
+          <div class="ctable_wrapper">
+            <table class="stc_table">
+              <tbody>
+                <tr>
+                  <td rowspan="2">
+                    <p><span>(ريال)</span></p>
+                  </td>
+                  <td colspan="6">
+                    <p><span>المكافآت الثابتة</span></p>
+                  </td>
+                  <td colspan="6">
+                    <p><span>المكافآت المتغيرة</span></p>
+                  </td>
+                  <td rowspan="2">
+                    <p><span>مكافأة</span></p>
+                    <p><span>نهاية</span></p>
+                    <p><span>الخدمة</span></p>
+                  </td>
+                  <td rowspan="2">
+                    <p><span>المجموع</span></p>
+                    <p><span>الكلي</span></p>
+                  </td>
+                  <td rowspan="2">
+                    <p><span>بدل المصروفات</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>مبلغ معين</span></p>
+                  </td>
+                  <td>
+                    <p><span>بدل حضور جلسات المجلس</span></p>
+                  </td>
+                  <td>
+                    <p><span>مزايا عينية</span></p>
+                  </td>
+                  <td>
+                    <p><span>مكافآت الأعمال الفنية والإدارية&nbsp;</span></p>
+                    <p><span>والاستشارية</span></p>
+                  </td>
+                  <td>
+                    <p><span>مكافأة رئيس المجلس أو العضو المنتدب</span></p>
+                    <p><span>أو أمين السر إن كان من الأعضاء</span></p>
+                  </td>
+                  <td>
+                    <p><span>المجموع</span></p>
+                  </td>
+                  <td>
+                    <p><span>نسبة من الأرباح</span></p>
+                  </td>
+                  <td>
+                    <p><span>مكافأت دورية</span></p>
+                  </td>
+                  <td>
+                    <p><span>خطط تحفيزية قصيرة الأجل</span></p>
+                  </td>
+                  <td>
+                    <p><span>خطط تحفيزية طويلة الأجل</span></p>
+                  </td>
+                  <td>
+                    <p><span>الاسهم الممنوحة</span></p>
+                  </td>
+                  <td>
+                    <p><span>المجموع</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="16">
+                    <p><span>أولاً : الأعضاء المستقلين</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>1- صاحب السمو الملكي الأمير/ محمد بن خالد العبدالله الفيصل</span></p>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>25,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>225,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>225,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>2- الدكتور/ إبراهيم بن عبدالرحمن القاضي</span></p>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>20,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>220,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>220,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>3- الأستاذ/ أسامة ياسين الخياري</span></p>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>25,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>225,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>225,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>المجموع</span></p>
+                  </td>
+                  <td>
+                    <p><span>600,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>70,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>670,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>670,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td colspan="16">
+                    <p><span>ثانياً: الأعضاء غير التنفيذيين</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>1- الدكتور/ خالد بن حسين بياري *</span></p>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>25,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>225,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>225,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>2- الأستاذ/ محمد بن طلال النحاس</span></p>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>25,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>225,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>225,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>3- الأستاذ/ راشد بن ابراهيم شريف**</span></p>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>25,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>225,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>225,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>4- الأستاذ/ سانجاي كابور*</span></p>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>25,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>225,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>225,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>5- الأستاذ/ روي تشـســنـــــــــــات *&nbsp;</span></p>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>25,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>225,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>225,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>6- الأستاذ/ احمد بن محمد العمران</span></p>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>25,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>225,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>225,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>المجموع</span></p>
+                  </td>
+                  <td>
+                    <p><span>1,200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>150,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>1,350,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>1,350,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td colspan="16">
+                    <p><span>ثالثاً : الأعضاء التنفيذيون</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>لايوجد</span></p>
+                  </td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>المجموع&nbsp;</span></p>
+                  </td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>المجموع الكلي</span></p>
+                  </td>
+                  <td>
+                    <p><span>1,800,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>220,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>2,020,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                  <td>
+                    <p><span>2,020,000</span></p>
+                  </td>
+                  <td>&nbsp;</td>
+                </tr>
+              </tbody>
+            </table>
           </div>
 
-          <div class="tabular_data2 margint50">
+
+
+          <!-- <div class="tabular_data2 margint50">
              <div class="c_row first bk_purple">
                 <div>‫)ريال(‬</div>
                  <div class="c_row last">
@@ -675,9 +1303,523 @@
                   <p class="content_para margint50">
                ‫*‬ ‫في‬ ‫العاملين‬ ‫الصندوق‬ ‫لممثلي‬ ‫واللجان‬ ‫للمجلس‬ ‫الجلسات‬ ‫حضور‬ ‫ت‬ ‫وبد‬ ‫المكافآت‬ ‫جميع‬ ‫تورد‬
               </p>
+          </div> -->
+
+          <div class="ctable_wrapper">
+            <h5 class="h5 colr_purple">
+              (مكافآت أعضاء اللجان في الدورة السابعة لعام 2019م)
+            </h5>
+            <table class="stc_table">
+              <tbody>
+                <tr>
+                  <td>
+                    <p><span>الاسم</span></p>
+                  </td>
+                  <td>
+                    <p><span>اللجان</span></p>
+                  </td>
+                  <td>
+                    <p><span>المكافآت الثابتة (عدا بدل حضور الجلسات)</span></p>
+                  </td>
+                  <td>
+                    <p><span>بدل حضور جلسات</span></p>
+                  </td>
+                  <td>
+                    <p><span>المجموع</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>صاحب السمو الملكي الأمير/ محمد بن خالد العبدالله الفيصل</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>التنفيذية</span></li>
+                      <li><span>الاستثمار</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>50,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>250,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الدكتور/ خالد بن حسين بياري</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>التنفيذية</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>30,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>230,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الأستاذ/ محمد بن طلال النحاس</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>الاستثمار</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>20,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>220,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الأستاذ/ راشد بن ابراهيم شريف *</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>الاستثمار</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>20,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>220,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الأستاذ/ سانجاي كابور</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>التنفيذية</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>30,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>230,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الأستاذ/ روي تشـســنـــــــــــات</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>الاستثمار</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>20,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>220,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الدكتور/ إبراهيم بن عبدالرحمن القاضي</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>التنفيذية</span></li>
+                      <li><span>المراجعة</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>300,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>65,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>365,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الأستاذ/ أسامة بن ياسين الخياري</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>الترشيحات والمكافآت</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>20,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>220,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الأستاذ/ احمد بن محمد العمران</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>الترشيحات والمكافآت</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>200,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>20,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>220,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الدكتور خالد بن داود الفداغ</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>المراجعة (عضو خارجي) (مستقيل)</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>100.000</span></p>
+                  </td>
+                  <td>
+                    <p><span>25.000</span></p>
+                  </td>
+                  <td>
+                    <p><span>125.000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الأستاذ/ خالـد بن عبدالله العـنــقــري</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>المراجعة (عضو خارجي)</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>100,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>35,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>135,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الأستاذ/ مـدحــت بن فــريـد تــوفــيـق</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>المراجعة (عضو خارجي)</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>100,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>35,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>135,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الأستاذ/ عمـرو بــن خـالـد كـردي</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>المراجعة (عضو خارجي)</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>
+                    <p><span>10,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>10,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الأستاذ/ طـارق بن عبدالعزيز الـرخيمي</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>المراجعة (عضو خارجي)</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>
+                    <p><span>10,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>10,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الأستاذ/ سلطان بن عبدالملك آل الشيخ *</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>التنفيذية (عضو خارجي)</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>100,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>30,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>130,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>المهندس/ ناصر بن سليمان الناصر</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>التنفيذية (عضو خارجي)</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>100,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>30,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>130,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الأستاذ/ جون براند</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>الترشيحات والمكافآت (عضو خارجي)</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>100,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>20,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>120,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الأستاذة/ هدى بنت محمد الغصن</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>الترشيحات والمكافآت (عضو خارجي)</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>100,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>20,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>120,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>الأستاذ/ مازن بن أحمد الجبير</span></p>
+                  </td>
+                  <td>
+                    <ul>
+                      <li><span>الاستثمار (عضو خارجي)</span></li>
+                    </ul>
+                  </td>
+                  <td>
+                    <p><span>100,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>20,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>120,000</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">
+                    <p><span>المجموع</span></p>
+                  </td>
+                  <td>
+                    <p><span>2,700,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>510,000</span></p>
+                  </td>
+                  <td>
+                    <p><span>3,210,000</span></p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <p class="content_para margint50">
+               ‫* تورد جميع المكافآت وبدلات حضور الجلسات للمجلس واللجان لممثلي الصندوق العاملين في الصندوق إلى الصندوق.
+              </p>
           </div>
 
-          <div class="tabular_data margint100">
+          <div class="ctable_wrapper">
+            <h5 class="h5 colr_purple">
+             مكافآت خمسة من كبار التنفيذيين (من ضمنهم الرئيس التنفيذي والرئيس التنفيذي للمالية خلال عام 2019م)
+            </h5>
+            <table class="stc_table">
+              <tbody>
+                <tr>
+                  <td rowspan="2">
+                    <p><span>(ريال)</span></p>
+                  </td>
+                  <td colspan="4">
+                    <p><span>المكافآت الثابتة</span></p>
+                  </td>
+                  <td colspan="6">
+                    <p><span>المكافآت المتغيرة</span></p>
+                  </td>
+                  <td rowspan="2">
+                    <p><span>مكافآت نهاية الخدمة</span></p>
+                  </td>
+                  <td rowspan="2">
+                    <p><span>مجموع مكافآت التنفيذيين عن المجلس إن وجدت</span></p>
+                  </td>
+                  <td rowspan="2">
+                    <p><span>المجموع الكلي</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>رواتب</span></p>
+                  </td>
+                  <td>
+                    <p><span>بدلات</span></p>
+                  </td>
+                  <td>
+                    <p><span>مزايا عينية</span></p>
+                  </td>
+                  <td>
+                    <p><span>المجموع</span></p>
+                  </td>
+                  <td>
+                    <p><span>مكافآت دورية</span></p>
+                  </td>
+                  <td>
+                    <p><span>أرباح</span></p>
+                  </td>
+                  <td>
+                    <p><span>خطط تحفيزية قصيرة الأجل</span></p>
+                  </td>
+                  <td>
+                    <p><span>خطط تحفيزية طويلة الأجل</span></p>
+                  </td>
+                  <td>
+                    <p><span>الأسهم الممنوحة (يتم إدخال القيمة)</span></p>
+                  </td>
+                  <td>
+                    <p><span>المجموع</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><span>المجموع</span></p>
+                  </td>
+                  <td>
+                    <p><span>12,368,440.59</span></p>
+                  </td>
+                  <td>
+                    <p><span>4,713,042.62</span></p>
+                  </td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>
+                    <p><span>17,081,483.21</span></p>
+                  </td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>
+                    <p><span>21,030,972.00</span></p>
+                  </td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>
+                    <p><span>21,030,972.00</span></p>
+                  </td>
+                  <td>
+                    <p><span>-</span></p>
+                  </td>
+                  <td>
+                    <p><span>1,259,452.05</span></p>
+                  </td>
+                  <td>
+                    <p><span>39,371,907.26</span></p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+
+          <!-- <div class="tabular_data margint100">
             <h5 class="h5 colr_purple">
               ‫‪2019‬م(‬ ‫عام‬ ‫ل‬ ‫خ‬ ‫للمالية‬ ‫التنفيذي‬ ‫والرئيس‬ ‫التنفيذي‬ ‫الرئيس‬ ‫ضمنهم‬ ‫)من‬ ‫التنفيذيين‬ ‫كبار‬ ‫من‬ ‫خمسة‬ ‫مكافآت‬
             </h5>
@@ -736,37 +1878,23 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
+
+
           <div class="sp_wrap margint50">
               <div class="content-wrapper inner-wrapper c-row-reverse sp_row">
               <div class="right marginr50" style="position: relative; width: 50%;">
+                 <h5 class="h5 colr_purple">الأحداث اللاحقة </h5>
+                 <br><br>
                  <p class="content_para">
-                  ‫ومن‬ ‫كريم‪.‬‬ ‫كة‬ ‫أصول‬ ‫على‬ ‫ستحواذ‬ ‫ا‬ ‫عملية‬ ‫أوبر‬ ‫كة‬ ‫إستكملت‬ ‫‪2020‬‬ ‫يناير‬ ‫‪2‬‬ ‫بتاريخ‬
-                  ‫كريم‬ ‫كة‬ ‫في‬ ‫المبا‬ ‫إستثمارها‬ ‫بيع‬ ‫من‬ ‫المجموعة‬ ‫نتائج‬ ‫على‬ ‫ستحواذ‬ ‫ا‬ ‫هذا‬ ‫أثر‬ ‫تسجيل‬ ‫المتوقع‬
-                  ‫‪2020‬م‬ ‫عام‬ ‫من‬ ‫ول‬ ‫ا‬ ‫الربع‬ ‫ل‬ ‫‪.‬خ‬
+                  ‫بتاريخ 2 يناير 2020 إستكملت شركة أوبر عملية الإستحواذ على أصول شركة كريم. ومن المتوقع تسجيل أثر هذا الاستحواذ على نتائج المجموعة من بيع إستثمارها المباشر في شركة كريم خلال الربع الأول من عام 2020م.
                   <br>
                   <br>
-                  ‫‫“فودافون‬ ‫مجموعة‬ ‫مع‬ ‫ملزمة‪،‬‬ ‫غير‬ ‫تفاهم‬ ‫مذكرة‬ ‫اتفاقية‬ ‫توقيع‬ ‫تم‬ ‫‪2020‬‬ ‫يناير‬ ‫‪29‬‬ ‫بتاريخ‬
-                  ‫حوالي‬ ‫تبلغ‬ ‫بقيمة‬ ‫وذلك‬
-                  ‫م‬ ‫فودافون‬ ‫كة‬ ‫أسهم‬ ‫من‬ ‫‪%55‬‬ ‫على‬ ‫كة‬ ‫ال‬ ‫بموجبها‬ ‫تستحوذ‬ ‫العالمية”‬
-                  ‫المقابل‬ ‫تحديد‬ ‫يتم‬ ‫ان‬ ‫على‬ ‫سعودي(‬ ‫ريال‬ ‫مليون‬ ‫‪8,970‬‬ ‫حوالي‬ ‫يعادل‬ ‫)ما‬ ‫أمريكي‬ ‫ر‬ ‫دو‬ ‫مليون‬ ‫‪2,392‬‬
-                  ‫النهائية‬ ‫تفاقيات‬ ‫ا‬ ‫على‬ ‫التوقيع‬ ‫عند‬ ‫النهائي‬ ‫‪.‬المالي‬
-                  <br>
-                  <br>
-                  ‫‫“فودافون‬ ‫مجموعة‬ ‫مع‬ ‫ملزمة‪،‬‬ ‫غير‬ ‫تفاهم‬ ‫مذكرة‬ ‫اتفاقية‬ ‫توقيع‬ ‫تم‬ ‫‪2020‬‬ ‫يناير‬ ‫‪29‬‬ ‫بتاريخ‬
-                  ‫حوالي‬ ‫تبلغ‬ ‫بقيمة‬ ‫وذلك‬
-                  ‫م‬ ‫فودافون‬ ‫كة‬ ‫أسهم‬ ‫من‬ ‫‪%55‬‬ ‫على‬ ‫كة‬ ‫ال‬ ‫بموجبها‬ ‫تستحوذ‬ ‫العالمية”‬
-                  ‫المقابل‬ ‫تحديد‬ ‫يتم‬ ‫ان‬ ‫على‬ ‫سعودي(‬ ‫ريال‬ ‫مليون‬ ‫‪8,970‬‬ ‫حوالي‬ ‫يعادل‬ ‫)ما‬ ‫أمريكي‬ ‫ر‬ ‫دو‬ ‫مليون‬ ‫‪2,392‬‬
-                  ‫النهائية‬ ‫تفاقيات‬ ‫ا‬ ‫على‬ ‫التوقيع‬ ‫عند‬ ‫النهائي‬ ‫‪.‬المالي‬
-                  <br>
-                  <br>
-                  ‫‫“فودافون‬ ‫مجموعة‬ ‫مع‬ ‫ملزمة‪،‬‬ ‫غير‬ ‫تفاهم‬ ‫مذكرة‬ ‫اتفاقية‬ ‫توقيع‬ ‫تم‬ ‫‪2020‬‬ ‫يناير‬ ‫‪29‬‬ ‫بتاريخ‬
-                  ‫حوالي‬ ‫تبلغ‬ ‫بقيمة‬ ‫وذلك‬
-                  ‫م‬ ‫فودافون‬ ‫كة‬ ‫أسهم‬ ‫من‬ ‫‪%55‬‬ ‫على‬ ‫كة‬ ‫ال‬ ‫بموجبها‬ ‫تستحوذ‬ ‫العالمية”‬
-                  ‫المقابل‬ ‫تحديد‬ ‫يتم‬ ‫ان‬ ‫على‬ ‫سعودي(‬ ‫ريال‬ ‫مليون‬ ‫‪8,970‬‬ ‫حوالي‬ ‫يعادل‬ ‫)ما‬ ‫أمريكي‬ ‫ر‬ ‫دو‬ ‫مليون‬ ‫‪2,392‬‬
-                  ‫النهائية‬ ‫تفاقيات‬ ‫ا‬ ‫على‬ ‫التوقيع‬ ‫عند‬ ‫النهائي‬ ‫‪.‬المالي‬
-
+                  ‫‫بتاريخ 29 يناير 2020 تم توقيع اتفاقية مذكرة تفاهم غير ملزمة، مع مجموعة "فودافون العالمية" تستحوذ بموجبها الشركة على 55% من أسهم شركة فودافون مصر وذلك بقيمة تبلغ حوالي 2,392 مليون دولار أمريكي (ما يعادل حوالي 8,970 مليون ريال سعودي) على ان يتم تحديد المقابل المالي النهائي عند التوقيع على الاتفاقيات النهائية.
                 </p>
+                <h5 class="h5 colr_purple">إقرارات مجلس الإدارة</h5>
+
+
               </div>
               <div class="left">
                 <div class="bar-wrap" style="left: 0;right: auto;height: 25px; width: 95%;">
@@ -786,126 +1914,63 @@
                     </div>
                     <div class="col10 margint50">
                     <h5 class="h5 colr_purple">
-                         ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫إقرارات‬                 
+                       التوصيات       
                     </h5>
                     <p class="content_para">
-                      ‫‫إدارة‬ ‫مجلس‬ ‫‪:‬يقر‬
-                      ‫يلي‬ ‫بما‬ ‫السعودية‬ ‫ت‬ ‫تصا‬ ‫ا‬ ‫كة‬
+                      ‫‫يوصي مجلس إدارة الشركة الجمعية العامة للشركة بمايلي :
                       <br>
                       <br>
-                      ‫‫•‬
-                      ‫الصحيح‬ ‫بالشكل‬ ‫أعدت‬ ‫الحسابات‬ ‫ت‬ ‫سج‬ ‫‪.‬أن‬
+                      ‫‫التصويت بالموافقة على تقرير مجلس الإدارة عن السنة المالية المنتهية في 31/12/2019م.
                       <br><br>
-                      ‫بفاعلية‬ ‫ونُفذ‬ ‫سليمة‬ ‫أسس‬ ‫على‬ ‫أعد‬ ‫الداخلية‬ ‫الرقابة‬ ‫نظام‬ ‫‪.‬أن‬
+                      ‫التصويت بالموافقة على تقرير مراجع حسابات الشركة للسنة المالية المنتهية في 31/12/2019م. 
                       <br><br>
-                      ‫‪.‬أنه‬
-                      ‫ال‬ ‫قدرة‬ ‫بشأن‬ ‫يذكر‬ ‫شك‬ ‫أي‬ ‫المجلس‬ ‫لدى‬ ‫يوجد‬
-                      ‫•‬
+                      ‫‪التصويت بالموافقة على القوائم المالية الموحدة للشركة للسنة المالية المنتهية في 31/12/2019م.
                       <br><br>
-                      ‫نشاطها‬ ‫مواصلة‬ ‫على‬ ‫كة‬
+                      ‫التصويت بالموافقة على قرار مجلس الإدارة بتعيين الدكتور/ عمــــــرو بــن خــــــالـــــــــد كـــــــــردي، والمهندس/ طـــارق بن عبـــــدالعزيز الـــــرخيمي (عضوين خارجيين) عضوين في لجنة المراجعة ابتداءً من تاريخ  18/9/2019م وحتى نهاية فترة عمل اللجنة الحالية بتاريخ 27/4/2021م،  وذلك بدلاً من عضو اللجنة السابق الدكتور/ خالد بن داود الفداغ (عضو خارجي) على أن يسري التعيين ابتداءً من تاريخ قرار التوصية الصادر في 19/1/1441هـ (الموافق 18/9/2019م)،  ويأتي هذا التعيين وفقاً للائحة عمل لجنة المراجعة. 
                       <br><br>
-                      ‫أنه‬
-                      ‫ال‬ ‫قدرة‬ ‫بشأن‬ ‫يذكر‬ ‫شك‬ ‫أي‬ ‫المجلس‬ ‫لدى‬ ‫يوجد‬
-                      ‫•‬
+                      ‫التصويت بالموافقة على شراء الشركة عدداً من أسهمها وبحد أقصى 5.5 مليون سهم، وبمبلغ لا يتجاوز 300 مليون ريال سعودي، وذلك بغرض تخصيصها لبرنامج  أسهم حوافز الموظفين، على أن يتم تمويل عملية الشراء للأسهم من موارد الشركة الذاتية، وتفويض المجلس أو من يفوضه بإتمام عملية الشراء على مرحلة واحد أو عدة مراحل خلال فترة أقصاها (8 أشهر) من تاريخ قرار الجمعية العامة غير العادية وتحديد شروط البرنامج وتنفيذه أو التعديل عليه متى ما دعت الحاجة لذلك.
                       <br><br>
-                      ‫نشاطها‬ ‫مواصلة‬ ‫على‬ ‫كة‬
-                      ‫•‬
-                      <br><br>
-                      ‫للمعايير‬ ‫وفقاً‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬ ‫‪31‬‬ ‫في‬ ‫المنتهية‬ ‫للسنة‬ ‫الموحدة‬ ‫المالية‬ ‫القوائم‬ ‫إعداد‬ ‫تم‬
-                      ‫خرى‬ ‫ا‬ ‫صدارات‬ ‫ا‬ ‫و‬ ‫والمعايير‬ ‫السعودية‬ ‫العربية‬ ‫المملكة‬ ‫في‬ ‫المعتمدة‬ ‫المالي‬ ‫للتقرير‬ ‫الدولية‬
-                      ‫القانونيين‬ ‫للمحاسبين‬ ‫السعودية‬ ‫الهيئة‬ ‫من‬ ‫‪.‬المعتمدة‬
-                      ‫•‬
-                      <br><br>
-                      ‫•‬
-                      ‫المصدرة‬ ‫سهم‬ ‫ا‬ ‫من‬ ‫أكثر‬ ‫أو‬ ‫‪(%‬‬ ‫‪5‬‬ ‫)‬ ‫تملك‬ ‫اعتباري‬ ‫أو‬ ‫طبيعي‬ ‫شخص‬ ‫أي‬ ‫عن‬ ‫كة‬ ‫ال‬ ‫تُبلّغ‬ ‫لم‬
-                      ‫‪2019‬م‬ ‫عام‬ ‫ل‬ ‫خ‬ ‫كة‬ ‫‪.‬لل‬
-                      <br><br>
-                      ‫أو‬ ‫اكتتاب‬ ‫حق‬ ‫مذكرات‬ ‫أو‬ ‫خيار‬ ‫حقوق‬ ‫أي‬ ‫أو‬ ‫أسهم‬ ‫إلى‬ ‫للتحويل‬ ‫قابلة‬ ‫دين‬ ‫أدوات‬ ‫أي‬ ‫يوجد‬
-                      ‫‪2019‬م‬ ‫عام‬ ‫ل‬ ‫خ‬ ‫كة‬ ‫ال‬ ‫منحتها‬ ‫أو‬ ‫أصدرتها‬ ‫مشابهة‬ ‫‪.‬حقوق‬ ‫•‬
-                      <br><br>
-                      ‫قابلة‬ ‫دين‬ ‫أدوات‬ ‫ي‬ ‫م‬ ‫‪2019‬‬ ‫عام‬ ‫ل‬ ‫خ‬ ‫كة‬ ‫•‬
-                      ‫أو‬ ‫استرداد‬ ‫أي‬ ‫يوجد‬
-                      <br><br>
-                      ‫سترداد‬ ‫‪.‬ل‬
-                      ‫ال‬ ‫به‬ ‫قامت‬ ‫إلغاء‬ ‫أو‬ ‫اء‬
-                      <br><br>
-                      ‫ال‬ ‫إدارة‬ ‫مجلس‬ ‫أعضاء‬ ‫أحد‬ ‫بموجبه‬ ‫تنازل‬ ‫اتفاق‬ ‫أو‬ ‫ترتيبات‬ ‫أي‬ ‫يوجد‬
-                      ‫تعويض‬ ‫أو‬ ‫راتب‬ ‫أي‬ ‫عن‬ ‫‪.‬التنفيذيين‬
-                      <br><br>
-                      ‫ال‬ ‫مساهمي‬ ‫أحد‬ ‫بموجبه‬ ‫تنازل‬ ‫اتفاق‬ ‫أو‬ ‫ترتيبات‬ ‫أي‬ ‫يوجد‬ ‫‪.‬‬
-                      ‫كبار‬ ‫أحد‬ ‫أو‬ ‫كة‬
-                      ‫•‬
-                      <br><br>
-                      ‫•‬
-                      ‫رباح‬ ‫ا‬ ‫في‬ ‫حقوق‬ ‫أي‬ ‫عن‬ ‫كة‬
-                      <br><br>
-                      ‫•‬
-                      ‫حد‬ ‫جوهرية‬ ‫مصلحة‬ ‫فيه‬ ‫توجد‬ ‫كانت‬ ‫أو‬ ‫وتوجد‬ ‫فيه‬ ‫طرفاً‬ ‫كة‬ ‫ال‬ ‫تكون‬ ‫عقد‬ ‫أي‬ ‫يوجد‬
-                      ‫بأي‬ ‫قة‬ ‫ع‬ ‫ذي‬ ‫شخص‬ ‫ي‬ ‫أو‬ ‫للمالية‬ ‫التنفيذي‬ ‫الرئيس‬ ‫أو‬ ‫التنفيذي‬ ‫الرئيس‬ ‫أو‬ ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫أعضاء‬
-                      ‫‪.‬منه‬
+                      ‫التصويت بالموافقة على المكافآت والتعويضات المدفوعة لأعضاء مجلس الإدارة نظير عضويتهم والمضمنة في تقرير مجلس الإدارة للفترة من 1 يناير 2019م وحتى 31 ديسمبر 2019م.
                     </p>
                   </div>
                 </div>
                 <div class="right marginr50" style="width: 50%;" >
                   <div class="col8">
                     <h5 class="h5 colr_purple">
-                         ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫إقرارات‬                 
+                        إقرارات مجلس الإدارة             
                     </h5>
                     <p class="content_para">
-                      ‫‫إدارة‬ ‫مجلس‬ ‫‪:‬يقر‬
-                      ‫يلي‬ ‫بما‬ ‫السعودية‬ ‫ت‬ ‫تصا‬ ‫ا‬ ‫كة‬
+                      ‫‫يقر مجلس إدارة شركة الاتصالات السعودية بما يلي:
                       <br>
                       <br>
-                      ‫‫•‬
-                      ‫الصحيح‬ ‫بالشكل‬ ‫أعدت‬ ‫الحسابات‬ ‫ت‬ ‫سج‬ ‫‪.‬أن‬
+                      ‫‫
+                      ‫أن سجلات الحسابات أعدت بالشكل الصحيح.
                       <br><br>
-                      ‫بفاعلية‬ ‫ونُفذ‬ ‫سليمة‬ ‫أسس‬ ‫على‬ ‫أعد‬ ‫الداخلية‬ ‫الرقابة‬ ‫نظام‬ ‫‪.‬أن‬
+                      ‫أن نظام الرقابة الداخلية أعد على أسس سليمة ونُفذ بفاعلية.  
                       <br><br>
-                      ‫‪.‬أنه‬
-                      ‫ال‬ ‫قدرة‬ ‫بشأن‬ ‫يذكر‬ ‫شك‬ ‫أي‬ ‫المجلس‬ ‫لدى‬ ‫يوجد‬
-                      ‫•‬
+                      ‫‪أنه لا يوجد لدى المجلس أي شك يذكر بشأن قدرة الشركة على مواصلة نشاطها.
                       <br><br>
-                      ‫نشاطها‬ ‫مواصلة‬ ‫على‬ ‫كة‬
+                      ‫تم إعداد القوائم المالية الموحدة للسنة المنتهية في 31 ديسمبر 2019م وفقاً للمعايير الدولية للتقرير المالي المعتمدة في المملكة العربية السعودية والمعايير و الإصدارات الأخرى المعتمدة من الهيئة السعودية للمحاسبين القانونيين.
                       <br><br>
-                      ‫أنه‬
-                      ‫ال‬ ‫قدرة‬ ‫بشأن‬ ‫يذكر‬ ‫شك‬ ‫أي‬ ‫المجلس‬ ‫لدى‬ ‫يوجد‬
-                      ‫•‬
+                      لم تُبلّغ الشركة عن أي شخص طبيعي أو اعتباري تملك (5%) أو أكثر من الأسهم المصدرة للشركة خلال عام 2019م.
                       <br><br>
-                      ‫نشاطها‬ ‫مواصلة‬ ‫على‬ ‫كة‬
-                      ‫•‬
+                      لا يوجد أي أدوات دين قابلة للتحويل إلى أسهم أو أي حقوق خيار أو مذكرات حق اكتتاب أو حقوق مشابهة أصدرتها أو منحتها الشركة خلال عام 2019م.
                       <br><br>
-                      ‫للمعايير‬ ‫وفقاً‬ ‫م‬ ‫‪2019‬‬ ‫ديسمبر‬ ‫‪31‬‬ ‫في‬ ‫المنتهية‬ ‫للسنة‬ ‫الموحدة‬ ‫المالية‬ ‫القوائم‬ ‫إعداد‬ ‫تم‬
-                      ‫خرى‬ ‫ا‬ ‫صدارات‬ ‫ا‬ ‫و‬ ‫والمعايير‬ ‫السعودية‬ ‫العربية‬ ‫المملكة‬ ‫في‬ ‫المعتمدة‬ ‫المالي‬ ‫للتقرير‬ ‫الدولية‬
-                      ‫القانونيين‬ ‫للمحاسبين‬ ‫السعودية‬ ‫الهيئة‬ ‫من‬ ‫‪.‬المعتمدة‬
-                      ‫•‬
+                      ‫لا يوجد أي استرداد أو شراء أو إلغاء قامت به الشركة خلال عام 2019م لأي أدوات دين قابلة للاسترداد.
                       <br><br>
-                      ‫•‬
-                      ‫المصدرة‬ ‫سهم‬ ‫ا‬ ‫من‬ ‫أكثر‬ ‫أو‬ ‫‪(%‬‬ ‫‪5‬‬ ‫)‬ ‫تملك‬ ‫اعتباري‬ ‫أو‬ ‫طبيعي‬ ‫شخص‬ ‫أي‬ ‫عن‬ ‫كة‬ ‫ال‬ ‫تُبلّغ‬ ‫لم‬
-                      ‫‪2019‬م‬ ‫عام‬ ‫ل‬ ‫خ‬ ‫كة‬ ‫‪.‬لل‬
+                      ‫لا يوجد أي ترتيبات أو اتفاق تنازل بموجبه أحد أعضاء مجلس إدارة الشركة أو أحد كبار التنفيذيين عن أي راتب أو تعويض.
                       <br><br>
-                      ‫أو‬ ‫اكتتاب‬ ‫حق‬ ‫مذكرات‬ ‫أو‬ ‫خيار‬ ‫حقوق‬ ‫أي‬ ‫أو‬ ‫أسهم‬ ‫إلى‬ ‫للتحويل‬ ‫قابلة‬ ‫دين‬ ‫أدوات‬ ‫أي‬ ‫يوجد‬
-                      ‫‪2019‬م‬ ‫عام‬ ‫ل‬ ‫خ‬ ‫كة‬ ‫ال‬ ‫منحتها‬ ‫أو‬ ‫أصدرتها‬ ‫مشابهة‬ ‫‪.‬حقوق‬ ‫•‬
+                      ‫لا يوجد أي ترتيبات أو اتفاق تنازل بموجبه أحد مساهمي الشركة عن أي حقوق في الأرباح.
                       <br><br>
-                      ‫قابلة‬ ‫دين‬ ‫أدوات‬ ‫ي‬ ‫م‬ ‫‪2019‬‬ ‫عام‬ ‫ل‬ ‫خ‬ ‫كة‬ ‫•‬
-                      ‫أو‬ ‫استرداد‬ ‫أي‬ ‫يوجد‬
+                      ‫لا يوجد أي عقد تكون الشركة طرفاً فيه وتوجد أو كانت توجد فيه مصلحة جوهرية لأحد أعضاء مجلس الإدارة أو الرئيس التنفيذي أو الرئيس التنفيذي للمالية أو لأي شخص ذي علاقة بأي منهم.
                       <br><br>
-                      ‫سترداد‬ ‫‪.‬ل‬
-                      ‫ال‬ ‫به‬ ‫قامت‬ ‫إلغاء‬ ‫أو‬ ‫اء‬
+                      لم تقدم الشركة قرضاً نقدياً من أي نوع لأعضاء مجلس إدارتها أو ضمنت أي قرض عقده واحد منهم مع غيره.
                       <br><br>
-                      ‫ال‬ ‫إدارة‬ ‫مجلس‬ ‫أعضاء‬ ‫أحد‬ ‫بموجبه‬ ‫تنازل‬ ‫اتفاق‬ ‫أو‬ ‫ترتيبات‬ ‫أي‬ ‫يوجد‬
-                      ‫تعويض‬ ‫أو‬ ‫راتب‬ ‫أي‬ ‫عن‬ ‫‪.‬التنفيذيين‬
+                      لا يوجد أي حقوق خيار أو حقوق اكتتاب تعود لأعضاء مجلس الإدارة أو كبار التنفيذيين أو أزواجهم أو أولادهم القصر. 
                       <br><br>
-                      ‫ال‬ ‫مساهمي‬ ‫أحد‬ ‫بموجبه‬ ‫تنازل‬ ‫اتفاق‬ ‫أو‬ ‫ترتيبات‬ ‫أي‬ ‫يوجد‬ ‫‪.‬‬
-                      ‫كبار‬ ‫أحد‬ ‫أو‬ ‫كة‬
-                      ‫•‬
+                      إن المراجع الخارجي للشركة قد أبدى رأيه دون تحفظ على القوائم المالية الموحدة لعام 2019م.
                       <br><br>
-                      ‫•‬
-                      ‫رباح‬ ‫ا‬ ‫في‬ ‫حقوق‬ ‫أي‬ ‫عن‬ ‫كة‬
-                      <br><br>
-                      ‫•‬
-                      ‫حد‬ ‫جوهرية‬ ‫مصلحة‬ ‫فيه‬ ‫توجد‬ ‫كانت‬ ‫أو‬ ‫وتوجد‬ ‫فيه‬ ‫طرفاً‬ ‫كة‬ ‫ال‬ ‫تكون‬ ‫عقد‬ ‫أي‬ ‫يوجد‬
-                      ‫بأي‬ ‫قة‬ ‫ع‬ ‫ذي‬ ‫شخص‬ ‫ي‬ ‫أو‬ ‫للمالية‬ ‫التنفيذي‬ ‫الرئيس‬ ‫أو‬ ‫التنفيذي‬ ‫الرئيس‬ ‫أو‬ ‫دارة‬ ‫ا‬ ‫مجلس‬ ‫أعضاء‬
-                      ‫‪.‬منه‬
+                      لا يوجد توصيات من لجنة المراجعة يوجد بينها تعارض وبين قرارات مجلس الإدارة، أو رفض المجلس الأخذ بها بشأن تعيين مراجع حسابات الشركة وعزله وتحديد أتعابه وتقييم أدائه أو تعيين المراجع الداخلي.
                     </p>
                   </div>
                  

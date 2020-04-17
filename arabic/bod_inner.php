@@ -61,13 +61,34 @@
                   <div class="maskl bk_purple col3"></div>
                   <div class="maskr bk_white col5"></div>
                 </div>
-                <img src="img/bod_1.png" />
-                <p>
-                  HRH. Prince Mohammed Khalid ALFaisal
-                </p>
-                <span>
-                  Chairman of the Board
-                </span>
+                <img class="masking" src="img/chairmain_img.png" />
+                <div class="bod_info">
+                  <p>
+                    صاحب السمو الملكي الأمير/ محمد بن خالد العبد الله الفيصل
+                  </p>
+                  <span>
+                    رئيس مجلس الإدارة
+                  </span>
+                </div>
+              </div>
+            </div>
+
+            <div class="bod_list_row">
+              <div class="bod_items">
+                <div class="mask_a" style="width: 200%; height: 100%;">
+                  <div class="maskl bk_pink col2"></div>
+                  <div class="maskl bk_purple col3"></div>
+                  <div class="maskr bk_white col5"></div>
+                </div>
+                <img class="masking" src="img/Group5.png" />
+                <div class="bod_info">
+                  <p>
+                    معالي الدكتور/ خالد بن حسين بياري
+                  </p>
+                  <span>
+                    نائب رئيس مجلس الإدارة
+                  </span>
+                </div>
               </div>
             </div>
             
@@ -78,13 +99,15 @@
                   <div class="maskl bk_purple col3"></div>
                   <div class="maskr bk_white col5"></div>
                 </div>
-                <img src="img/bod_1.png" />
-                <p>
-                  HRH. Prince Mohammed Khalid ALFaisal
-                </p>
-                <span>
-                  Chairman of the Board
-                </span>
+                <img class="masking" src="img/Group6.png" />
+                <div class="bod_info">
+                  <p>
+                    الأستاذ/ راشد بن إبراهيم شريف
+                  </p>
+                  <span>
+                    عضو مجلس الإدارة
+                  </span>
+                </div>
               </div>
             </div>
 
@@ -95,13 +118,15 @@
                   <div class="maskl bk_purple col3"></div>
                   <div class="maskr bk_white col5"></div>
                 </div>
-                <img src="img/bod_1.png" />
-                <p>
-                  HRH. Prince Mohammed Khalid ALFaisal
-                </p>
-                <span>
-                  Chairman of the Board
-                </span>
+                <img class="masking" src="img/Group1.png" />
+                <div class="bod_info">
+                  <p>
+                    الدكتور/ إبراهيم بن عبد الرحمن القاضي
+                  </p>
+                  <span>
+                    عضو مجلس الإدارة
+                  </span>
+                </div>
               </div>
             </div>
 
@@ -112,13 +137,15 @@
                   <div class="maskl bk_purple col3"></div>
                   <div class="maskr bk_white col5"></div>
                 </div>
-                <img src="img/bod_1.png" />
-                <p>
-                  HRH. Prince Mohammed Khalid ALFaisal
-                </p>
-                <span>
-                  Chairman of the Board
-                </span>
+                <img class="masking" src="img/Group2.png" />
+                <div class="bod_info">
+                  <p>
+                    الأستاذ/ روي تشيستنت
+                  </p>
+                  <span>
+                   عضو مجلس الإدارة
+                  </span>
+                </div>
               </div>
             </div>
 
@@ -129,13 +156,15 @@
                   <div class="maskl bk_purple col3"></div>
                   <div class="maskr bk_white col5"></div>
                 </div>
-                <img src="img/bod_1.png" />
-                <p>
-                  HRH. Prince Mohammed Khalid ALFaisal
-                </p>
-                <span>
-                  Chairman of the Board
-                </span>
+                <img class="masking" src="img/Group3.png" />
+                <div class="bod_info">
+                  <p>
+                    الأستاذ/ أسامة بن ياسين الخياري
+                  </p>
+                  <span>
+                    عضو مجلس الإدارة
+                  </span>
+                </div>
               </div>
             </div>
 
@@ -146,13 +175,15 @@
                   <div class="maskl bk_purple col3"></div>
                   <div class="maskr bk_white col5"></div>
                 </div>
-                <img src="img/bod_1.png" />
-                <p>
-                  HRH. Prince Mohammed Khalid ALFaisal
-                </p>
-                <span>
-                  Chairman of the Board
-                </span>
+                <img class="masking" src="img/Group4.png" />
+                <div class="bod_info">
+                  <p>
+                    معالي الأستاذ/طلال بن محمد النحاس
+                  </p>
+                  <span>
+                    عضو مجلس الإدارة
+                  </span>
+                </div>
               </div>
             </div>
 
@@ -163,13 +194,15 @@
                   <div class="maskl bk_purple col3"></div>
                   <div class="maskr bk_white col5"></div>
                 </div>
-                <img src="img/bod_1.png" />
-                <p>
-                  HRH. Prince Mohammed Khalid ALFaisal
-                </p>
-                <span>
-                  Chairman of the Board
-                </span>
+                <img class="masking" src="img/Group6.png" />
+                <div class="bod_info">
+                  <p>
+                    الأستاذ/ راشد بن إبراهيم شريف
+                  </p>
+                  <span>
+                    عضو مجلس الإدارة
+                  </span>
+                </div>
               </div>
             </div>
 
@@ -180,13 +213,15 @@
                   <div class="maskl bk_purple col3"></div>
                   <div class="maskr bk_white col5"></div>
                 </div>
-                <img src="img/bod_1.png" />
-                <p>
-                  HRH. Prince Mohammed Khalid ALFaisal
-                </p>
-                <span>
-                  Chairman of the Board
-                </span>
+                <img class="masking" src="img/Group7.png" />
+                <div class="bod_info">
+                  <p>
+                    الأستاذ/ سانجاي كابور
+                  </p>
+                  <span>
+                    عضو مجلس الإدارة
+                  </span>
+                </div>
               </div>
             </div>
 
@@ -197,64 +232,15 @@
                   <div class="maskl bk_purple col3"></div>
                   <div class="maskr bk_white col5"></div>
                 </div>
-                <img src="img/bod_1.png" />
-                <p>
-                  HRH. Prince Mohammed Khalid ALFaisal
-                </p>
-                <span>
-                  Chairman of the Board
-                </span>
-              </div>
-            </div>
-
-            <div class="bod_list_row">
-              <div class="bod_items">
-                <div class="mask_a" style="width: 200%; height: 100%;">
-                  <div class="maskl bk_pink col2"></div>
-                  <div class="maskl bk_purple col3"></div>
-                  <div class="maskr bk_white col5"></div>
+                <img class="masking" src="img/Group8.png" />
+                <div class="bod_info">
+                  <p>
+                    الأستاذ/ أحمد بن محمد العمران
+                  </p>
+                  <span>
+                    عضو مجلس الإدارة
+                  </span>
                 </div>
-                <img src="img/bod_1.png" />
-                <p>
-                  HRH. Prince Mohammed Khalid ALFaisal
-                </p>
-                <span>
-                  Chairman of the Board
-                </span>
-              </div>
-            </div>
-
-            <div class="bod_list_row">
-              <div class="bod_items">
-                <div class="mask_a" style="width: 200%; height: 100%;">
-                  <div class="maskl bk_pink col2"></div>
-                  <div class="maskl bk_purple col3"></div>
-                  <div class="maskr bk_white col5"></div>
-                </div>
-                <img src="img/bod_1.png" />
-                <p>
-                  HRH. Prince Mohammed Khalid ALFaisal
-                </p>
-                <span>
-                  Chairman of the Board
-                </span>
-              </div>
-            </div>
-
-            <div class="bod_list_row">
-              <div class="bod_items">
-                <div class="mask_a" style="width: 200%; height: 100%;">
-                  <div class="maskl bk_pink col2"></div>
-                  <div class="maskl bk_purple col3"></div>
-                  <div class="maskr bk_white col5"></div>
-                </div>
-                <img src="img/bod_1.png" />
-                <p>
-                  HRH. Prince Mohammed Khalid ALFaisal
-                </p>
-                <span>
-                  Chairman of the Board
-                </span>
               </div>
             </div>
           </div>

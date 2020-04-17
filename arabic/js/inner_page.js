@@ -14,21 +14,22 @@ jQuery(window).on('load', function(){
 	  var last_played_video = localStorage.getItem("stc_last_played_video");
 
   	// console.log(last_played_video+'---'+selected_cat)
-	  if(false){
+	  // if(false){
 	  // if((last_played_video!=selected_cat) || (last_played_video==null && selected_cat==null)){
-	    localStorage.setItem("stc_last_played_video", selected_cat);
-			
-	    var video = document.getElementById('category_video');
-	    
-	    video.play();
-	    
-	    video.onended = function() {
-	    	TweenMax.to('.video_wrapper', 1.5, {left: '100%', transformOrigin: 'left center', scale: 1.3, ease: Power4.easeInOut});
-	    };
+	  
+	  if(last_played_video==null && selected_cat==null){
+	  
 	  }
-	  else{
-	  	jQuery('.video_wrapper').fadeOut(0);
-	    // alert('dont play the video');
+	  else if(last_played_video!=selected_cat){
+	  	localStorage.setItem("stc_last_played_video", selected_cat);
+	  	
+	  	var video = document.getElementById('category_video');
+	  	
+	  	video.play();
+	  	
+	  	video.onended = function() {
+	  		TweenMax.to('.video_wrapper', 1.5, {top: '-100%', transformOrigin: 'left center', scale: 1, ease: Power4.easeInOut});
+	  	};
 	  }
 	}
 
@@ -103,6 +104,19 @@ jQuery(window).on('load', function(){
 	}, 3000)
 
 });
+
+
+jQuery('document').ready(function(){
+
+	// if theres no value set for stc_selected_category & stc_last_played_video, remove video section from the DOM
+		var selected_cat = localStorage.getItem("stc_selected_category");
+		var last_played_video = localStorage.getItem("stc_last_played_video");
+
+		if((selected_cat==null && last_played_video==null) || (last_played_video==selected_cat)){
+			jQuery('.video_wrapper').remove();
+		}
+	// if theres no value set for stc_selected_category & stc_last_played_video, remove video section from the DOM
+})
 
 if(jQuery('body').hasClass('landing_screen')){
 }
