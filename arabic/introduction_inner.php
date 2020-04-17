@@ -37,7 +37,7 @@
       </div>
       <div class="tabular_data">
         <h5 class="h5 colr_purpleLight">‫‪
-           الشركات الزميلة: 
+           : الشركات الزميلة  
         </h5>
         <div class="c_row first bk_purple">
           <div>‫
@@ -357,7 +357,7 @@
 
        <div class="tabular_data">
         <h5 class="h5 colr_purpleLight">‫‪
-         ‫‫ ‫‪المشاريع المشتركة:
+         ‫‫ ‫‪:المشاريع المشتركة 
         </h5>
         <div class="c_row first bk_purple">
           <div>‫

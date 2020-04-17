@@ -15,7 +15,7 @@
   <div class="cont_right bk_purple">
     <div class="screentop_para">
       <h1>
-        <span class="h1 colr_white bk_pink">قیمنا  </span>
+        <span class="h1 colr_white bk_pink">قيمنا </span>
       </h1>
     </div>
   </div>
