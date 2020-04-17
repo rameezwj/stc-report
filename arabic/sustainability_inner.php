@@ -8,9 +8,7 @@
     require_once 'short_menu.php';
     require_once 'vwipes_loader.php';
   ?>
-  <style type="text/css">
-    
-  </style>
+  
   <div class="page_sustainability">
     <div class="screentop_para">
       <h1>
