@@ -2832,6 +2832,7 @@ span.h1 {
   /*font-weight: bold;*/
   color: #fff;
   cursor: pointer;
+  display: none;
 }
 
 .cursor {
@@ -6468,7 +6469,6 @@ span.h1 {
   .page_consolidate_financials {
     position: relative;
     overflow: auto;
-    /* height: 100%; */
   }
   .page_consolidate_financials .cont_left {
     width: 40%;
@@ -6482,10 +6482,9 @@ span.h1 {
     position: relative;
   }
   .page_consolidate_financials .cont_right {
-    width: 60%;
+    width: 59%;
     float: left;
     height: 100vh;
-    /* overflow: auto; */
     background-color: #fff;
     position: relative;
   }
@@ -6504,11 +6503,8 @@ span.h1 {
     }
     .financials_pdfs_wrapper > div > div {
         width: 50%;
-        /*height: 56px;*/
     }
     .financials_pdfs_wrapper div:nth-child(2){
-      /*margin-top: 38px;
-      margin-left: -1px;*/
     }
     .financials_pdfs_wrapper a{
       width: 100%;
@@ -6553,7 +6549,6 @@ span.h1 {
       background: #ff375e;
       padding: 10px 20px;
       text-align: left;
-      /* width: 250px; */
       float: right;
       text-align: right;
       display: -webkit-box;
@@ -6578,10 +6573,114 @@ span.h1 {
       font-family: "stc_bolder";
       margin: 10px 0;
     }
-    .ch_num b {a
+    .ch_num b {
       color: #fff;
       font-weight: normal;
     }
+
+    .page_consolidate_financials .ch_num_left table tr td:first-child {
+      width: 40%;
+      font-size: 12px;
+      line-height: 15px;
+      padding: 10px 0;
+      color: #fff;
+      vertical-align: middle;
+    }
+
+    .page_consolidate_financials .ch_num_left table tr td:last-child {
+      width: 60%;
+      padding: 10px;
+      vertical-align: middle;
+    }
+
+    .page_consolidate_financials .ch_num_left table tr td:last-child span {
+      display: block;
+      font-size: 30px;
+      font-weight: bold;
+      color: #fff;
+      font-family: "stc_bolder";
+    }
+
+    .page_consolidate_financials .ch_num_left table tr td:last-child b {
+      color: #fff;
+      font-size: 15px;
+      font-weight: normal;
+    }
+
+    .page_consolidate_financials .ch_num_left {
+      padding: 0 20px 0 0;
+      border: 1px solid #ff375e;
+      width: 100%;
+      float: right;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+    }
+
+    .page_consolidate_financials .ch_num_left table {
+      width: 100%;
+    }
+
+    .page_consolidate_financials .ch_num_left table tr td {
+      vertical-align: top;
+    }
+
+      /*SNIPPET*/
+       .page_consolidate_financials .snip_row .snip_price{
+
+                width: 300px;
+                height: 100px;
+                display: flex;
+                align-items: center;
+            }
+             .page_consolidate_financials .snip_row .snip_price .right{
+                height: 100%;
+                width: 100px;
+                display: inline-flex;
+                order: 1;
+                border: 1px solid #a54ee1;
+                align-items: center;
+                justify-content: center;
+             }
+             .page_consolidate_financials .snip_row .snip_price .left{
+                height: 100%;
+                display: inline-flex;
+                align-items: center;
+                order: 2;
+                width: calc( 100% - 100px);
+                justify-content: center;
+             }
+            .page_consolidate_financials .snip_row .snip_price .left span{
+              font-size: 36px;
+              font-weight: bold;
+              font-family: "stc_bolder";
+            }
+            .page_consolidate_financials .snip_row .snip_price  .left span b{
+              font-size: 14px;
+              position: relative;
+              display: block;
+              font-family: "stc_light";
+             }
+            .page_consolidate_financials .snip_row .snip_table {
+              position: relative;
+             transform: translateX(-300px);
+             display: inline-flex;
+             width: 250px;
+            }
+             .page_consolidate_financials .snip_row .snip_txt{
+            height: 100px;
+            width: 100px;
+            transform: translateX(-300px);
+            border: 1px solid #a54ee1;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+
+            }
+      /*SNIPPET*/
 /*consolidate financials*/
 
 

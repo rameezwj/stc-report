@@ -20,7 +20,7 @@
         </h1>
       </div>
 
-      <!-- <div class="horizontal_fBox snipit" style="margin-right: 150px; overflow: visible; margin-top: 50px;">
+      <div class="horizontal_fBox snipit" style="margin-right: 150px; overflow: visible; margin-top: 50px;">
         <div class="snipit_img" style="border: 1px solid #a54ee1;">
             <img src="img/icons/icon_a.png" alt="">
         </div>
@@ -35,41 +35,7 @@
             صافي الربح 
           </p>
         </div>
-      </div> -->
-      
-      <div class="snip_row">
-        <div class="snip_txt">
-          <p class="colr_white">صافي الربح</p>
-        </div>
-        <div class="snip_price">
-          <div class="right">
-            <img src="img/icons/icon_a.png" alt="">
-          </div>
-          <div class="left bk_purple2 colr_white">
-            <span>
-               10,665
-              <b> مليون ريال سعودي  </b>
-            </span>
-            
-          </div>
-        </div>
-        <div class="snip_table">
-          <div class="ch_num_left">
-            <table>
-              <tbody><tr>
-                <td> إجمالي   <br> الربح  </td>
-                <td> <span> 32,391 </span> <b> مليون ريال سعودي   </b> </td>
-              </tr>
-              <tr>
-                <td> بإرتفاع  <br> قدره  </td>
-                <td> <span> 6.29% </span> </td>
-              </tr>
-            </tbody></table>
-          </div>
-        </div>
       </div>
-
-
 
       <div class="ch_num">
         <div>
@@ -174,11 +140,11 @@
   </div>
 
   <!-- video section | consolidate_financials -->
-   <!--  <div class="video_wrapper" style="z-index: 99; width: 100%; height: 100vh; position: fixed; top: 0;">
+    <div class="video_wrapper" style="z-index: 99; width: 100%; height: 100vh; position: fixed; top: 0;">
       <video id="category_video" playsinline="" xmuted style="width: 100%; height: 100vh; object-fit: cover; ">
         <source src="video/cat_4.mp4" type="video/mp4">
       </video>
-    </div> -->
+    </div>
   <!-- video section | consolidate_financials -->
 
   <?php require_once 'scripts.php'; ?>
