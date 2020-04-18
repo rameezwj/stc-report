@@ -114,6 +114,12 @@ jQuery('document').ready(function(){
     jQuery('body').css({'overflow': 'auto'});
     jQuery('.loader-wrapper').addClass('loaded');
 
+    // remove loader once the page is loaded
+      TweenMax.to('.lds-ring', .3, {scale: .8, opacity: 0});
+      TweenMax.staggerFromTo('.vertical_wipes_wrapper > div.vwipes', .7, {left: 0, transformOrigin: 'center top'}, {left: '100%', transformOrigin: 'center top', ease: Power4.easeInOut}, .1);
+      TweenMax.to('.vertical_wipes_wrapper', 0, {display: 'none', delay: 3});
+    // remove loader once the page is loaded
+ 
     anim_landing();
     anim_shortmenu();
     

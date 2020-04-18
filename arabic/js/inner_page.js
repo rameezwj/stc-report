@@ -1,12 +1,12 @@
 jQuery(window).on('load', function(){
 
-	// if users are on innerpage, hide vertical wipes on page load
+	/*// if users are on innerpage, hide vertical wipes on page load
 	  if(jQuery('body').hasClass('page_inner')){
 	  	TweenMax.to('.lds-ring', .3, {scale: .8, opacity: 0});
 	    TweenMax.staggerFromTo('.vertical_wipes_wrapper > div.vwipes', .7, {left: 0, transformOrigin: 'center top'}, {left: '100%', transformOrigin: 'center top', ease: Power4.easeInOut}, .1);
 	    TweenMax.to('.vertical_wipes_wrapper', 0, {display: 'none', delay: 3});
 	  }
-	// if users are on innerpage, hide vertical wipes on page load
+	// if users are on innerpage, hide vertical wipes on page load*/
 	
 
 	if(!(jQuery('body').hasClass('landing_screen'))){

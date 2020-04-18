@@ -2921,7 +2921,7 @@ span.h1 {
   z-index: 999;
   width: 100vw;
   height: 100vh;
-  display: none;
+  display: block;
 }
 
 .vertical_wipes_wrapper>div.vwipes {
@@ -6578,7 +6578,7 @@ span.h1 {
       font-family: "stc_bolder";
       margin: 10px 0;
     }
-    .ch_num b {
+    .ch_num b {a
       color: #fff;
       font-weight: normal;
     }
@@ -6590,6 +6590,54 @@ span.h1 {
     position: relative;
     overflow: auto;
     /* height: 100%; */
+  }
+  .page_highlights .spc_wrap{
+        display: flex;
+    position: relative;
+    width: 50%;
+  }
+  .page_highlights .spc_wrap .img-wrap,
+  .page_highlights .spc_wrap .bar-wrap{
+
+
+  }
+  .page_highlights .spc_wrap .img-wrap{
+    height: 250px; 
+    width: 100%;
+  }
+   .page_highlights .spc_wrap .img-wrap img{
+    object-fit: cover;
+    object-position: center;
+    height: 100%;
+    width: 100%;
+   }
+  .page_highlights .s4_wrap{
+    z-index: 1;
+    left: -240px;
+    width: 700px;
+    bottom:20px;
+    display: flex;
+    align-content: center;
+  }
+  .page_highlights .s4_wrap .right .s4{
+      padding-left: 60px;
+    padding-right: 40px;
+  
+  }
+  .page_highlights .s4_wrap .right{
+    width: calc( 100% - 200px ); 
+        display: flex;
+    align-items: center;
+    float: right;
+    position: relative;
+  }
+  .page_highlights .s4_wrap .right:after{
+    content: '';
+    clear: both;
+    display: table;
+  }
+  .page_highlights .s4_wrap .left{
+    position: relative;width: 200px;float: left;
   }
   .page_highlights .cont_left {
     width: 50%;
@@ -6633,6 +6681,53 @@ span.h1 {
     top: 200px;
     width: 70%;
     left: -100px;
+  }
+
+  .page_highlights .high_text {
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    right: calc( 100% - 70px );
+    top: 50%;
+    /* right: 0; */
+    display: flex;
+    transform: translateY(-50%);
+  }
+
+  .page_highlights .high_text span {
+        display: inline-block;
+    width: calc( 100% - 70px );
+    float: left;
+    padding: 20px 10px;
+    overflow: hidden;
+    height: 100%;
+    display: inline-flex;
+    order: 2;
+    box-sizing: border-box;
+  }
+
+  .page_highlights .high_text i {
+    display: inline-block;
+    width: 70px;
+       display: inline-flex;
+    order: 1;
+    align-items: center;
+    float: right;
+
+  }
+  .page_highlights .high_text i img{
+    margin:0 auto;
+  }
+  .page_highlights .summary_btns_a .summary_btns{
+    position: absolute;left: -150px;bottom: 50px;
+  }
+  .page_highlights .summary_btns_a img{
+    position: relative;
+    width: 100%;
+    float: left;
+  }
+  .page_highlights .summary_btns_b .summary_btns{
+    position: absolute; left: 300px; top: 300px;
   }
   .s4_wrap{
     position: absolute;
