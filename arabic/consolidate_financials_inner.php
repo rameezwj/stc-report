@@ -174,11 +174,11 @@
   </div>
 
   <!-- video section | consolidate_financials -->
-   <!--  <div class="video_wrapper" style="z-index: 99; width: 100%; height: 100vh; position: fixed; top: 0;">
+    <div class="video_wrapper" style="z-index: 99; width: 100%; height: 100vh; position: fixed; top: 0;">
       <video id="category_video" playsinline="" xmuted style="width: 100%; height: 100vh; object-fit: cover; ">
         <source src="video/cat_4.mp4" type="video/mp4">
       </video>
-    </div> -->
+    </div>
   <!-- video section | consolidate_financials -->
 
   <?php require_once 'scripts.php'; ?>
