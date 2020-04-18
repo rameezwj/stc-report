@@ -49,9 +49,9 @@
         <a href="javascript: void(0)" data-page-link="introduction_inner" class="hover-this">
           المقدمة
         </a>
-        <a href="javascript: void(0)" data-page-link="financials_inner" class="hover-this">
+        <!-- <a href="javascript: void(0)" data-page-link="financials_inner" class="hover-this">
           ملخص الامور المالية 
-        </a>
+        </a> -->
       </div>
 
       <div class="submenu_content submenu_2" data-parent-category="2" >
@@ -77,7 +77,7 @@
         <a href="javascript: void(0)" data-page-link="investment_inner" class="hover-this">
           أ‌- الاستثمارات المسجلة وفق طريقة حقوق الملكية 
         </a>
-        <a href="javascript: void(0)" data-page-link="xfinancials_inner" class="hover-this">
+        <a href="javascript: void(0)" data-page-link="financials_inner" class="hover-this">
           الأداء المالي للمجموعة 
         </a>
         <a href="javascript: void(0)" data-page-link="strategy_inner" class="hover-this">
