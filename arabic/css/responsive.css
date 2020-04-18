@@ -209,6 +209,73 @@
       padding: 40px 40px;
     }
   /*values*/
+
+  /*consolidated financial*/
+    .financials_pdfs_wrapper a{
+      padding: 19px 30px;
+    }
+    .financials_pdfs_wrapper a b{
+      width: 60px;
+    }
+    .page_consolidate_financials .horizontal_fBox.snipit{
+      margin-top: 200px !important;
+      margin-right: 200px !important;
+    }
+    .page_consolidate_financials .ch_num{
+      /*margin-top: 150px;*/
+    }
+    .page_creation_bod_conclusion .cont_right .content_para{
+      font-size: 22px;
+      line-height: 44px;
+    }
+    .page_creation_bod_conclusion .cont_left .content_para{
+      /*font-size: 22px;*/
+      line-height: 35px;
+    }
+  /*consolidated financial*/
+
+  /*strategy*/
+    .page_strategy .cont_left p{
+      font-size: 17px;
+      line-height: 38px;
+      width: calc( 100% - 200px );
+    }
+    .page_strategy .cont_left .content_para_big{
+      font-size: 24px;
+      line-height: 45px;
+    }
+    .page_strategy .cont_right .text_high_content p{
+      line-height: 30px;
+      font-size: 16px;
+    }
+  /*strategy*/
+
+  /*serving pilgrims*/
+    .page_serving_pilgrams .cont_left p{
+      margin-top: 50px;
+      font-size: 17px;
+      line-height: 33px;
+    }
+    .page_inner .content_para {
+      line-height: 30px;
+      font-size: 16px;
+    }
+  /*serving pilgrims*/
+
+  /*content para for inner pages*/
+    .page_inner .content_para{
+      font-family: "stc_light";
+    }
+  /*content para for inner pages*/
+
+  /* financial highlights*/
+    .page_highlights .s1{
+      top: 150px;
+    }
+    .page_highlights .s2{
+      width: 75%:;
+    }
+  /* financial highlights*/
 }
 
 @media screen and (max-width: 1500px) and (min-height: 777px){

@@ -1,3 +1,12 @@
+.flex{
+    flex: 50% 0 0  !important;
+}
+.marginb20{
+    margin-bottom: 20px  !important;
+}
+.marginb10{
+    margin-bottom: 10px  !important;
+}
 .border-r-0{
     border-right: 0 !important;
 }
@@ -139,9 +148,7 @@
     height: 552px;
 } */
 .glb-sec-2-rep-3 .glb-sec-2-left-inr img{
-    max-height: 342px;
-    object-fit: cover;
-    object-position: center top;
+    /*max-height: 342px;*/
 }
 
 .glb-sec-2-right{
@@ -518,5 +525,372 @@
   
   
   /*global section7 css end */
+
+  
+    /*page_operations*/
+
+
+
+.page_operations .cwrapper{
+    overflow: hidden;
+    margin: 100px 0 0 0;
+}
+.page_operations .screentop_para {
+    margin: 50px 50px 0 0;
+    overflow: hidden;
+    display: inline-block;
+    position: relative;
+}
+.page_operations .img_wrap{
+    position: relative;
+  }
+.page_operations .right{ float: right; margin-right: 50px; }
+.page_operations .left{ float: left; margin-top: 0px; text-align: left; position: relative; }
+.page_operations .operation_faqs {
+    overflow: hidden;
+    position: relative;
+    width: calc( 100% - 100px );
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.page_operations .operation_faqs .faq_listing{
+    float: right;
+    width: 40%;
+    margin-left: 10%;
+}
+
+.page_operations .operations_table{
+    width: calc( 100% - 100px );
+    overflow: hidden;
+    margin: 100px 50px;
+}
+
+.page_operations .tabular_data{
+  width:calc( 100% - 100px );
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.page_operations .tabular_data .c_row{
+    display: flex;
+}
+  .page_operations .tabular_data .c_row div{
+    flex: 1;
+    padding: 40px;
+    width: calc( 100% / 4 );
+    text-align: center;
+    color: #4f0f8c;
+    border: 1px solid #4f0f8c;
+    border-left: none;
+    display: inline-flex; 
+    word-break: break-word;
+    align-items: center;
+    border-bottom: none;
+    transition: all 0.2s ease-in;
+  }
+  .page_operations .tabular_data .c_row div:last-child{
+    border-left: 1px solid #4f0f8c;
+  }
+  .page_operations .tabular_data .c_row:last-child div{
+    border-bottom: 1px solid #4f0f8c; 
+  }
+  .page_operations .tabular_data .tabular_data_inner .c_row:hover div:first-child{
+    background: #FF375E;
+  }
+  .page_operations .tabular_data .tabular_data_inner .c_row div:first-child{
+    text-align: center;
+    justify-content: center;
+  }
+  
+  .page_operations .tabular_data .tabular_data_inner .c_row:hover div{
+    background: #4f0f8c;
+    color: #fff;
+  }
+  .page_operations .tabular_data .c_row.second div  {
+      padding: 10px;
+    }
+  .page_operations .tabular_data .c_row.first {
+    margin-bottom: 20px;
+  }
+  .page_operations .tabular_data .c_row.first div{
+    border:none;
+    border-left: 1px solid #fff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    flex:20% 0 0;
+  }
+  .page_operations .tabular_data .c_row.first div.last{
+    padding: 0;
+    flex-wrap: wrap;
+    border-left: 0;
+    flex: 1;
+    align-items: initial;
+  }
+    
+   /*page operations*/
+  
+
+
+  /*Risk Css Start*/
+                                    
+.riskTop_para{margin: 50px;}
+.col4-5i{width: 45% !important;}
+.col5-5i{width: 55% !important;}
+.smallFs{font-size: small;}
+.marginr5 {margin-right: 50px !important;}
+.upBarNew .upBarNew-w{float: left;}
+.img-container {
+              width: 60%;
+              float: left;
+              position: relative;
+              top: 40px;
+              }
+.upBarNew-w { position: relative;
+            width: 75% !important;}
+
+.upBarNew-r{right: -28px !important;
+            top: -28px !important;}  
+.img-container {
+                width: 70%;
+                position: relative;
+                top: 40px;}
+.img-container img {
+                    width: 100%;
+                      }
+.risks_right{float: left;}
+.risks_left{float: right;}
+
+.img-cont-inner-div{padding: 30px 60px 30px 60px;
+    width: 80%;
+    font-size: 20px;
+    bottom: -50px;
+    position: absolute;
+    right: -100px;
+}
+
+.pageRisks_banner{
+    
+    margin-bottom: 10px !important;
+padding-bottom: 90px;}
+
+/*glb-sec-risk*/
+
+.glb-sec-risk {
+    margin-bottom: 80px;
+}
+.glb-sec-risk-right{
+    display: inline-block;
+}
+.glb-sec-risk-right img{
+    max-width: 100%;
+}
+.glb-sec-risk-left{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 60px;
+}
+/*glb-sec-risk*/
+
+/*Risk Css Start*/
+
+/* Risks Css Section 4 start*/
+
+/*page_operations*/
+.page_operations .cwrapper{
+    overflow: hidden;
+    margin: 100px 0 0 0;
+  }
+  .page_operations .screentop_para {
+    margin: 50px 50px 0 0;
+    overflow: hidden;
+    display: inline-block;
+    position: relative;
+  }
+  .page_operations .img_wrap{
+    position: relative;
+  }
+  .page_operations .right{ float: right; margin-right: 50px; }
+  .page_operations .left{ float: left; margin-top: 0px; text-align: left; position: relative; }
+  .page_operations .operation_faqs {
+    overflow: hidden;
+    position: relative;
+    width: calc( 100% - 100px );
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .page_operations .operation_faqs .faq_listing{
+    float: right;
+    width: 40%;
+    margin-left: 10%;
+  }
+
+  .page_operations .operations_table{
+    width: calc( 100% - 100px );
+    overflow: hidden;
+    margin: 100px 50px;
+  }
+
+  .page_operations .tabular_data{
+  /*width:calc( 100% - 100px );*/
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+  }
+  .page_operations .tabular_data .c_row{
+    display: flex;
+  }
+  .page_operations .tabular_data .c_row div{
+    flex: 1;
+    padding: 40px;
+    width: calc( 100% / 4 );
+    text-align: center;
+    color: #4f0f8c;
+    border: 1px solid #4f0f8c;
+    border-left: none;
+    display: inline-flex; 
+    word-break: break-word;
+    align-items: center;
+    border-bottom: none;
+    transition: all 0.2s ease-in;
+  }
+  .page_operations .tabular_data .c_row div:last-child{
+    border-left: 1px solid #4f0f8c;
+  }
+  .page_operations .tabular_data .c_row:last-child div{
+    border-bottom: 1px solid #4f0f8c; 
+  }
+  .page_operations .tabular_data .tabular_data_inner .c_row:hover div:first-child{
+    background: #FF375E;
+  }
+  .page_operations .tabular_data .tabular_data_inner .c_row div:first-child{
+    text-align: center;
+    justify-content: center;
+  }
+  .page_operations .tabular_data .tabular_data_inner .c_row:hover div{
+    background: #4f0f8c;
+    color: #fff;
+  }
+  .page_operations .tabular_data .c_row.second div  {
+      padding: 10px;
+    }
+  .page_operations .tabular_data .c_row.first {
+    margin-bottom: 20px;
+  }
+  .page_operations .tabular_data .c_row.first div{
+    border:none;
+    border-left: 1px solid #fff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    flex:20% 0 0;
+  }
+  .page_operations .tabular_data .c_row.first div.last{
+    padding: 0;
+    flex-wrap: wrap;
+    border-left: 0;
+    flex: 1;
+    align-items: initial;
+  }
+/*page operations*/
+/*page operations new Start*/
+
+/*page operations new End*/
+
+.c-row-New{flex: 100% !important;
+           display: flex;
+            flex-direction: column;
+            padding:0px !important;}
+
+.c-row-New-b{ border:none !important;
+              width: 100% !important;
+              border-top: 1px solid white !important;
+              padding: 0 !important;} 
+
+.c-row-New-t{border:none !important;
+            padding: 6px 0 !important;
+            width: 100%;
+            margin-top: -15px;}  
+
+.c-row-New-b-r{border:none !important;
+              width: 100% !important;
+              flex: 50% !important;
+              padding: 6px 0 !important;
+              border-left: 1px solid white !important; }   
+.c-row-New-b-l{border:none !important;
+              width: 100% !important;
+              flex: 50% !important;
+              padding: 6px 0 !important; }   
+
+
+/* Risks Css Section 4 end*/
+
+.risk-sec6{
+    font-size: 0;
+    padding: 60px 0px 65px 0px;
+}
+.risk-sec6 > p{
+    font-size: 14px;
+}
+.risk-sec6 .col5, .risk-sec6 .col5{
+    display: inline-block;
+}
+.table1{
+    width: 90%;
+    font-size: 14px;
+    color: #fff;
+    border-spacing: 0;
+}
+.table1 .tr1-a .c2{
+    border-right: 0;
+}
+.pad{
+    padding: 66px 44px 64px 63px
+}
+.rec6-inr{
+    font-size: 14px;
+}
+
+/* Risks Css Section 8 start*/
+.sec-8-l-inner{
+    float: left;
+    top: 70px;
+    position: relative;
+    width: 80%;
+    }
+/* Risks Css Section 8 end*/
+
+/* Risks Css Section 9 start*/
+.sec-9-r-inner img{width: 100%}
+.sec-9-l-inner{width: 80%;
+    position: relative;
+    float: left;
+    top: 150px;}
+
+.marginb20{margin-bottom: 20px !important;}
+
+/* Risks Css Section 9 end*/
+
+/* Risks Css Section 12 start*/
+.directionTd2{padding: 10px !important;}
+/* Risks Css Section 12 start*/
+.marginb30 {
+    margin-bottom: 30px !important;
+  }
+  .marginb0 {
+    margin-bottom: 0px !important;
+  }
+  .justify{justify-content: center;}
+  .overflow-hidden{overflow:hidden}
+  .operations_table-new{margin-top: 0px !important;}
+/*Risk Css Start*/
+
+
                                     
 

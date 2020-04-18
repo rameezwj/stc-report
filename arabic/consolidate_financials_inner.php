@@ -20,7 +20,7 @@
         </h1>
       </div>
 
-      <div class="horizontal_fBox snipit" style="margin-right: 50px; overflow: visible; margin-top: 50px;">
+      <div class="horizontal_fBox snipit" style="margin-right: 150px; overflow: visible; margin-top: 50px;">
         <div class="snipit_img" style="border: 1px solid #a54ee1;">
             <img src="img/icons/icon_a.png" alt="">
         </div>

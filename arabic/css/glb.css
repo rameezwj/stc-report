@@ -867,11 +867,11 @@ padding-bottom: 90px;}
 /* Risks Css Section 8 end*/
 
 /* Risks Css Section 9 start*/
-.sec-9-r-inner img{width: 100%}
+.sec-9-r-inner img, .sec-8-l-inner img{width: 100%}
 .sec-9-l-inner{width: 80%;
     position: relative;
     float: left;
-    top: 150px;}
+    margin-top: 150px;}
 
 .marginb20{margin-bottom: 20px !important;}
 

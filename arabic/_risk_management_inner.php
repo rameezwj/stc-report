@@ -7,13 +7,14 @@
   <?php
     require_once 'menu_screen.php';
     require_once 'short_menu.php';
+    require_once 'vwipes_loader.php';
   ?>
   
 
   <!-- Page Risks start-->
 <!-- Page Risks Section 1 start-->
 
-<div class="bk_white pageRisks_banner clearfix overflow-hidden">
+<div class="page_inner bk_white pageRisks_banner clearfix overflow-hidden">
     
   <div class="risks_left col4-5i ">
 
@@ -653,7 +654,7 @@
     <div class=" outer_wrapper bk_purple risk-sec6">
       <div class="col5">
           <div class="glb-sec-2-right glb-sec-2-right-new">
-            <p class="content_para">المعاملات التجارية والارصدة مع الجهات ذات العلاقة</p>
+            <p>المعاملات التجارية والارصدة مع الجهات ذات العلاقة</p>
             <table>
                 <tr class="tr1 tr1-a bk_purple2">
                   <th class="c1 tri-a-btm-1 tri-a-left tri-a-top" >(البيان ( الام الريالات </th>
@@ -675,12 +676,12 @@
       </div>
       <div class="col5 colr_white">
           <div class="rec6-inr marginb20">
-            <p class="col9 content_para">عمليات البيع والشراء من الجهات ذات العلاقة وفقا لشروط التعامل العادية. ان الرصدة القائمة غیرمضمونة
+            <p class="col9">عمليات البيع والشراء من الجهات ذات العلاقة وفقا لشروط التعامل العادية. ان الرصدة القائمة غیرمضمونة
                 وبدون عمولة ولم يتم تقديم او استلام أي ضمانات بشأن المبالغ المستحقة من أو إلى الجهات ذات العلاقة
             </p>
           </div>
           <div class="rec6-inr">
-            <p class="colr_white marginb20 content_para"> المعاملات التجارية والارصدة مع الجهات ذات العلاقة</p>
+            <p class="colr_white marginb20"> المعاملات التجارية والارصدة مع الجهات ذات العلاقة</p>
             <table class="table1">
                 <tr class="tr1 tr1-a bk_purple2">
                   <th class="c1 tri-a-btm-1 tri-a-left tri-a-top" >(البيان ( الام الريالات </th>
@@ -792,9 +793,16 @@
   <!-- Page risk  End-->      
   
 
-
+  <!-- video section | consolidate_financials -->
+    <div class="video_wrapper" style="z-index: 99; width: 100%; height: 100vh; position: fixed; top: 0;">
+      <video id="category_video" playsinline="" xmuted style="width: 100%; height: 100vh; object-fit: cover; ">
+        <source src="video/cat_3.mp4" type="video/mp4">
+      </video>
+    </div>
+  <!-- video section | consolidate_financials -->
 
   <?php require_once 'scripts.php'; ?>
+  <script type="text/javascript" src="js/inner_page.js"></script>
 </body>
 
 </html>
