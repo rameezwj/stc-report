@@ -140,6 +140,7 @@
             </div>
             <div class="snipit_price">
               <span>
+                7.21%
                 <b> بإرتفاع قدره  </b>
               </span> 
             </div>
