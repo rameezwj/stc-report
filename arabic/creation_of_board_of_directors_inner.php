@@ -382,7 +382,7 @@
     .page_contribution_1 .img_wrap{
       position: absolute;
       bottom: 40px;
-      z-index: 9;
+      z-index: 2;
       /* right: 0; */
       height: 30px;
       left: -29px;

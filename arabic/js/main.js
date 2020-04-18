@@ -92,7 +92,7 @@ jQuery('document').ready(function(){
   jQuery(window).scroll(function(){
 
     if(jQuery(this).scrollTop()>50){
-      TweenMax.to('.short_menu', .2, {x: -50, opacity: 0, ease: Linear.easeNone})
+      // TweenMax.to('.short_menu', .2, {x: -50, opacity: 0, ease: Linear.easeNone})
 
       if(current_slide==3 || jQuery('body').hasClass('page_inner')){
         TweenMax.to('.charimans_numbers', .2, {x: 50, opacity: 0, ease: Linear.easeNone})
@@ -100,7 +100,7 @@ jQuery('document').ready(function(){
       }
     }
     else{
-      TweenMax.to('.short_menu', .2, {x: 0, opacity: 1, ease: Linear.easeNone})
+      // TweenMax.to('.short_menu', .2, {x: 0, opacity: 1, ease: Linear.easeNone})
       if(current_slide==3 || jQuery('body').hasClass('page_inner')){
         TweenMax.to('.charimans_numbers', .2, {x: 0, opacity: 1, ease: Linear.easeNone})
         TweenMax.to('.ceo_numbers', .2, {x: 0, opacity: 1, ease: Linear.easeNone})
@@ -308,9 +308,15 @@ jQuery('document').ready(function(){
       setTimeout(function(){
         jQuery('.mmenu_back').trigger('click');
       }, 1000)
-
+      
       if(jQuery('.menu_screen_wrapper').hasClass('reveal_mmenu')){
-        TweenMax.to('.short_menu', 1, {left: 0, ease: Power4.easeInOut})
+
+        if(jQuery('body').hasClass('page_inner')){
+          TweenMax.to('.short_menu', 1, {left: '-120px', ease: Power4.easeInOut})
+        }
+        else{
+          TweenMax.to('.short_menu', 1, {left: 0, ease: Power4.easeInOut})
+        }
         TweenMax.to('.short_menu ul li', 1, {background: '#FF375E', ease: Power4.easeInOut})
 
         jQuery('.menu_screen_wrapper').toggleClass('reveal_mmenu');
