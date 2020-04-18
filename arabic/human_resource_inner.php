@@ -162,7 +162,6 @@
         position: relative;
         order: 1;
         min-height: 250px;
-        display: inline-flex;
         align-items: center;
         padding: 30px;
         border: 1px solid #4f0f8c;
